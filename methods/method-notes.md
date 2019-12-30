@@ -12,4 +12,4 @@ Neighborhoods and Dates
 - Montlake - June 29, July 14 and July 19
 - Ravenna - June 30
 
-Should get from May (Central, Columbia, QA, Northgate, Laurelhust) and then July (Phinney, Montlake, Ravenna)
+Should get from May (Central, Columbia, QA, Northgate, Laurelhust, Phinney) and then July (Montlake, Ravenna)
