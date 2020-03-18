@@ -1,98 +1,277 @@
 yrpub,count,neighborhood,collection,type,age,category1,category2,languages,originalLang
+2019,1,Central District,CentralDistrict1,Nonfiction,Adult,Cultural Studies,Null,English,English
+1992,1,Central District,CentralDistrict1,Fiction,Adult,Novel,Null,English,English
+2007,1,Central District,CentralDistrict1,Fiction,Adult,Religion,Null,English,English
+2006,1,Central District,CentralDistrict1,Fiction,Adult,Thriller/Suspense,Novel,English,English
 1990,1,Central District,CentralDistrict2,Fiction,Adult,Anthology/Essays/Short stories,Null,English,
 1989,1,Central District,CentralDistrict2,Fiction,Adult,Anthology/Essays/Short stories,Null,English,
 1975,1,Central District,CentralDistrict2,Fiction,Adult,Anthology/Essays/Short stories,Null,English,
-2012,1,Central District,CentralDistrict5,Fiction,Adult,Anthology/Essays/Short stories,Null,,
-1996,1,Columbia City,ColumbiaCity2,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
-2019,1,Columbia City,ColumbiaCity3,Nonfiction,Adult,Anthology/Essays/Short stories,Null,English,English
-2007,1,Columbia City,ColumbiaCity3,Nonfiction,Adult,Anthology/Essays/Short stories,Null,English,English
-1996,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
-1991,1,Montlake,Montlake5,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
-1997,1,Northgate,Northgate1,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
-2019,1,Northgate,Northgate2,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
-2019,1,Northgate,Northgate2,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
-2004,1,Northgate,Northgate3,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
-1985,1,Northgate,Northgate5,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
-2012,1,Phinney-Greenwood,Phinney-Green4,Nonfiction,Adult,Anthology/Essays/Short stories,Null,English,
-2005,1,Phinney-Greenwood,Phinney-Green4,Fiction,Young Adult,Anthology/Essays/Short stories,Null,English,English
-2001,1,Queen Anne,QueenAnne3,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
-1998,1,Queen Anne,QueenAnne4,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
-1989,1,Ravenna,Ravenna2,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
-2007,1,Columbia City,ColumbiaCity4,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
-1988,1,Central District,CentralDistrict6,Nonfiction,Adult,Art,Null,English,English
-1946,1,Columbia City,ColumbiaCity4,Nonfiction,Adult,Art,Null,,
-2001,1,Columbia City,ColumbiaCity4,Nonfiction,Adult,Art,Null,English,English
-2007,1,Laurelhurst,Laurelhurst4,Nonfiction,Adult,Art,Null,English,English
-1979,1,Montlake,Montlake2,Nonfiction,Adult,Art,History,English,English
-1983,1,Montlake,Montlake4,Nonfiction,Adult,Art,Null,English,English
-1976,1,Montlake,Montlake5,Nonfiction,Adult,Art,Null,English,English
-2017,1,Northgate,Northgate3,Nonfiction,Adult,Art,Null,English,English
+2009,1,Central District,CentralDistrict2,Nonfiction,Adult,Business/Technology,Null,English,English
+2009,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
+2018,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
+1988,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
+2011,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
+2017,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
+2009,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
+1991,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
+2010,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
+1998,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
+1996,1,Central District,CentralDistrict2,Nonfiction,Adult,Self Help/Health,Null,English,English
+2013,1,Central District,CentralDistrict2,Fiction,Adult,Thriller/Suspense,Null,English,English
+2003,1,Central District,CentralDistrict2,Fiction,Adult,Thriller/Suspense,Null,English,English
 2018,1,Central District,CentralDistrict3,Nonfiction,Adult,Biography/Autobiography/Memoir,Cookery,English,English
 2008,1,Central District,CentralDistrict3,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
 2007,1,Central District,CentralDistrict3,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2007,1,Central District,CentralDistrict4,Nonfiction,Adult,Biography/Autobiography/Memoir,History,English,English
-2007,1,Central District,CentralDistrict5,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,,
-2018,1,Central District,CentralDistrict6,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2002,1,Columbia City,ColumbiaCity4,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2008,1,Columbia City,ColumbiaCity4,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-1982,1,Columbia City,ColumbiaCity5,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-1984,1,Columbia City,ColumbiaCity5,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2019,1,Columbia City,ColumbiaCity1,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-1974,1,Columbia City,ColumbiaCity2,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2017,1,Laurelhurst,Laurelhurst1,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2001,1,Laurelhurst,Laurelhurst4,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2012,1,Laurelhurst,Laurelhurst5,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-1986,1,Laurelhurst,Laurelhurst5,Nonfiction,Young Adult,Biography/Autobiography/Memoir,Null,English,English
-1980,1,Montlake,Montlake2,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2003,1,Montlake,Montlake4,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-1963,1,Montlake,Montlake4,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,
-2009,1,Montlake,Montlake5,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2006,1,Northgate,Northgate2,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2016,1,Northgate,Northgate2,Fiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2011,1,Northgate,Northgate3,Nonfiction,Adult,Biography/Autobiography/Memoir,History,English,English
-2005,1,Northgate,Northgate3,Nonfiction,Adult,Biography/Autobiography/Memoir,History,English,English
-2004,1,Northgate,Northgate3,Nonfiction,Adult,Biography/Autobiography/Memoir,History,English,English
-2002,1,Northgate,Northgate3,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2008,1,Northgate,Northgate3,Nonfiction,Adult,Biography/Autobiography/Memoir,Religion,English,
-2018,1,Northgate,Northgate5,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-1967,1,Phinney-Greenwood,Phinney-Green1,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-1993,1,Phinney-Greenwood,Phinney-Green1,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-1999,1,Phinney-Greenwood,Phinney-Green1,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2012,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2017,1,Queen Anne,QueenAnne1,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-1988,1,Queen Anne,QueenAnne3,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2015,1,Queen Anne,QueenAnne4,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2000,1,Queen Anne,QueenAnne5,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-1994,1,Ravenna,Ravenna2,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
-2007,1,Ravenna,Ravenna3,Nonfiction,Adult,Biography/Autobiography/Memoir,Business/Technology,English,English
-2012,1,Ravenna,Ravenna3,Nonfiction,Adult,Biography/Autobiography/Memoir,Graphic/Manga,English,English
-2009,1,Central District,CentralDistrict2,Nonfiction,Adult,Business/Technology,Null,English,English
 1998,1,Central District,CentralDistrict3,Nonfiction,Young Adult,Business/Technology,Self Help/Health,English,English
-2006,1,Columbia City,ColumbiaCity4,Nonfiction,Adult,Business/Technology,Null,English,English
-1950,1,Columbia City,ColumbiaCity4,Nonfiction,Adult,Business/Technology,Null,English,English
-2013,1,Montlake,Montlake2,Nonfiction,Adult,Business/Technology,Null,English,English
-2012,1,Montlake,Montlake5,Nonfiction,Adult,Business/Technology,Null,English,English
-2015,1,Northgate,Northgate1,Nonfiction,Adult,Business/Technology,Null,,
-2013,1,Northgate,Northgate1,Nonfiction,Adult,Business/Technology,Null,Spanish,English
+2007,1,Central District,CentralDistrict3,Nonfiction,Adult,Crafts,Null,,
+2005,1,Central District,CentralDistrict3,Nonfiction,Adult,Cultural Studies,Null,English,English
+2009,1,Central District,CentralDistrict3,Fiction,Childrens,Graphic/Manga,Null,English,English
+2002,1,Central District,CentralDistrict3,Nonfiction,Young Adult,History,Null,English,English
+1993,1,Central District,CentralDistrict3,Fiction,Adult,Mystery,Null,English,English
+1997,1,Central District,CentralDistrict3,Fiction,Adult,Mystery,Null,English,English
+1991,1,Central District,CentralDistrict3,Fiction,Adult,Mystery,Null,English,English
+1986,1,Central District,CentralDistrict3,Fiction,Adult,Mystery,Null,English,English
+2003,1,Central District,CentralDistrict3,Nonfiction,Adult,Nature/Gardening,Null,English,English
+1993,1,Central District,CentralDistrict3,Nonfiction,Adult,Nature/Gardening,Null,English,English
+1999,1,Central District,CentralDistrict3,Fiction,Adult,Novel,Null,English,English
+2008,1,Central District,CentralDistrict3,Fiction,Young Adult,Novel,Null,English,English
+1997,1,Central District,CentralDistrict3,Fiction,Young Adult,Novel,Null,English,English
+1968,1,Central District,CentralDistrict3,Fiction,Young Adult,Novel,Null,,
+2007,1,Central District,CentralDistrict3,Fiction,Young Adult,Novel,Null,English,English
+2002,1,Central District,CentralDistrict3,Fiction,Childrens,Null,Null,English,English
+1997,1,Central District,CentralDistrict3,Fiction,Childrens,Null,Null,English,English
+2004,1,Central District,CentralDistrict3,Fiction,Childrens,Null,Null,English,English
+2005,1,Central District,CentralDistrict3,Nonfiction,Childrens,Null,Null,English,English
+2013,1,Central District,CentralDistrict3,Fiction,Childrens,Null,Null,English,English
+1999,1,Central District,CentralDistrict3,Fiction,Childrens,Null,Null,English,English
+2005,1,Central District,CentralDistrict3,Fiction,Childrens,Null,Null,,English
+2000,1,Central District,CentralDistrict3,Nonfiction,Adult,Religion,Null,English,English
+1993,1,Central District,CentralDistrict3,Fiction,Adult,Thriller/Suspense,Null,English,English
+2011,1,Central District,CentralDistrict3,Fiction,Adult,Thriller/Suspense,Null,English,English
+1996,1,Central District,CentralDistrict3,Fiction,Adult,Thriller/Suspense,Null,English,English
+2007,1,Central District,CentralDistrict4,Nonfiction,Adult,Biography/Autobiography/Memoir,History,English,English
+2008,1,Central District,CentralDistrict4,Nonfiction,Adult,Cultural Studies,Null,English,English
+2013,1,Central District,CentralDistrict4,Nonfiction,Adult,History,Null,English,English
+1992,1,Central District,CentralDistrict4,Nonfiction,Adult,History,Null,English,English
+2012,1,Central District,CentralDistrict4,Fiction,Adult,Mystery,Null,English,English
+2006,1,Central District,CentralDistrict4,Fiction,Young Adult,Novel,Null,English,English
+2011,1,Central District,CentralDistrict4,Fiction,Childrens,Null,Null,English,English
+2006,1,Central District,CentralDistrict4,Fiction,Childrens,Null,Null,English,English
+1997,1,Central District,CentralDistrict4,Fiction,Childrens,Null,Null,English,English
+1982,1,Central District,CentralDistrict4,Fiction,Childrens,Null,Null,,
+2000,1,Central District,CentralDistrict4,Nonfiction,Childrens,Null,Null,English,English
+1999,1,Central District,CentralDistrict4,Fiction,Childrens,Null,Null,German,German
+2015,1,Central District,CentralDistrict4,Nonfiction,Adult,Religion,Null,English,English
+2001,1,Central District,CentralDistrict4,Nonfiction,Childrens,Religion,Null,"English, Spanish",English
+2002,1,Central District,CentralDistrict4,Nonfiction,Adult,Religion,Self Help/Health,English,English
+1999,1,Central District,CentralDistrict4,Fiction,Adult,Romance,Null,English,English
+2011,1,Central District,CentralDistrict4,Fiction,Adult,Romance,Null,English,English
+2008,1,Central District,CentralDistrict4,Fiction,Adult,SciFi/Fantasy,Null,"English, Undetermined",English
+2010,1,Central District,CentralDistrict4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
+2005,1,Central District,CentralDistrict4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
+2000,1,Central District,CentralDistrict4,Nonfiction,Adult,Self Help/Health,Null,English,English
+1981,1,Central District,CentralDistrict4,Nonfiction,Adult,Self Help/Health,Null,English,
+2003,1,Central District,CentralDistrict4,Nonfiction,Adult,Sports,Null,English,English
+2018,1,Central District,CentralDistrict4,Fiction,Young Adult,Thriller/Suspense,Null,English,English
+1996,1,Central District,CentralDistrict4,Fiction,Adult,Thriller/Suspense,Null,English,English
+2017,1,Central District,CentralDistrict4,Fiction,Adult,Thriller/Suspense,Null,English,English
+2012,1,Central District,CentralDistrict5,Fiction,Adult,Anthology/Essays/Short stories,Null,,
+2007,1,Central District,CentralDistrict5,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,,
+1962,1,Central District,CentralDistrict5,Nonfiction,Adult,History,Biography,English,English
+2012,1,Central District,CentralDistrict5,Fiction,Adult,History,Null,English,English
+1989,1,Central District,CentralDistrict5,Nonfiction,Adult,History,Null,English,English
+1987,1,Central District,CentralDistrict5,Nonfiction,Adult,Self Help/Health,Null,English,
+1988,1,Central District,CentralDistrict5,Nonfiction,Adult,Biography,Null,Japanese,
+1988,1,Central District,CentralDistrict6,Nonfiction,Adult,Art,Null,English,English
+2018,1,Central District,CentralDistrict6,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+2001,1,Central District,CentralDistrict6,Nonfiction,Adult,Cultural Studies,Null,English,English
+1997,1,Central District,CentralDistrict6,Fiction,Adult,Mystery,Null,English,English
+1997,1,Central District,CentralDistrict6,Fiction,Adult,Mystery,Null,,
+2015,1,Central District,CentralDistrict6,Fiction,Adult,Novel,Null,English,English
+2006,1,Central District,CentralDistrict6,Fiction,Adult,Novel,Null,English,English
+2013,1,Central District,CentralDistrict6,Fiction,Adult,Novel,Null,English,English
+2010,1,Central District,CentralDistrict6,Fiction,Adult,Religion,Null,Spanish,
+2012,1,Central District,CentralDistrict6,Nonfiction,Adult,Self Help/Health,Null,English,English
+2019,1,Columbia City,ColumbiaCity1,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1998,1,Columbia City,ColumbiaCity1,Nonfiction,Adult,Cultural Studies,Null,"English, French",English
+2019,1,Columbia City,ColumbiaCity1,Nonfiction,Adult,Cultural Studies,Null,English,English
+2017,1,Columbia City,ColumbiaCity1,Fiction,Adult,History,Novel,English,English
+2007,1,Columbia City,ColumbiaCity1,Nonfiction,Adult,History,Null,English,English
+2019,1,Columbia City,ColumbiaCity1,Nonfiction,Adult,Mystery,Null,English,English
+2018,1,Columbia City,ColumbiaCity1,Fiction,Adult,Novel,Null,English,English
+1964,1,Columbia City,ColumbiaCity1,Nonfiction,Adult,Religion,Null,English,English
+1984,1,Columbia City,ColumbiaCity1,Fiction,Adult,SciFi/Fantasy,Null,English,English
+1985,1,Columbia City,ColumbiaCity1,Nonfiction,Adult,Self Help/Health,Null,English,English
+2013,1,Columbia City,ColumbiaCity1,Fiction,Childrens,Self Help/Health,Null,English,English
+2009,1,Columbia City,ColumbiaCity1,Fiction,Adult,Thriller/Suspense,Novel,English,English
+2019,1,Columbia City,ColumbiaCity1,Fiction,Adult,Thriller/Suspense,Null,English,English
+1996,1,Columbia City,ColumbiaCity2,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
+1974,1,Columbia City,ColumbiaCity2,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1991,1,Columbia City,ColumbiaCity2,Nonfiction,Adult,Cookery,Null,English,English
+1991,1,Columbia City,ColumbiaCity2,Nonfiction,Adult,Cookery,Null,English,English
+2014,1,Columbia City,ColumbiaCity2,Fiction,Adult,Novel,History,English,English
+1990,1,Columbia City,ColumbiaCity2,Fiction,Adult,Novel,Null,English,English
+2008,1,Columbia City,ColumbiaCity2,Fiction,Adult,Novel,Null,English,English
+2019,1,Columbia City,ColumbiaCity2,Fiction,Adult,Novel,Null,English,English
+2019,1,Columbia City,ColumbiaCity2,Fiction,Adult,Novel,Null,English,English
+1990,1,Columbia City,ColumbiaCity2,Nonfiction,Adult,Reference,Null,English,English
+2011,1,Columbia City,ColumbiaCity2,Fiction,Adult,SciFi/Fantasy,Art,English,English
+2019,1,Columbia City,ColumbiaCity2,Nonfiction,Adult,Self Help/Health,Null,English,English
+2005,1,Columbia City,ColumbiaCity2,Fiction,Adult,Self Help/Health,Null,English,English
+2004,1,Columbia City,ColumbiaCity2,Nonfiction,Adult,Self Help/Health,Null,English,English
+2018,1,Columbia City,ColumbiaCity2,Nonfiction,Adult,Self Help/Health,Null,English,English
+2012,1,Columbia City,ColumbiaCity2,Fiction,Adult,Thriller/Suspense,Null,English,English
+2019,1,Columbia City,ColumbiaCity3,Nonfiction,Adult,Anthology/Essays/Short stories,Null,English,English
+2007,1,Columbia City,ColumbiaCity3,Nonfiction,Adult,Anthology/Essays/Short stories,Null,English,English
 1960,1,Columbia City,ColumbiaCity3,Fiction,Adult,Classics,Poetry,English,Akkadian
 1946,1,Columbia City,ColumbiaCity3,Fiction,Adult,Classics,Null,English,English
-2003,1,Laurelhurst,Laurelhurst2,Fiction,Adult,Classics,Null,English,English
-1954,1,Northgate,Northgate5,Fiction,Adult,Classics,Novel,English,English
-1993,1,Northgate,Northgate5,Fiction,Adult,Classics,Null,English,English
-2009,1,Queen Anne,QueenAnne4,Fiction,Adult,Classics,Novel,Spanish,Spanish
-1977,1,Queen Anne,QueenAnne4,Fiction,Adult,Classics,Religion,English,English
-2000,1,Queen Anne,QueenAnne5,Fiction,Adult,Classics,Null,English,English
-1988,1,Ravenna,Ravenna1,Fiction,Young Adult,Classics,Null,English,English
-2009,1,Ravenna,Ravenna4,Fiction,Adult,Classics,Null,English,English
-1937,1,Ravenna,Ravenna6,Fiction,Adult,Classics,Null,English,English
-1999,1,Columbia City,ColumbiaCity5,Nonfiction,Adult,Cookery,Null,English,English
-1991,1,Columbia City,ColumbiaCity2,Nonfiction,Adult,Cookery,Null,English,English
-1991,1,Columbia City,ColumbiaCity2,Nonfiction,Adult,Cookery,Null,English,English
 1999,1,Columbia City,ColumbiaCity3,Nonfiction,Adult,Cookery,Null,English,English
+1993,1,Columbia City,ColumbiaCity3,Nonfiction,Adult,Cultural Studies,Null,English,English
+1970,1,Columbia City,ColumbiaCity3,Fiction,Adult,Drama,Null,English,
+1981,1,Columbia City,ColumbiaCity3,Nonfiction,Adult,History,Biography,,Latin
+2013,1,Columbia City,ColumbiaCity3,Fiction,Adult,Mystery,Null,English,English
+2004,1,Columbia City,ColumbiaCity3,Fiction,Adult,Mystery,Null,English,English
+1988,1,Columbia City,ColumbiaCity3,Fiction,Adult,Novel,History,English,English
+2018,1,Columbia City,ColumbiaCity3,Fiction,Adult,Novel,Null,English,English
+2017,1,Columbia City,ColumbiaCity3,Fiction,Adult,Novel,Null,English,English
+2018,1,Columbia City,ColumbiaCity3,Fiction,Adult,Novel,Null,English,English
+1986,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
+2010,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
+2011,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
+1981,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
+2008,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
+2011,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
+1981,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,,English
+2014,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
+2014,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
+1990,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
+2007,1,Columbia City,ColumbiaCity3,Fiction,Childrens,Null,Null,English,English
+2015,1,Columbia City,ColumbiaCity3,Nonfiction,Adult,Religion,Null,English,English
+2011,1,Columbia City,ColumbiaCity3,Nonfiction,Adult,SciFi/Fantasy,Null,English,English
+2003,1,Columbia City,ColumbiaCity3,Fiction,Adult,Thriller/Suspense,Null,English,English
+2007,1,Columbia City,ColumbiaCity4,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
+1946,1,Columbia City,ColumbiaCity4,Nonfiction,Adult,Art,Null,,
+2001,1,Columbia City,ColumbiaCity4,Nonfiction,Adult,Art,Null,English,English
+2002,1,Columbia City,ColumbiaCity4,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+2008,1,Columbia City,ColumbiaCity4,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+2006,1,Columbia City,ColumbiaCity4,Nonfiction,Adult,Business/Technology,Null,English,English
+1950,1,Columbia City,ColumbiaCity4,Nonfiction,Adult,Business/Technology,Null,English,English
+1928,1,Columbia City,ColumbiaCity4,Nonfiction,Adult,Music,Null,French,
+1993,1,Columbia City,ColumbiaCity4,Fiction,Adult,Novel,Null,"English, Achinese",English
+1979,1,Columbia City,ColumbiaCity4,Fiction,Adult,Novel,Null,English,English
+2017,1,Columbia City,ColumbiaCity4,Fiction,Young Adult,Novel,Null,English,English
+2005,1,Columbia City,ColumbiaCity4,Fiction,Childrens,Null,Null,English,English
+2005,1,Columbia City,ColumbiaCity4,Fiction,Childrens,Null,Null,"English, Italian",English
+2006,1,Columbia City,ColumbiaCity4,Fiction,Childrens,Null,Null,English,English
+2005,1,Columbia City,ColumbiaCity4,Fiction,Childrens,Null,Null,English,English
+2011,1,Columbia City,ColumbiaCity4,Fiction,Childrens,Null,Null,English,English
+2009,1,Columbia City,ColumbiaCity4,Fiction,Adult,Romance,Null,English,
+2009,1,Columbia City,ColumbiaCity4,Fiction,Adult,Romance,Null,English,
+2008,1,Columbia City,ColumbiaCity4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
+2007,1,Columbia City,ColumbiaCity4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
+2009,1,Columbia City,ColumbiaCity4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
+2006,1,Columbia City,ColumbiaCity4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
+1982,1,Columbia City,ColumbiaCity5,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1984,1,Columbia City,ColumbiaCity5,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1999,1,Columbia City,ColumbiaCity5,Nonfiction,Adult,Cookery,Null,English,English
+2018,1,Columbia City,ColumbiaCity5,Nonfiction,Adult,History,Null,English,English
+2002,1,Columbia City,ColumbiaCity5,Nonfiction,Adult,Self Help/Health,Null,English,English
+2001,1,Columbia City,ColumbiaCity5,Nonfiction,Adult,Thriller/Suspense,Null,English,English
+2015,1,Columbia City,ColumbiaCity5,Nonfiction,Adult,Cultural Studies,Null,English,
+2017,1,Laurelhurst,Laurelhurst1,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+2005,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Mystery,Null,English,English
+2002,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Mystery,Null,English,English
+1997,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Mystery,Null,English,English
+2009,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Novel,Null,English,English
+2004,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Novel,Null,English,English
+1982,1,Laurelhurst,Laurelhurst1,Fiction,Young Adult,Novel,Null,English,English
+2005,1,Laurelhurst,Laurelhurst1,Fiction,Childrens,Null,Null,English,English
+2018,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Romance,Null,English,English
+2014,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Romance,Null,English,English
+2010,1,Laurelhurst,Laurelhurst1,Nonfiction,Adult,Self Help/Health,Null,English,English
+2009,1,Laurelhurst,Laurelhurst1,Nonfiction,Adult,Self Help/Health,Null,English,English
+1997,1,Laurelhurst,Laurelhurst1,Nonfiction,Adult,Self Help/Health,Null,English,English
+2002,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Thriller/Suspense,Null,English,English
+2003,1,Laurelhurst,Laurelhurst2,Fiction,Adult,Classics,Null,English,English
+1991,1,Laurelhurst,Laurelhurst2,Fiction,Young Adult,Cultural Studies,Null,English,English
+1987,1,Laurelhurst,Laurelhurst2,Fiction,Adult,Mystery,Null,English,English
+1991,1,Laurelhurst,Laurelhurst2,Fiction,Adult,Mystery,Null,English,English
+2004,1,Laurelhurst,Laurelhurst2,Nonfiction,Adult,Nature/Gardening,Art,English,English
+1988,1,Laurelhurst,Laurelhurst2,Fiction,Adult,Novel,Null,English,English
+2006,1,Laurelhurst,Laurelhurst2,Fiction,Young Adult,Novel,Null,English,English
+2011,1,Laurelhurst,Laurelhurst2,Fiction,Young Adult,novel,Null,English,English
+1990,1,Laurelhurst,Laurelhurst2,Fiction,Young Adult,Novel,Null,English,English
+1994,1,Laurelhurst,Laurelhurst2,Fiction,Adult,SciFi/Fantasy,Null,English,English
+1983,1,Laurelhurst,Laurelhurst2,Fiction,Adult,SciFi/Fantasy,Null,English,English
+1978,1,Laurelhurst,Laurelhurst2,Nonfiction,Adult,Self Help/Health,Null,English,English
+2015,1,Laurelhurst,Laurelhurst2,Fiction,Adult,Thriller/Suspense,Null,English,English
+1986,1,Laurelhurst,Laurelhurst2,Fiction,Adult,Thriller/Suspense,Null,English,English
 1998,1,Laurelhurst,Laurelhurst3,Nonfiction,Adult,Cookery,Null,English,English
 1995,1,Laurelhurst,Laurelhurst3,Nonfiction,Adult,Cookery,Null,English,English
 1979,1,Laurelhurst,Laurelhurst3,Fiction,Adult,Cookery,Null,English,
 1986,1,Laurelhurst,Laurelhurst3,Nonfiction,Adult,Cookery,Null,English,English
+2000,1,Laurelhurst,Laurelhurst3,Nonfiction,Adult,Cultural Studies,Null,English,English
+1977,1,Laurelhurst,Laurelhurst3,Nonfiction,Adult,Cultural Studies,Null,English,English
+2007,1,Laurelhurst,Laurelhurst3,Nonfiction,Adult,History,Null,English,English
+2009,1,Laurelhurst,Laurelhurst3,Fiction,Adult,Mystery,Null,English,English
+2004,1,Laurelhurst,Laurelhurst3,Fiction,Adult,novel,Null,English,English
+2002,1,Laurelhurst,Laurelhurst3,Fiction,Childrens,Null,Null,English,English
+1999,1,Laurelhurst,Laurelhurst3,Fiction,Childrens,Null,Null,English,English
+2003,1,Laurelhurst,Laurelhurst3,Fiction,Childrens,Null,Null,English,English
+2000,1,Laurelhurst,Laurelhurst3,Fiction,Childrens,Null,Null,English,English
+1999,1,Laurelhurst,Laurelhurst3,Fiction,Childrens,Null,Null,English,English
+1999,1,Laurelhurst,Laurelhurst3,Fiction,Childrens,Null,Null,English,English
+2007,1,Laurelhurst,Laurelhurst3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2009,1,Laurelhurst,Laurelhurst3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2007,1,Laurelhurst,Laurelhurst3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2006,1,Laurelhurst,Laurelhurst3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2007,1,Laurelhurst,Laurelhurst4,Nonfiction,Adult,Art,Null,English,English
+2001,1,Laurelhurst,Laurelhurst4,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1994,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Mystery,Null,English,English
+2012,1,Laurelhurst,Laurelhurst4,Nonfiction,Adult,Nature/Gardening,Null,English,English
+1997,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Novel,History,English,English
+2017,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Novel,Null,English,English
+2007,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Novel,Null,English,English
+1988,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Novel,Null,English,English
+1982,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Novel,Null,English,English
+2013,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Novel,Null,English,English
+1988,1,Laurelhurst,Laurelhurst4,Fiction,Young Adult,Novel,Null,English,English
+1986,1,Laurelhurst,Laurelhurst4,Fiction,Childrens,Null,Null,English,English
+2013,1,Laurelhurst,Laurelhurst4,Nonfiction,Adult,Sports,Null,English,English
+1974,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Thriller/Suspense,Null,English,
+2014,1,Laurelhurst,Laurelhurst4,Nonfiction,Adult,Travel,Null,English,English
+1996,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
+2012,1,Laurelhurst,Laurelhurst5,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1986,1,Laurelhurst,Laurelhurst5,Nonfiction,Young Adult,Biography/Autobiography/Memoir,Null,English,English
+1989,1,Laurelhurst,Laurelhurst5,Nonfiction,Young Adult,History,Null,English,English
+1994,1,Laurelhurst,Laurelhurst5,Nonfiction,Young Adult,History,Null,English,English
+2008,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Mystery,Novel,English,English
+2004,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Mystery,Null,English,English
+2001,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Mystery,Null,English,English
+1992,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Mystery,Null,English,English
+1981,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Mystery,Null,English,English
+1995,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Mystery,Null,English,English
+1998,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Novel,Null,English,English
+1996,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Novel,Null,English,English
+1986,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Novel,Null,English,English
+2014,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Novel,Null,English,English
+1985,1,Laurelhurst,Laurelhurst5,Fiction,Young Adult,Novel,Null,English,English
+1998,1,Laurelhurst,Laurelhurst5,Fiction,Childrens,Null,Null,English,English
+2012,1,Laurelhurst,Laurelhurst5,Fiction,Childrens,Null,Null,English,English
+2014,1,Laurelhurst,Laurelhurst5,Nonfiction,Childrens,Null,Null,English,English
+2004,1,Laurelhurst,Laurelhurst5,Fiction,Childrens,Null,Null,English,English
+1998,1,Laurelhurst,Laurelhurst5,Fiction,Childrens,Null,Null,English,English
+1982,1,Laurelhurst,Laurelhurst5,Nonfiction,Childrens,Religion,Null,English,English
+2013,1,Laurelhurst,Laurelhurst6,Fiction,Adult,Novel,Null,English,English
+1982,1,Laurelhurst,Laurelhurst6,Fiction,Adult,Novel,Null,English,English
+2003,1,Laurelhurst,Laurelhurst6,Nonfiction,Childrens,Null,Null,English,English
+2011,1,Laurelhurst,Laurelhurst6,Nonfiction,Adult,Religion,Null,English,English
+1994,1,Laurelhurst,Laurelhurst6,Nonfiction,Adult,Self Help/Health,Anthology,English,English
+1995,1,Laurelhurst,Laurelhurst6,Nonfiction,Adult,Self Help/Health,Null,English,English
+1993,1,Laurelhurst,Laurelhurst6,Nonfiction,Adult,Travel,Null,English,English
+1979,1,Montlake,Montlake2,Nonfiction,Adult,Art,History,English,English
+1980,1,Montlake,Montlake2,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+2013,1,Montlake,Montlake2,Nonfiction,Adult,Business/Technology,Null,English,English
 1980,1,Montlake,Montlake2,Nonfiction,Adult,Cookery,Null,English,English
 1981,1,Montlake,Montlake2,Nonfiction,Adult,Cookery,Null,English,English
 1979,1,Montlake,Montlake2,Nonfiction,Adult,Cookery,Null,English,English
@@ -109,274 +288,22 @@ yrpub,count,neighborhood,collection,type,age,category1,category2,languages,origi
 2006,1,Montlake,Montlake2,Nonfiction,Adult,Cookery,Null,English,English
 2006,1,Montlake,Montlake2,Nonfiction,Adult,Cookery,Null,English,English
 2010,1,Montlake,Montlake2,Nonfiction,Adult,Cookery,Null,English,English
+1996,1,Montlake,Montlake2,Fiction,Adult,Mystery,Null,English,English
+1985,1,Montlake,Montlake2,Fiction,Adult,Poetry,Null,English,Swedish
+2003,1,Montlake,Montlake2,Nonfiction,Adult,Self Help/Health,Null,English,English
+1982,1,Montlake,Montlake2,Nonfiction,Adult,Self Help/Health,Null,English,English
+1983,1,Montlake,Montlake2,Nonfiction,Adult,Self Help/Health,Null,English,English
+1983,1,Montlake,Montlake4,Nonfiction,Adult,Art,Null,English,English
+2003,1,Montlake,Montlake4,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1963,1,Montlake,Montlake4,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,
 1988,1,Montlake,Montlake4,Nonfiction,Adult,Cookery,Null,English,English
 1997,1,Montlake,Montlake4,Nonfiction,Adult,Cookery,Null,English,English
-2002,1,Montlake,Montlake5,Nonfiction,Adult,Cookery,Null,French,French
-2004,1,Montlake,Montlake6,Nonfiction,Adult,Cookery,Null,English,English
-2002,1,Montlake,Montlake6,Nonfiction,Adult,Cookery,Null,English,English
-1992,1,Northgate,Northgate4,Nonfiction,Adult,Cookery,Null,English,
-2007,1,Northgate,Northgate4,Nonfiction,Adult,Cookery,Self Help/Health,English,English
-1961,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Cookery,Null,English,English
-1949,1,Queen Anne,QueenAnne1,Nonfiction,Adult,Cookery,Null,,
-2006,1,Queen Anne,QueenAnne5,Nonfiction,Adult,Cookery,Null,English,English
-1991,1,Ravenna,Ravenna3,Nonfiction,Adult,Cookery,Null,English,English
-1971,1,Ravenna,Ravenna5,Nonfiction,Adult,Cookery,Null,English,English
-2007,1,Central District,CentralDistrict3,Nonfiction,Adult,Crafts,Null,,
 2005,1,Montlake,Montlake4,Nonfiction,Adult,Crafts,Null,,
-1998,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
-1990,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,,
-1992,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
-1984,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
-1995,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
-1998,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
-1987,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
-1975,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
-1979,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
-1977,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Crafts,Null,English,English
-1986,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Crafts,Null,English,English
-2019,1,Central District,CentralDistrict1,Nonfiction,Adult,Cultural Studies,Null,English,English
-2005,1,Central District,CentralDistrict3,Nonfiction,Adult,Cultural Studies,Null,English,English
-2008,1,Central District,CentralDistrict4,Nonfiction,Adult,Cultural Studies,Null,English,English
-2001,1,Central District,CentralDistrict6,Nonfiction,Adult,Cultural Studies,Null,English,English
-1998,1,Columbia City,ColumbiaCity1,Nonfiction,Adult,Cultural Studies,Null,"English, French",English
-2019,1,Columbia City,ColumbiaCity1,Nonfiction,Adult,Cultural Studies,Null,English,English
-1993,1,Columbia City,ColumbiaCity3,Nonfiction,Adult,Cultural Studies,Null,English,English
-1991,1,Laurelhurst,Laurelhurst2,Fiction,Young Adult,Cultural Studies,Null,English,English
-2000,1,Laurelhurst,Laurelhurst3,Nonfiction,Adult,Cultural Studies,Null,English,English
-1977,1,Laurelhurst,Laurelhurst3,Nonfiction,Adult,Cultural Studies,Null,English,English
-1999,1,Northgate,Northgate3,Nonfiction,Adult,Cultural Studies,Null,English,English
-2012,1,Northgate,Northgate3,Nonfiction,Adult,Cultural Studies,Null,English,English
-2001,1,Northgate,Northgate3,Nonfiction,Adult,Cultural Studies,Null,English,English
-2009,1,Northgate,Northgate4,Nonfiction,Adult,Cultural Studies,Null,English,English
-2016,1,Northgate,Northgate5,Nonfiction,Adult,Cultural Studies,Null,English,English
-2016,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Cultural Studies,Null,English,English
-2016,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Cultural Studies,Null,English,English
-2007,1,Phinney-Greenwood,Phinney-Green3,Fiction,Young Adult,Cultural Studies,Null,English,English
-2018,1,Phinney-Greenwood,Phinney-Green4,Nonfiction,Adult,Cultural Studies,Null,English,English
-2005,1,Phinney-Greenwood,Phinney-Green4,Nonfiction,Adult,Cultural Studies,Null,English,English
-1971,1,Queen Anne,QueenAnne1,Nonfiction,Adult,Cultural Studies,Null,English,English
-2018,1,Queen Anne,QueenAnne2,Nonfiction,Adult,Cultural Studies,Anthology,English,English
-2018,1,Queen Anne,QueenAnne2,Nonfiction,Adult,Cultural Studies,Null,English,English
-1998,1,Queen Anne,QueenAnne2,Nonfiction,Adult,Cultural Studies,Null,English,English
-2009,1,Queen Anne,QueenAnne3,Nonfiction,Adult,Cultural Studies,Null,English,English
-2004,1,Queen Anne,QueenAnne3,Nonfiction,Adult,Cultural Studies,Null,English,English
-2018,1,Queen Anne,QueenAnne4,Nonfiction,Adult,Cultural Studies,Null,English,English
-1991,1,Ravenna,Ravenna2,Nonfiction,Adult,Cultural Studies,Null,English,English
-2004,1,Ravenna,Ravenna4,Nonfiction,Adult,Cultural Studies,Null,English,English
-1970,1,Columbia City,ColumbiaCity3,Fiction,Adult,Drama,Null,English,
-2001,1,Northgate,Northgate1,Fiction,Adult,Drama,Null,English,English
-1950,1,Northgate,Northgate2,Fiction,Adult,Drama,Null,English,
-1967,1,Northgate,Northgate2,Fiction,Adult,Drama,Null,English,English
-1985,1,Northgate,Northgate5,Fiction,Adult,Drama,Null,English,English
-1997,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Drama,Null,English,
-1980,1,Phinney-Greenwood,Phinney-Green1,Fiction,Adult,Drama,Null,,
-1993,1,Queen Anne,QueenAnne4,Fiction,Adult,Drama,Null,English,English
-2009,1,Central District,CentralDistrict3,Fiction,Children,Graphic/Manga,Null,English,English
-2004,1,Queen Anne,QueenAnne4,Nonfiction,Adult,Graphic/Manga,Null,English,English
-2008,1,Ravenna,Ravenna3,Fiction,Adult,Graphic/Manga,Null,,
-2002,1,Central District,CentralDistrict3,Nonfiction,Young Adult,History,Null,English,English
-2013,1,Central District,CentralDistrict4,Nonfiction,Adult,History,Null,English,English
-1992,1,Central District,CentralDistrict4,Nonfiction,Adult,History,Null,English,English
-1962,1,Central District,CentralDistrict5,Nonfiction,Adult,History,Biography,English,English
-2012,1,Central District,CentralDistrict5,Fiction,Adult,History,Null,English,English
-1989,1,Central District,CentralDistrict5,Nonfiction,Adult,History,Null,English,English
-2018,1,Columbia City,ColumbiaCity5,Nonfiction,Adult,History,Null,English,English
-2017,1,Columbia City,ColumbiaCity1,Fiction,Adult,History,Novel,English,English
-2007,1,Columbia City,ColumbiaCity1,Nonfiction,Adult,History,Null,English,English
-1981,1,Columbia City,ColumbiaCity3,Nonfiction,Adult,History,Biography,,Latin
-2007,1,Laurelhurst,Laurelhurst3,Nonfiction,Adult,History,Null,English,English
-1989,1,Laurelhurst,Laurelhurst5,Nonfiction,Young Adult,History,Null,English,English
-1994,1,Laurelhurst,Laurelhurst5,Nonfiction,Young Adult,History,Null,English,English
-1986,1,Montlake,Montlake5,Nonfiction,Adult,History,Null,English,English
-2013,1,Montlake,Montlake5,Nonfiction,Adult,History,Null,English,English
-1997,1,Northgate,Northgate1,Fiction,Young Adult,History,Null,English,English
-2015,1,Northgate,Northgate2,Fiction,Adult,History,Anthology,English,English
-2005,1,Northgate,Northgate2,Nonfiction,Adult,History,Mystery,English,English
-2014,1,Northgate,Northgate2,Nonfiction,Adult,History,Null,English,English
-1999,1,Northgate,Northgate3,Nonfiction,Children,History,Null,"English, Undetermined",English
-2005,1,Northgate,Northgate3,Fiction,Young Adult,History,Null,English,English
-2002,1,Phinney-Greenwood,Phinney-Green1,Nonfiction,Adult,History,Null,English,English
-2016,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,History,Cultural Studies,English,English
-2003,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,History,Null,English,English
-1985,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,History,Null,English,English
-1984,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,History,Null,English,English
-1975,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,History,Null,English,
-2017,1,Ravenna,Ravenna1,Nonfiction,Adult,History,Null,English,English
-1997,1,Ravenna,Ravenna4,Fiction,Adult,History,Novel,English,English
-1984,1,Ravenna,Ravenna4,Fiction,Adult,History,Novel,English,English
-1961,1,Ravenna,Ravenna5,Nonfiction,Adult,History,Null,English,English
-1971,1,Ravenna,Ravenna6,Nonfiction,Adult,History,Null,English,English
-1928,1,Columbia City,ColumbiaCity4,Nonfiction,Adult,Music,Null,French,
-2009,1,Northgate,Northgate1,Nonfiction,Adult,Music,Null,English,
-2009,1,Northgate,Northgate1,Nonfiction,Adult,Music,Null,,
-2011,1,Ravenna,Ravenna2,Nonfiction,Adult,Music,Null,English,
-1993,1,Central District,CentralDistrict3,Fiction,Adult,Mystery,Null,English,English
-1997,1,Central District,CentralDistrict3,Fiction,Adult,Mystery,Null,English,English
-1991,1,Central District,CentralDistrict3,Fiction,Adult,Mystery,Null,English,English
-1986,1,Central District,CentralDistrict3,Fiction,Adult,Mystery,Null,English,English
-2012,1,Central District,CentralDistrict4,Fiction,Adult,Mystery,Null,English,English
-1997,1,Central District,CentralDistrict6,Fiction,Adult,Mystery,Null,English,English
-1997,1,Central District,CentralDistrict6,Fiction,Adult,Mystery,Null,,
-2019,1,Columbia City,ColumbiaCity1,Nonfiction,Adult,Mystery,Null,English,English
-2013,1,Columbia City,ColumbiaCity3,Fiction,Adult,Mystery,Null,English,English
-2004,1,Columbia City,ColumbiaCity3,Fiction,Adult,Mystery,Null,English,English
-2005,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Mystery,Null,English,English
-2002,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Mystery,Null,English,English
-1997,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Mystery,Null,English,English
-1987,1,Laurelhurst,Laurelhurst2,Fiction,Adult,Mystery,Null,English,English
-1991,1,Laurelhurst,Laurelhurst2,Fiction,Adult,Mystery,Null,English,English
-2009,1,Laurelhurst,Laurelhurst3,Fiction,Adult,Mystery,Null,English,English
-1994,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Mystery,Null,English,English
-2008,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Mystery,Novel,English,English
-2004,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Mystery,Null,English,English
-2001,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Mystery,Null,English,English
-1992,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Mystery,Null,English,English
-1981,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Mystery,Null,English,English
-1995,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Mystery,Null,English,English
-1996,1,Montlake,Montlake2,Fiction,Adult,Mystery,Null,English,English
 2008,1,Montlake,Montlake4,Fiction,Adult,Mystery,Null,English,English
 2004,1,Montlake,Montlake4,Fiction,Adult,Mystery,Null,English,English
 1996,1,Montlake,Montlake4,Fiction,Adult,Mystery,Null,English,English
 2014,1,Montlake,Montlake4,Fiction,Adult,Mystery,Null,English,English
-1997,1,Montlake,Montlake6,Fiction,Adult,Mystery,Null,English,English
-1995,1,Northgate,Northgate1,Fiction,Young Adult,Mystery,Null,English,English
-1993,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
-1999,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
-2012,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
-1997,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
-1993,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
-1988,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
-2017,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
-2007,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
-1990,1,Northgate,Northgate4,Fiction,Adult,Mystery,Null,English,English
-1978,1,Northgate,Northgate4,Fiction,Adult,Mystery,Null,English,English
-1995,1,Northgate,Northgate4,Fiction,Adult,Mystery,Null,English,English
-2017,1,Northgate,Northgate5,Fiction,Adult,Mystery,Null,English,English
-2004,1,Northgate,Northgate5,Fiction,Adult,Mystery,Null,English,English
-2018,1,Northgate,Northgate5,Fiction,Young Adult,Mystery,Null,English,English
-1992,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Mystery,Null,English,English
-1995,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Mystery,Null,English,English
-1991,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Mystery,Null,English,English
-1994,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Mystery,Null,English,English
-2017,1,Phinney-Greenwood,Phinney-Green1,Fiction,Adult,Mystery,Null,English,English
-2007,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Mystery,Null,English,English
-2015,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Mystery,Null,English,English
-2005,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Mystery,Null,English,English
-1993,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Mystery,Null,English,English
-2011,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Mystery,Null,English,English
-2002,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Mystery,Null,English,English
-1998,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Mystery,Null,English,English
-1998,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Mystery,Null,"English, Achinese",English
-1966,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Mystery,Null,,
-1978,1,Phinney-Greenwood,Phinney-Green4,Fiction,Young Adult,Mystery,Null,English,English
-2017,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Mystery,Null,English,English
-2000,1,Phinney-Greenwood,Phinney-Green5,Fiction,Young Adult,Mystery,Null,English,English
-1994,1,Queen Anne,QueenAnne3,Fiction,Adult,Mystery,Null,English,English
-1988,1,Queen Anne,QueenAnne3,Fiction,Young Adult,Mystery,Null,English,English
-2000,1,Queen Anne,QueenAnne4,Fiction,Adult,Mystery,Null,English,English
-1991,1,Queen Anne,QueenAnne4,Fiction,Adult,Mystery,Null,English,English
-2013,1,Queen Anne,QueenAnne4,Fiction,Adult,Mystery,Null,English,English
-1996,1,Queen Anne,QueenAnne4,Fiction,Adult,Mystery,Null,English,English
-1996,1,Queen Anne,QueenAnne5,Fiction,Adult,Mystery,Null,English,English
-2006,1,Queen Anne,QueenAnne5,Fiction,Adult,Mystery,Null,English,English
-2014,1,Queen Anne,QueenAnne5,Fiction,Adult,Mystery,Null,English,English
-2004,1,Queen Anne,QueenAnne5,Fiction,Adult,Mystery,Null,English,English
-2000,1,Ravenna,Ravenna1,Fiction,Adult,Mystery,Null,English,English
-1993,1,Ravenna,Ravenna1,Fiction,Adult,Mystery,Null,English,English
-2000,1,Ravenna,Ravenna1,Fiction,Adult,Mystery,Null,English,English
-2011,1,Ravenna,Ravenna1,Fiction,Adult,Mystery,Null,English,English
-2002,1,Ravenna,Ravenna2,Fiction,Adult,Mystery,Null,English,English
-2000,1,Ravenna,Ravenna2,Fiction,Adult,Mystery,Null,English,English
-2000,1,Ravenna,Ravenna2,Fiction,Adult,Mystery,Null,English,English
-2005,1,Ravenna,Ravenna2,Fiction,Adult,Mystery,Null,English,English
-2009,1,Ravenna,Ravenna2,Fiction,Adult,Mystery,Null,English,English
-1994,1,Ravenna,Ravenna2,Fiction,Adult,Mystery,Null,English,English
-1997,1,Ravenna,Ravenna2,Fiction,Adult,Mystery,Null,English,English
-2014,1,Ravenna,Ravenna3,Fiction,Adult,Mystery,Novel,English,English
-1999,1,Ravenna,Ravenna3,Fiction,Adult,Mystery,Null,English,English
-1994,1,Ravenna,Ravenna4,Fiction,Adult,Mystery,Null,English,English
-2000,1,Ravenna,Ravenna4,Fiction,Adult,Mystery,Null,English,English
-1987,1,Ravenna,Ravenna4,Fiction,Adult,Mystery,Null,English,English
-2000,1,Ravenna,Ravenna5,Fiction,Adult,Mystery,Null,English,English
-2012,1,Ravenna,Ravenna5,Fiction,Adult,Mystery,Null,English,English
-1994,1,Ravenna,Ravenna5,Fiction,Adult,Mystery,Null,English,English
-2002,1,Ravenna,Ravenna5,Fiction,Young Adult,Mystery,Null,English,English
-1995,1,Ravenna,Ravenna6,Fiction,Adult,Mystery,Null,English,English
-2003,1,Central District,CentralDistrict3,Nonfiction,Adult,Nature/Gardening,Null,English,English
-1993,1,Central District,CentralDistrict3,Nonfiction,Adult,Nature/Gardening,Null,English,English
-2004,1,Laurelhurst,Laurelhurst2,Nonfiction,Adult,Nature/Gardening,Art,English,English
-2012,1,Laurelhurst,Laurelhurst4,Nonfiction,Adult,Nature/Gardening,Null,English,English
 2013,1,Montlake,Montlake4,Nonfiction,Adult,Nature/Gardening,Null,English,English
-1988,1,Northgate,Northgate3,Nonfiction,Adult,Nature/Gardening,Null,English,English
-1994,1,Northgate,Northgate3,Nonfiction,Adult,Nature/Gardening,Null,English,English
-1979,1,Northgate,Northgate3,Nonfiction,Adult,Nature/Gardening,Null,English,English
-2002,1,Northgate,Northgate3,Nonfiction,Children,Nature/Gardening,Null,English,English
-1966,1,Northgate,Northgate4,Nonfiction,Adult,Nature/Gardening,Null,English,English
-2005,1,Ravenna,Ravenna2,Nonfiction,Adult,Nature/Gardening,Null,English,English
-1992,1,Central District,CentralDistrict1,Fiction,Adult,Novel,Null,English,English
-2009,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
-2018,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
-1988,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
-2011,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
-2017,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
-2009,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
-1991,1,Central District,CentralDistrict2,Fiction,Adult,Romance,Null,English,English
-2010,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
-1998,1,Central District,CentralDistrict2,Fiction,Adult,Novel,Null,English,English
-1999,1,Central District,CentralDistrict3,Fiction,Adult,Novel,Null,English,English
-2008,1,Central District,CentralDistrict3,Fiction,Young Adult,Novel,Null,English,English
-1997,1,Central District,CentralDistrict3,Fiction,Young Adult,Novel,Null,English,English
-1968,1,Central District,CentralDistrict3,Fiction,Young Adult,Novel,Null,,
-2007,1,Central District,CentralDistrict3,Fiction,Young Adult,Novel,Null,English,English
-2006,1,Central District,CentralDistrict4,Fiction,Young Adult,Novel,Null,English,English
-2015,1,Central District,CentralDistrict6,Fiction,Adult,Novel,Null,English,English
-2006,1,Central District,CentralDistrict6,Fiction,Adult,Novel,Null,English,English
-2013,1,Central District,CentralDistrict6,Fiction,Adult,Novel,Null,English,English
-1993,1,Columbia City,ColumbiaCity4,Fiction,Adult,Novel,Null,"English, Achinese",English
-1979,1,Columbia City,ColumbiaCity4,Fiction,Adult,Novel,Null,English,English
-2017,1,Columbia City,ColumbiaCity4,Fiction,Young Adult,Novel,Null,English,English
-2018,1,Columbia City,ColumbiaCity1,Fiction,Adult,Novel,Null,English,English
-2014,1,Columbia City,ColumbiaCity2,Fiction,Adult,Novel,History,English,English
-1990,1,Columbia City,ColumbiaCity2,Fiction,Adult,Novel,Null,English,English
-2008,1,Columbia City,ColumbiaCity2,Fiction,Adult,Novel,Null,English,English
-2019,1,Columbia City,ColumbiaCity2,Fiction,Adult,Novel,Null,English,English
-2019,1,Columbia City,ColumbiaCity2,Fiction,Adult,Novel,Null,English,English
-1988,1,Columbia City,ColumbiaCity3,Fiction,Adult,Novel,History,English,English
-2018,1,Columbia City,ColumbiaCity3,Fiction,Adult,Novel,Null,English,English
-2017,1,Columbia City,ColumbiaCity3,Fiction,Adult,Novel,Null,English,English
-2018,1,Columbia City,ColumbiaCity3,Fiction,Adult,Novel,Null,English,English
-1986,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
-2010,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
-2011,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
-1981,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
-2008,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
-2011,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
-1981,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,,English
-2014,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
-2014,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
-1990,1,Columbia City,ColumbiaCity3,Fiction,Young Adult,Novel,Null,English,English
-2009,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Novel,Null,English,English
-2004,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Novel,Null,English,English
-1982,1,Laurelhurst,Laurelhurst1,Fiction,Young Adult,Novel,Null,English,English
-1988,1,Laurelhurst,Laurelhurst2,Fiction,Adult,Novel,Null,English,English
-2006,1,Laurelhurst,Laurelhurst2,Fiction,Young Adult,Novel,Null,English,English
-2011,1,Laurelhurst,Laurelhurst2,Fiction,Young Adult,novel,Null,English,English
-1990,1,Laurelhurst,Laurelhurst2,Fiction,Young Adult,Novel,Null,English,English
-2004,1,Laurelhurst,Laurelhurst3,Fiction,Adult,novel,Null,English,English
-1997,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Novel,History,English,English
-2017,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Novel,Null,English,English
-2007,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Novel,Null,English,English
-1988,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Novel,Null,English,English
-1982,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Novel,Null,English,English
-2013,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Novel,Null,English,English
-1988,1,Laurelhurst,Laurelhurst4,Fiction,Young Adult,Novel,Null,English,English
-1998,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Novel,Null,English,English
-1996,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Novel,Null,English,English
-1986,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Novel,Null,English,English
-2014,1,Laurelhurst,Laurelhurst5,Fiction,Adult,Novel,Null,English,English
-1985,1,Laurelhurst,Laurelhurst5,Fiction,Young Adult,Novel,Null,English,English
-2013,1,Laurelhurst,Laurelhurst6,Fiction,Adult,Novel,Null,English,English
-1982,1,Laurelhurst,Laurelhurst6,Fiction,Adult,Novel,Null,English,English
 1992,1,Montlake,Montlake4,Fiction,Adult,Novel,Cultural Studies,English,Arabic
 2007,1,Montlake,Montlake4,Fiction,Adult,Novel,Null,English,English
 1998,1,Montlake,Montlake4,Fiction,Adult,Novel,Null,English,English
@@ -384,18 +311,81 @@ yrpub,count,neighborhood,collection,type,age,category1,category2,languages,origi
 1990,1,Montlake,Montlake4,Fiction,Adult,Novel,Null,English,English
 1958,1,Montlake,Montlake4,Fiction,Adult,Novel,Null,,
 2018,1,Montlake,Montlake4,Nonfiction,Adult,Novel,Null,English,English
-2006,1,Montlake,Montlake4,Fiction,Children,Novel,Null,English,English
+2006,1,Montlake,Montlake4,Fiction,Childrens,Novel,Null,English,English
 2008,1,Montlake,Montlake4,Fiction,Young Adult,Novel,Null,English,English
+2016,1,Montlake,Montlake4,Nonfiction,Adult,Self Help/Health,Null,English,English
+1993,1,Montlake,Montlake4,Nonfiction,Adult,Self Help/Health,Null,,English
+1992,1,Montlake,Montlake4,Nonfiction,Adult,Self Help/Health,Null,English,English
+1986,1,Montlake,Montlake4,Fiction,Adult,Sports,Null,English,English
+1999,1,Montlake,Montlake4,Fiction,Adult,Thriller/Suspense,Null,English,English
+1991,1,Montlake,Montlake5,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
+1976,1,Montlake,Montlake5,Nonfiction,Adult,Art,Null,English,English
+2009,1,Montlake,Montlake5,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+2012,1,Montlake,Montlake5,Nonfiction,Adult,Business/Technology,Null,English,English
+2002,1,Montlake,Montlake5,Nonfiction,Adult,Cookery,Null,French,French
+1986,1,Montlake,Montlake5,Nonfiction,Adult,History,Null,English,English
+2013,1,Montlake,Montlake5,Nonfiction,Adult,History,Null,English,English
 1995,1,Montlake,Montlake5,Fiction,Adult,Novel,History,English,English
 2006,1,Montlake,Montlake5,Fiction,Adult,Novel,Null,English,English
 1997,1,Montlake,Montlake5,Fiction,Adult,Novel,Null,English,English
 2008,1,Montlake,Montlake5,Fiction,Adult,Novel,Null,English,English
+2000,1,Montlake,Montlake5,Fiction,Childrens,Null,Null,English,English
+2011,1,Montlake,Montlake5,Fiction,Childrens,Null,Null,Thai,Thai
+2010,1,Montlake,Montlake5,Nonfiction,Adult,Reference,Null,,
+2003,1,Montlake,Montlake5,Nonfiction,Adult,Self Help/Health,Null,English,English
+2004,1,Montlake,Montlake5,Nonfiction,Adult,Self Help/Health,Null,English,English
+2016,1,Montlake,Montlake5,Nonfiction,Adult,Self Help/Health,Null,English,English
+1989,1,Montlake,Montlake5,Fiction,Young Adult,Sports,Null,English,English
+2018,1,Montlake,Montlake5,Fiction,Adult,Thriller/Suspense,Null,English,English
+2018,1,Montlake,Montlake5,Nonfiction,Adult,Travel,Null,English,English
+2018,1,Montlake,Montlake5,Nonfiction,Adult,Travel,Null,English,English
+2004,1,Montlake,Montlake6,Nonfiction,Adult,Cookery,Null,English,English
+2002,1,Montlake,Montlake6,Nonfiction,Adult,Cookery,Null,English,English
+1997,1,Montlake,Montlake6,Fiction,Adult,Mystery,Null,English,English
 2009,1,Montlake,Montlake6,Fiction,Adult,Novel,Null,English,English
 1992,1,Montlake,Montlake6,Fiction,Adult,Novel,Null,English,English
 1986,1,Montlake,Montlake6,Fiction,Adult,Novel,Null,English,English
 2015,1,Montlake,Montlake6,Fiction,Young Adult,Novel,Null,English,English
+1974,1,Montlake,Montlake6,Fiction,Adult,Poetry,Null,English,English
+1989,1,Montlake,Montlake6,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2013,1,Montlake,Montlake6,Fiction,Young Adult,SciFi/Fantasy,Null,"English, French",English
+2002,1,Montlake,Montlake6,Fiction,Adult,Thriller/Suspense,Null,English,English
+1997,1,Northgate,Northgate1,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
+2015,1,Northgate,Northgate1,Nonfiction,Adult,Business/Technology,Null,,
+2013,1,Northgate,Northgate1,Nonfiction,Adult,Business/Technology,Null,Spanish,English
+2001,1,Northgate,Northgate1,Fiction,Adult,Drama,Null,English,English
+1997,1,Northgate,Northgate1,Fiction,Young Adult,History,Null,English,English
+2009,1,Northgate,Northgate1,Nonfiction,Adult,Music,Null,English,
+2009,1,Northgate,Northgate1,Nonfiction,Adult,Music,Null,,
+1995,1,Northgate,Northgate1,Fiction,Young Adult,Mystery,Null,English,English
 1977,1,Northgate,Northgate1,Fiction,Adult,Novel,History,English,English
 2008,1,Northgate,Northgate1,Fiction,Adult,Novel,Null,English,English
+2013,1,Northgate,Northgate1,Fiction,Childrens,Null,Null,English,English
+2017,1,Northgate,Northgate1,Fiction,Childrens,Null,Null,English,English
+1999,1,Northgate,Northgate1,Nonfiction,Childrens,Null,Null,English,English
+2007,1,Northgate,Northgate1,Fiction,Childrens,Null,Null,English,English
+2001,1,Northgate,Northgate1,Fiction,Childrens,Null,Null,English,English
+1999,1,Northgate,Northgate1,Fiction,Childrens,Null,Null,English,English
+1989,1,Northgate,Northgate1,Fiction,Childrens,Null,Null,English,English
+2000,1,Northgate,Northgate1,Nonfiction,Childrens,Null,Null,English,English
+2010,1,Northgate,Northgate1,Nonfiction,Childrens,Null,Null,English,English
+1998,1,Northgate,Northgate1,Fiction,Childrens,Null,Null,English,English
+2011,1,Northgate,Northgate1,Nonfiction,Adult,Religion,Self Help/Health,English,English
+2000,1,Northgate,Northgate1,Nonfiction,Adult,Religion,Self Help/Health,English,English
+2016,1,Northgate,Northgate1,Nonfiction,Adult,Religion,Self Help/Health,English,English
+2016,1,Northgate,Northgate1,Fiction,Adult,Thriller/Suspense,Null,English,English
+2012,1,Northgate,Northgate1,Fiction,Adult,Thriller/Suspense,Null,English,English
+2019,1,Northgate,Northgate1,Fiction,Adult,Thriller/Suspense,Null,English,English
+2014,1,Northgate,Northgate1,Fiction,Adult,Thriller/Suspense,Null,English,English
+2019,1,Northgate,Northgate2,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
+2019,1,Northgate,Northgate2,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
+2006,1,Northgate,Northgate2,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+2016,1,Northgate,Northgate2,Fiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1950,1,Northgate,Northgate2,Fiction,Adult,Drama,Null,English,
+1967,1,Northgate,Northgate2,Fiction,Adult,Drama,Null,English,English
+2015,1,Northgate,Northgate2,Fiction,Adult,History,Anthology,English,English
+2005,1,Northgate,Northgate2,Nonfiction,Adult,History,Mystery,English,English
+2014,1,Northgate,Northgate2,Nonfiction,Adult,History,Null,English,English
 2011,1,Northgate,Northgate2,Fiction,Adult,Novel,Null,English,English
 2003,1,Northgate,Northgate2,Fiction,Adult,Novel,Null,English,English
 2010,1,Northgate,Northgate2,Fiction,Adult,Novel,Null,English,English
@@ -413,6 +403,50 @@ yrpub,count,neighborhood,collection,type,age,category1,category2,languages,origi
 2011,1,Northgate,Northgate2,Fiction,Adult,Novel,Null,English,English
 1992,1,Northgate,Northgate2,Fiction,Adult,Novel,Null,English,English
 2015,1,Northgate,Northgate2,Fiction,Young Adult,Novel,Null,English,English
+2012,1,Northgate,Northgate2,Fiction,Childrens,Null,Null,English,English
+1965,1,Northgate,Northgate2,Fiction,Childrens,Null,Null,English,English
+2018,1,Northgate,Northgate2,Fiction,Childrens,Null,Null,English,English
+2007,1,Northgate,Northgate2,Fiction,Childrens,Null,Null,English,English
+1983,1,Northgate,Northgate2,Nonfiction,Adult,Religion,Null,English,Chinese
+1984,1,Northgate,Northgate2,Nonfiction,Adult,Religion,Null,"Hindi, English",English
+1970,1,Northgate,Northgate2,Nonfiction,Adult,Religion,Null,,
+1978,1,Northgate,Northgate2,Nonfiction,Adult,Religion,Null,English,Chinese
+2016,1,Northgate,Northgate2,Fiction,Adult,Thriller/Suspense,Null,English,English
+2011,1,Northgate,Northgate2,Fiction,Adult,Thriller/Suspense,Null,English,English
+2011,1,Northgate,Northgate2,Fiction,Adult,Thriller/Suspense,Null,English,English
+2004,1,Northgate,Northgate3,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
+2017,1,Northgate,Northgate3,Nonfiction,Adult,Art,Null,English,English
+2011,1,Northgate,Northgate3,Nonfiction,Adult,Biography/Autobiography/Memoir,History,English,English
+2005,1,Northgate,Northgate3,Nonfiction,Adult,Biography/Autobiography/Memoir,History,English,English
+2004,1,Northgate,Northgate3,Nonfiction,Adult,Biography/Autobiography/Memoir,History,English,English
+2002,1,Northgate,Northgate3,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+2008,1,Northgate,Northgate3,Nonfiction,Adult,Biography/Autobiography/Memoir,Religion,English,
+1998,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
+1990,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,,
+1992,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
+1984,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
+1995,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
+1998,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
+1987,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
+1975,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
+1979,1,Northgate,Northgate3,Nonfiction,Adult,Crafts,Null,English,English
+1999,1,Northgate,Northgate3,Nonfiction,Adult,Cultural Studies,Null,English,English
+2012,1,Northgate,Northgate3,Nonfiction,Adult,Cultural Studies,Null,English,English
+2001,1,Northgate,Northgate3,Nonfiction,Adult,Cultural Studies,Null,English,English
+1999,1,Northgate,Northgate3,Nonfiction,Childrens,History,Null,"English, Undetermined",English
+2005,1,Northgate,Northgate3,Fiction,Young Adult,History,Null,English,English
+1993,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
+1999,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
+2012,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
+1997,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
+1993,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
+1988,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
+2017,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
+2007,1,Northgate,Northgate3,Fiction,Adult,Mystery,Null,English,English
+1988,1,Northgate,Northgate3,Nonfiction,Adult,Nature/Gardening,Null,English,English
+1994,1,Northgate,Northgate3,Nonfiction,Adult,Nature/Gardening,Null,English,English
+1979,1,Northgate,Northgate3,Nonfiction,Adult,Nature/Gardening,Null,English,English
+2002,1,Northgate,Northgate3,Nonfiction,Childrens,Nature/Gardening,Null,English,English
 2003,1,Northgate,Northgate3,Fiction,Adult,Novel,History,English,English
 2013,1,Northgate,Northgate3,Fiction,Adult,Novel,History,English,English
 2019,1,Northgate,Northgate3,Fiction,Adult,Novel,Null,English,English
@@ -429,22 +463,192 @@ yrpub,count,neighborhood,collection,type,age,category1,category2,languages,origi
 2013,1,Northgate,Northgate3,Fiction,Adult,Novel,Religion,English,English
 2013,1,Northgate,Northgate3,Fiction,Adult,Novel,Religion,English,English
 2015,1,Northgate,Northgate3,Fiction,Adult,Novel,Religion,English,English
+1995,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+1996,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+1960,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,
+2014,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+2002,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+1987,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+2003,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+2004,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,
+2006,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+1994,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+2005,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+1975,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,
+2004,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+2012,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+2011,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+2014,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,
+2014,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,,English
+2014,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,,English
+2007,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+1982,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+2004,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+2009,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+2009,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+1999,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+2016,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+2011,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+1997,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+2014,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+2014,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,,English
+2007,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+2003,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+2007,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+2004,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+2009,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+1982,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+1999,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+1997,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+2015,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+1991,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+1984,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,,
+1992,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+1991,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+1991,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+2001,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+2015,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+1999,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+2012,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+1971,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+2011,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,
+2018,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,,
+2011,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+1991,1,Northgate,Northgate3,Nonfiction,Childrens,Null,Null,English,English
+2002,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+1970,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,,English
+1989,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+1999,1,Northgate,Northgate3,Fiction,Childrens,Null,Null,English,English
+2005,1,Northgate,Northgate3,Nonfiction,Adult,Reference,Null,English,English
+1975,1,Northgate,Northgate3,Nonfiction,Adult,Reference,Null,English,English
+1988,1,Northgate,Northgate3,Nonfiction,Adult,Reference,Self Help/Health,English,English
+2010,1,Northgate,Northgate3,Nonfiction,Adult,Religion,Null,English,English
+1983,1,Northgate,Northgate3,Nonfiction,Adult,Religion,Null,English,Chinese
+1998,1,Northgate,Northgate3,Fiction,Adult,Romance,Null,English,English
+2016,1,Northgate,Northgate3,Fiction,Adult,Romance,Null,English,
+1994,1,Northgate,Northgate3,Nonfiction,Adult,Science,Cultural Studies,English,English
+1998,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+1995,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2006,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+1987,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2004,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2004,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+1980,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2003,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2003,1,Northgate,Northgate3,Fiction,Childrens,SciFi/Fantasy,Null,English,English
+2002,1,Northgate,Northgate3,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
+2016,1,Northgate,Northgate3,Nonfiction,Adult,Self Help/Health,Cultural Studies,English,English
+2011,1,Northgate,Northgate3,Nonfiction,Adult,Self Help/Health,Cultural Studies,English,English
+1999,1,Northgate,Northgate3,Nonfiction,Adult,Self Help/Health,Null,English,English
+2012,1,Northgate,Northgate3,Nonfiction,Adult,Self Help/Health,Null,English,English
+1999,1,Northgate,Northgate3,Nonfiction,Adult,Self Help/Health,Null,English,English
+2014,1,Northgate,Northgate3,Nonfiction,Adult,Self Help/Health,Null,English,
+1999,1,Northgate,Northgate3,Nonfiction,Adult,Self Help/Health,Null,English,English
+1964,1,Northgate,Northgate3,Nonfiction,Adult,Sports,Null,,
+1969,1,Northgate,Northgate3,Nonfiction,Adult,Sports,Null,English,
+2010,1,Northgate,Northgate3,Nonfiction,Adult,Sports,Null,English,English
+1989,1,Northgate,Northgate3,Nonfiction,Adult,Sports,Null,English,English
+1989,1,Northgate,Northgate3,Nonfiction,Adult,Sports,Null,English,
+1967,1,Northgate,Northgate3,Nonfiction,Adult,Sports,Null,,English
+1968,1,Northgate,Northgate3,Nonfiction,Adult,Sports,Null,,
+2013,1,Northgate,Northgate3,Fiction,Adult,Thriller/Suspense,Null,English,English
+2011,1,Northgate,Northgate3,Fiction,Adult,Thriller/Suspense,Null,English,English
+2010,1,Northgate,Northgate3,Fiction,Adult,Thriller/Suspense,Null,English,English
+1995,1,Northgate,Northgate3,Fiction,Adult,Thriller/Suspense,Null,English,English
+2014,1,Northgate,Northgate3,Fiction,Adult,Thriller/Suspense,Null,English,English
+1995,1,Northgate,Northgate3,Nonfiction,Adult,Travel,Null,English,English
+1995,1,Northgate,Northgate3,Nonfiction,Adult,Science,Null,,
+1992,1,Northgate,Northgate4,Nonfiction,Adult,Cookery,Null,English,
+2007,1,Northgate,Northgate4,Nonfiction,Adult,Cookery,Self Help/Health,English,English
+2009,1,Northgate,Northgate4,Nonfiction,Adult,Cultural Studies,Null,English,English
+1990,1,Northgate,Northgate4,Fiction,Adult,Mystery,Null,English,English
+1978,1,Northgate,Northgate4,Fiction,Adult,Mystery,Null,English,English
+1995,1,Northgate,Northgate4,Fiction,Adult,Mystery,Null,English,English
+1966,1,Northgate,Northgate4,Nonfiction,Adult,Nature/Gardening,Null,English,English
 2000,1,Northgate,Northgate4,Fiction,Adult,Novel,Null,English,English
+1964,1,Northgate,Northgate4,Nonfiction,Childrens,Null,Null,English,
+1985,1,Northgate,Northgate4,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2007,1,Northgate,Northgate4,Nonfiction,Adult,Self Help/Health,Null,English,English
+2003,1,Northgate,Northgate4,Nonfiction,Adult,Self Help/Health,Null,English,English
+2013,1,Northgate,Northgate4,Nonfiction,Adult,Self Help/Health,Null,English,English
+2009,1,Northgate,Northgate4,Fiction,Adult,Thriller/Suspense,Null,English,English
+2015,1,Northgate,Northgate4,Fiction,Adult,Thriller/Suspense,Null,English,English
+1985,1,Northgate,Northgate5,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
+2018,1,Northgate,Northgate5,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1954,1,Northgate,Northgate5,Fiction,Adult,Classics,Novel,English,English
+1993,1,Northgate,Northgate5,Fiction,Adult,Classics,Null,English,English
+2016,1,Northgate,Northgate5,Nonfiction,Adult,Cultural Studies,Null,English,English
+1985,1,Northgate,Northgate5,Fiction,Adult,Drama,Null,English,English
+2017,1,Northgate,Northgate5,Fiction,Adult,Mystery,Null,English,English
+2004,1,Northgate,Northgate5,Fiction,Adult,Mystery,Null,English,English
+2018,1,Northgate,Northgate5,Fiction,Young Adult,Mystery,Null,English,English
 2004,1,Northgate,Northgate5,Fiction,Adult,Novel,Biography,English,English
 2007,1,Northgate,Northgate5,Fiction,Adult,Novel,History,English,English
 1998,1,Northgate,Northgate5,Fiction,Adult,Novel,History,English,English
 2017,1,Northgate,Northgate5,Fiction,Adult,Novel,Null,English,English
-2011,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Novel,Null,English,English
-1988,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Novel,Null,English,English
-2013,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Novel,Null,English,English
-1996,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Novel,Null,English,English
-1961,1,Phinney-Greenwood,Phinney-Green2,Fiction,Young Adult,Novel,Null,English,
+2014,1,Northgate,Northgate5,Fiction,Childrens,Null,Null,English,English
+1986,1,Northgate,Northgate5,Nonfiction,Adult,Reference,Null,English,English
+1963,1,Northgate,Northgate5,Nonfiction,Adult,Religion,Self Help/Health,English,English
+2010,1,Northgate,Northgate5,Nonfiction,Adult,Self Help/Health,Null,English,English
+1986,1,Northgate,Northgate5,Fiction,Adult,Thriller/Suspense,Null,English,English
+1967,1,Phinney-Greenwood,Phinney-Green1,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1993,1,Phinney-Greenwood,Phinney-Green1,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1999,1,Phinney-Greenwood,Phinney-Green1,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1980,1,Phinney-Greenwood,Phinney-Green1,Fiction,Adult,Drama,Null,,
+2002,1,Phinney-Greenwood,Phinney-Green1,Nonfiction,Adult,History,Null,English,English
+2017,1,Phinney-Greenwood,Phinney-Green1,Fiction,Adult,Mystery,Null,English,English
 2011,1,Phinney-Greenwood,Phinney-Green1,Fiction,Adult,Novel,Null,English,English
 2017,1,Phinney-Greenwood,Phinney-Green1,Fiction,Adult,Novel,Null,English,English
 1997,1,Phinney-Greenwood,Phinney-Green1,Fiction,Adult,novel,Null,English,English
 1987,1,Phinney-Greenwood,Phinney-Green1,Fiction,Adult,Novel,Null,English,English
 2019,1,Phinney-Greenwood,Phinney-Green1,Fiction,Adult,Novel,Null,English,English
 2017,1,Phinney-Greenwood,Phinney-Green1,Fiction,Adult,Novel,Null,English,English
+2000,1,Phinney-Greenwood,Phinney-Green1,Fiction,Adult,Romance,Null,English,English
+2007,1,Phinney-Greenwood,Phinney-Green1,Nonfiction,Adult,Self Help/Health,Crafts,English,English
+1997,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Drama,Null,English,
+1992,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Mystery,Null,English,English
+1995,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Mystery,Null,English,English
+1991,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Mystery,Null,English,English
+1994,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Mystery,Null,English,English
+2011,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Novel,Null,English,English
+1988,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Novel,Null,English,English
+2013,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Novel,Null,English,English
+1996,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Novel,Null,English,English
+1961,1,Phinney-Greenwood,Phinney-Green2,Fiction,Young Adult,Novel,Null,English,
+2013,1,Phinney-Greenwood,Phinney-Green2,Fiction,Childrens,Null,Null,English,English
+2014,1,Phinney-Greenwood,Phinney-Green2,Fiction,Childrens,Null,Null,Spanish,
+2003,1,Phinney-Greenwood,Phinney-Green2,Fiction,Childrens,Null,Null,English,
+1988,1,Phinney-Greenwood,Phinney-Green2,Fiction,Childrens,Null,Null,English,English
+1987,1,Phinney-Greenwood,Phinney-Green2,Fiction,Childrens,Null,Null,,
+1998,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Religion,Null,English,English
+2003,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Romance,Null,English,English
+1993,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Romance,Null,English,English
+1985,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2003,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Self Help/Health,Null,English,
+2016,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Self Help/Health,Null,English,English
+2006,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Self Help/Health,Null,English,English
+1999,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Self Help/Health,Null,English,English
+1999,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Self Help/Health,Null,English,English
+1980,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Self Help/Health,Null,English,English
+2011,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Thriller/Suspense,Null,English,English
+2012,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Poetry,Null,English,
+2014,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Business/Technology,Null,English,
+1967,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Self Help/Health,Null,English,
+2012,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1961,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Cookery,Null,English,English
+1977,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Crafts,Null,English,English
+1986,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Crafts,Null,English,English
+2016,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Cultural Studies,Null,English,English
+2016,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Cultural Studies,Null,English,English
+2007,1,Phinney-Greenwood,Phinney-Green3,Fiction,Young Adult,Cultural Studies,Null,English,English
+2016,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,History,Cultural Studies,English,English
+2003,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,History,Null,English,English
+1985,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,History,Null,English,English
+1984,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,History,Null,English,English
+1975,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,History,Null,English,
+2007,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Mystery,Null,English,English
+2015,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Mystery,Null,English,English
+2005,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Mystery,Null,English,English
 2010,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Novel,Null,English,English
 2007,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Novel,Null,English,English
 2015,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Novel,Null,English,English
@@ -461,6 +665,56 @@ yrpub,count,neighborhood,collection,type,age,category1,category2,languages,origi
 2001,1,Phinney-Greenwood,Phinney-Green3,Fiction,Young Adult,novel,Null,English,English
 1992,1,Phinney-Greenwood,Phinney-Green3,Fiction,Young Adult,Novel,Null,English,
 1999,1,Phinney-Greenwood,Phinney-Green3,Fiction,Young Adult,Novel,Null,English,English
+1999,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Childrens,Null,Null,English,English
+2018,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+2014,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+2016,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+1976,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+2009,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+2012,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+2014,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+2014,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+2005,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Childrens,Null,Null,English,English
+1987,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Childrens,Null,Null,English,English
+1987,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Childrens,Null,Null,English,English
+1987,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+2017,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+2017,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+2000,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+1985,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+1993,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+2015,1,Phinney-Greenwood,Phinney-Green3,Fiction,Childrens,Null,Null,English,English
+2015,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Religion,Null,English,English
+2015,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2002,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2000,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
+2001,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
+2009,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,,English
+2003,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
+2006,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
+1999,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
+2004,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
+1993,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
+2001,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
+1999,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
+2004,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
+1988,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Sports,Null,English,English
+2001,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Thriller/Suspense,Null,English,English
+2014,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Thriller/Suspense,Null,English,English
+1995,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Travel,Null,English,German
+2013,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Travel,Null,English,English
+2012,1,Phinney-Greenwood,Phinney-Green4,Nonfiction,Adult,Anthology/Essays/Short stories,Null,English,
+2005,1,Phinney-Greenwood,Phinney-Green4,Fiction,Young Adult,Anthology/Essays/Short stories,Null,English,English
+2018,1,Phinney-Greenwood,Phinney-Green4,Nonfiction,Adult,Cultural Studies,Null,English,English
+2005,1,Phinney-Greenwood,Phinney-Green4,Nonfiction,Adult,Cultural Studies,Null,English,English
+1993,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Mystery,Null,English,English
+2011,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Mystery,Null,English,English
+2002,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Mystery,Null,English,English
+1998,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Mystery,Null,English,English
+1998,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Mystery,Null,"English, Achinese",English
+1966,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Mystery,Null,,
+1978,1,Phinney-Greenwood,Phinney-Green4,Fiction,Young Adult,Mystery,Null,English,English
+2017,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Mystery,Null,English,English
 2014,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Novel,Null,English,English
 2004,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Novel,Null,English,English
 2001,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Novel,Null,English,English
@@ -477,18 +731,96 @@ yrpub,count,neighborhood,collection,type,age,category1,category2,languages,origi
 1990,1,Phinney-Greenwood,Phinney-Green4,Fiction,Young Adult,Novel,Null,English,English
 2008,1,Phinney-Greenwood,Phinney-Green4,Fiction,Young Adult,novel,Null,English,English
 2004,1,Phinney-Greenwood,Phinney-Green4,Fiction,Young Adult,Novel,Null,English,English
+1974,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,
+2003,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,,English
+1981,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,English
+2006,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,English
+2018,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,English
+2005,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,English
+2004,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,English
+2008,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,English
+2005,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,English
+1999,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,English
+2001,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,English
+1999,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,
+1959,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,English
+2008,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,
+2003,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,English
+1978,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,English
+2003,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,English
+1979,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Null,Null,English,English
+1990,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Poetry,Null,English,English
+1964,1,Phinney-Greenwood,Phinney-Green4,Fiction,Childrens,Religion,Null,English,English
+2013,1,Phinney-Greenwood,Phinney-Green4,Fiction,Young Adult,Religion,Null,English,English
+2015,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Romance,Null,English,English
+2017,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Romance,Null,English,English
+2016,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2007,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2012,1,Phinney-Greenwood,Phinney-Green4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
+2001,1,Phinney-Greenwood,Phinney-Green4,Nonfiction,Adult,Self Help/Health,Null,English,English
+1998,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Thriller/Suspense,Null,English,English
+2014,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Thriller/Suspense,Null,English,English
+2002,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Thriller/Suspense,Null,English,English
+2017,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Thriller/Suspense,Null,English,English
+2010,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Thriller/Suspense,Null,English,English
+2018,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Thriller/Suspense,Null,English,English
+2000,1,Phinney-Greenwood,Phinney-Green5,Fiction,Young Adult,Mystery,Null,English,English
 2018,1,Phinney-Greenwood,Phinney-Green5,Fiction,Adult,Novel,Null,English,English
+2003,1,Phinney-Greenwood,Phinney-Green5,Fiction,Childrens,Null,Null,English,English
+2000,1,Phinney-Greenwood,Phinney-Green5,Fiction,Childrens,Null,Null,English,English
+1999,1,Phinney-Greenwood,Phinney-Green5,Fiction,Childrens,Null,Null,English,English
+2007,1,Phinney-Greenwood,Phinney-Green5,Fiction,Childrens,Religion,Null,English,English
+2007,1,Phinney-Greenwood,Phinney-Green5,Fiction,Young Adult,SciFi/Fantasy,Null,English,Undetermined
+2006,1,Phinney-Greenwood,Phinney-Green5,Fiction,Young Adult,SciFi/Fantasy,Null,English,
+1993,1,Phinney-Greenwood,Phinney-Green5,Fiction,Adult,SciFi/Fantasy,SciFi/Fantasy,English,English
+1992,1,Phinney-Greenwood,Phinney-Green5,Nonfiction,Adult,Self Help/Health,Null,English,English
+1996,1,Phinney-Greenwood,Phinney-Green5,Nonfiction,Adult,Self Help/Health,Null,English,
+1978,1,Phinney-Greenwood,Phinney-Green5,Nonfiction,Adult,Self Help/Health,Null,English,English
+1986,1,Phinney-Greenwood,Phinney-Green5,Fiction,Adult,Thriller/Suspense,Null,English,English
+2015,1,Phinney-Greenwood,Phinney-Green5,Fiction,Adult,Thriller/Suspense,Null,English,English
+2003,1,Phinney-Greenwood,Phinney-Green5,Fiction,Adult,Thriller/Suspense,Null,English,English
+1992,1,Phinney-Greenwood,Phinney-Green5,Fiction,Adult,Thriller/Suspense,Null,English,English
+1973,1,Phinney-Greenwood,Phinney-Green5,Nonfiction,Adult,Travel,Null,,
+2018,1,Phinney-Greenwood,Phinney-Green5,Fiction,Childrens,Null,Null,English,
+2017,1,Queen Anne,QueenAnne1,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1949,1,Queen Anne,QueenAnne1,Nonfiction,Adult,Cookery,Null,,
+1971,1,Queen Anne,QueenAnne1,Nonfiction,Adult,Cultural Studies,Null,English,English
 1987,1,Queen Anne,QueenAnne1,Fiction,Adult,Novel,Null,English,English
 2018,1,Queen Anne,QueenAnne1,Fiction,Adult,Novel,Null,English,English
 2012,1,Queen Anne,QueenAnne1,Fiction,Adult,Novel,Null,English,English
 2013,1,Queen Anne,QueenAnne1,Fiction,Adult,Novel,Null,English,English
 1987,1,Queen Anne,QueenAnne1,Fiction,Adult,Novel,Null,English,English
-2009,1,Queen Anne,QueenAnne1,Fiction,Children,Novel,Null,English,English
+2009,1,Queen Anne,QueenAnne1,Fiction,Childrens,Novel,Null,English,English
 1991,1,Queen Anne,QueenAnne1,Fiction,Young Adult,Novel,Null,English,English
+2003,1,Queen Anne,QueenAnne1,Fiction,Childrens,Null,Null,English,English
+2015,1,Queen Anne,QueenAnne1,Fiction,Childrens,Null,Null,English,English
+2003,1,Queen Anne,QueenAnne1,Fiction,Childrens,Null,Null,English,English
+2014,1,Queen Anne,QueenAnne1,Fiction,Childrens,Null,Null,,
+2003,1,Queen Anne,QueenAnne1,Fiction,Childrens,Null,Null,English,English
+2010,1,Queen Anne,QueenAnne1,Fiction,Adult,Thriller/Suspense,Null,English,English
+1992,1,Queen Anne,QueenAnne1,Fiction,Adult,Thriller/Suspense,Null,English,English
+1992,1,Queen Anne,QueenAnne1,Fiction,Childrens,Null,Null,English,
+1992,1,Queen Anne,QueenAnne1,Fiction,Childrens,Null,Null,English,
+2018,1,Queen Anne,QueenAnne2,Nonfiction,Adult,Cultural Studies,Anthology,English,English
+2018,1,Queen Anne,QueenAnne2,Nonfiction,Adult,Cultural Studies,Null,English,English
+1998,1,Queen Anne,QueenAnne2,Nonfiction,Adult,Cultural Studies,Null,English,English
 2014,1,Queen Anne,QueenAnne2,Fiction,Adult,Novel,Null,English,English
 1984,1,Queen Anne,QueenAnne2,Fiction,Adult,Novel,Null,English,English
 1984,1,Queen Anne,QueenAnne2,Fiction,Adult,Novel,Null,English,English
 1999,1,Queen Anne,QueenAnne2,Fiction,Adult,Novel,Null,English,English
+2007,1,Queen Anne,QueenAnne2,Fiction,Childrens,Null,Null,English,English
+2007,1,Queen Anne,QueenAnne2,Fiction,Childrens,Null,Null,English,English
+1993,1,Queen Anne,QueenAnne2,Fiction,Childrens,Null,Null,English,English
+2009,1,Queen Anne,QueenAnne2,Nonfiction,Childrens,Null,Null,English,English
+1990,1,Queen Anne,QueenAnne2,Nonfiction,Childrens,Null,Null,English,English
+1976,1,Queen Anne,QueenAnne2,Fiction,Childrens,Null,Null,English,English
+2009,1,Queen Anne,QueenAnne2,Fiction,Adult,Thriller/Suspense,Null,English,English
+2001,1,Queen Anne,QueenAnne3,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
+1988,1,Queen Anne,QueenAnne3,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+2009,1,Queen Anne,QueenAnne3,Nonfiction,Adult,Cultural Studies,Null,English,English
+2004,1,Queen Anne,QueenAnne3,Nonfiction,Adult,Cultural Studies,Null,English,English
+1994,1,Queen Anne,QueenAnne3,Fiction,Adult,Mystery,Null,English,English
+1988,1,Queen Anne,QueenAnne3,Fiction,Young Adult,Mystery,Null,English,English
 2018,1,Queen Anne,QueenAnne3,Fiction,Adult,Novel,Null,English,English
 2004,1,Queen Anne,QueenAnne3,Fiction,Adult,Novel,Null,English,English
 2001,1,Queen Anne,QueenAnne3,Fiction,Adult,novel,Null,English,English
@@ -496,18 +828,98 @@ yrpub,count,neighborhood,collection,type,age,category1,category2,languages,origi
 2018,1,Queen Anne,QueenAnne3,Fiction,Young Adult,Novel,Null,English,English
 2018,1,Queen Anne,QueenAnne3,Fiction,Young Adult,Novel,Null,English,English
 2016,1,Queen Anne,QueenAnne3,Fiction,Young Adult,Novel,Null,English,English
+1983,1,Queen Anne,QueenAnne3,Fiction,Childrens,Null,Null,English,English
+1969,1,Queen Anne,QueenAnne3,Fiction,Childrens,Null,Null,English,English
+1987,1,Queen Anne,QueenAnne3,Fiction,Childrens,Null,Null,English,English
+2014,1,Queen Anne,QueenAnne3,Fiction,Childrens,Null,Null,English,
+1990,1,Queen Anne,QueenAnne3,Fiction,Adult,Romance,Null,English,English
+2003,1,Queen Anne,QueenAnne3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+1999,1,Queen Anne,QueenAnne3,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2006,1,Queen Anne,QueenAnne3,Fiction,Adult,SciFi/Fantasy,SciFi/Fantasy,English,English
+1979,1,Queen Anne,QueenAnne3,Fiction,Adult,Thriller/Suspense,Null,English,English
+2002,1,Queen Anne,QueenAnne3,Fiction,Adult,Thriller/Suspense,Null,English,English
+2015,1,Queen Anne,QueenAnne3,Fiction,Adult,Thriller/Suspense,Null,English,English
+1998,1,Queen Anne,QueenAnne4,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
+2015,1,Queen Anne,QueenAnne4,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+2009,1,Queen Anne,QueenAnne4,Fiction,Adult,Classics,Novel,Spanish,Spanish
+1977,1,Queen Anne,QueenAnne4,Fiction,Adult,Classics,Religion,English,English
+2018,1,Queen Anne,QueenAnne4,Nonfiction,Adult,Cultural Studies,Null,English,English
+1993,1,Queen Anne,QueenAnne4,Fiction,Adult,Drama,Null,English,English
+2004,1,Queen Anne,QueenAnne4,Nonfiction,Adult,Graphic/Manga,Null,English,English
+2000,1,Queen Anne,QueenAnne4,Fiction,Adult,Mystery,Null,English,English
+1991,1,Queen Anne,QueenAnne4,Fiction,Adult,Mystery,Null,English,English
+2013,1,Queen Anne,QueenAnne4,Fiction,Adult,Mystery,Null,English,English
+1996,1,Queen Anne,QueenAnne4,Fiction,Adult,Mystery,Null,English,English
 2008,1,Queen Anne,QueenAnne4,Fiction,Adult,Novel,Null,English,English
 2002,1,Queen Anne,QueenAnne4,Fiction,Adult,Novel,Null,English,English
 1996,1,Queen Anne,QueenAnne4,Fiction,Adult,Novel,Null,English,English
 1997,1,Queen Anne,QueenAnne4,Fiction,Young Adult,Novel,Null,English,English
 2000,1,Queen Anne,QueenAnne4,Fiction,Adult,Novel,Religion,English,English
+2004,1,Queen Anne,QueenAnne4,Nonfiction,Childrens,Null,Null,English,English
+1976,1,Queen Anne,QueenAnne4,Fiction,Adult,Romance,Null,English,English
+2003,1,Queen Anne,QueenAnne4,Fiction,Adult,Romance,Null,English,English
+2011,1,Queen Anne,QueenAnne4,Fiction,Adult,SciFi/Fantasy,Null,English,English
+1988,1,Queen Anne,QueenAnne4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
+1994,1,Queen Anne,QueenAnne4,Nonfiction,Adult,Self Help/Health,Null,English,English
+2000,1,Queen Anne,QueenAnne4,Fiction,Adult,Thriller/Suspense,Null,English,English
+2005,1,Queen Anne,QueenAnne4,Fiction,Adult,Thriller/Suspense,Null,English,English
+2003,1,Queen Anne,QueenAnne4,Fiction,Adult,Thriller/Suspense,Null,English,English
+1985,1,Queen Anne,QueenAnne4,Fiction,Adult,Thriller/Suspense,Null,English,English
+2000,1,Queen Anne,QueenAnne5,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+2000,1,Queen Anne,QueenAnne5,Fiction,Adult,Classics,Null,English,English
+2006,1,Queen Anne,QueenAnne5,Nonfiction,Adult,Cookery,Null,English,English
+1996,1,Queen Anne,QueenAnne5,Fiction,Adult,Mystery,Null,English,English
+2006,1,Queen Anne,QueenAnne5,Fiction,Adult,Mystery,Null,English,English
+2014,1,Queen Anne,QueenAnne5,Fiction,Adult,Mystery,Null,English,English
+2004,1,Queen Anne,QueenAnne5,Fiction,Adult,Mystery,Null,English,English
 1998,1,Queen Anne,QueenAnne5,Fiction,Adult,Novel,Null,English,English
 2011,1,Queen Anne,QueenAnne5,Fiction,Adult,Novel,Null,English,English
 2018,1,Queen Anne,QueenAnne5,Fiction,Adult,Novel,Null,English,English
+2002,1,Queen Anne,QueenAnne5,Fiction,Childrens,Null,Null,,
+1984,1,Queen Anne,QueenAnne5,Fiction,Childrens,Null,Null,English,English
+2003,1,Queen Anne,QueenAnne5,Fiction,Childrens,Null,Null,English,English
+1993,1,Queen Anne,QueenAnne5,Nonfiction,Childrens,Null,Null,English,English
+2010,1,Queen Anne,QueenAnne5,Fiction,Childrens,Null,Null,English,English
+2001,1,Queen Anne,QueenAnne5,Fiction,Childrens,Null,Null,English,English
+2014,1,Queen Anne,QueenAnne5,Fiction,Childrens,Null,Null,English,English
+2015,1,Queen Anne,QueenAnne5,Fiction,Childrens,Religion,Null,English,English
+2013,1,Queen Anne,QueenAnne5,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
+1982,1,Queen Anne,QueenAnne5,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2010,1,Queen Anne,QueenAnne5,Nonfiction,Adult,Self Help/Health,Null,English,English
+2006,1,Queen Anne,QueenAnne5,Nonfiction,Adult,Self Help/Health,Null,English,English
+1980,1,Queen Anne,QueenAnne5,Nonfiction,Adult,Sports,Null,,
+2002,1,Queen Anne,QueenAnne5,Fiction,Adult,Thriller/Suspense,Null,English,English
+1988,1,Ravenna,Ravenna1,Fiction,Young Adult,Classics,Null,English,English
+2017,1,Ravenna,Ravenna1,Nonfiction,Adult,History,Null,English,English
+2000,1,Ravenna,Ravenna1,Fiction,Adult,Mystery,Null,English,English
+1993,1,Ravenna,Ravenna1,Fiction,Adult,Mystery,Null,English,English
+2000,1,Ravenna,Ravenna1,Fiction,Adult,Mystery,Null,English,English
+2011,1,Ravenna,Ravenna1,Fiction,Adult,Mystery,Null,English,English
 2000,1,Ravenna,Ravenna1,Fiction,Young Adult,Novel,History,English,English
 1976,1,Ravenna,Ravenna1,Fiction,Adult,Novel,Null,English,English
 1976,1,Ravenna,Ravenna1,Fiction,Adult,Novel,Null,English,English
 2018,1,Ravenna,Ravenna1,Fiction,Young Adult,Novel,Null,English,English
+2019,1,Ravenna,Ravenna1,Fiction,Adult,Poetry,Null,English,English
+2007,1,Ravenna,Ravenna1,Nonfiction,Adult,Religion,Null,English,English
+2003,1,Ravenna,Ravenna1,Fiction,Childrens,SciFi/Fantasy,Graphic/Manga,English,English
+2011,1,Ravenna,Ravenna1,Fiction,Childrens,SciFi/Fantasy,Graphic/Manga,English,English
+2015,1,Ravenna,Ravenna1,Fiction,Childrens,SciFi/Fantasy,Graphic/Manga,English,English
+2010,1,Ravenna,Ravenna1,Fiction,Childrens,SciFi/Fantasy,Graphic/Manga,English,English
+2013,1,Ravenna,Ravenna1,Fiction,Adult,SciFi/Fantasy,Null,English,English
+2010,1,Ravenna,Ravenna1,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
+2019,1,Ravenna,Ravenna1,Fiction,Adult,Thriller/Suspense,Null,English,English
+1989,1,Ravenna,Ravenna2,Fiction,Adult,Anthology/Essays/Short stories,Null,English,English
+1994,1,Ravenna,Ravenna2,Nonfiction,Adult,Biography/Autobiography/Memoir,Null,English,English
+1991,1,Ravenna,Ravenna2,Nonfiction,Adult,Cultural Studies,Null,English,English
+2011,1,Ravenna,Ravenna2,Nonfiction,Adult,Music,Null,English,
+2002,1,Ravenna,Ravenna2,Fiction,Adult,Mystery,Null,English,English
+2000,1,Ravenna,Ravenna2,Fiction,Adult,Mystery,Null,English,English
+2000,1,Ravenna,Ravenna2,Fiction,Adult,Mystery,Null,English,English
+2005,1,Ravenna,Ravenna2,Fiction,Adult,Mystery,Null,English,English
+2009,1,Ravenna,Ravenna2,Fiction,Adult,Mystery,Null,English,English
+1994,1,Ravenna,Ravenna2,Fiction,Adult,Mystery,Null,English,English
+1997,1,Ravenna,Ravenna2,Fiction,Adult,Mystery,Null,English,English
+2005,1,Ravenna,Ravenna2,Nonfiction,Adult,Nature/Gardening,Null,English,English
 2005,1,Ravenna,Ravenna2,Fiction,Adult,Novel,Null,English,English
 2016,1,Ravenna,Ravenna2,Fiction,Adult,Novel,Null,English,English
 2005,1,Ravenna,Ravenna2,Fiction,Adult,Novel,Null,English,English
@@ -515,253 +927,7 @@ yrpub,count,neighborhood,collection,type,age,category1,category2,languages,origi
 1998,1,Ravenna,Ravenna2,Fiction,Adult,Novel,Null,English,English
 2009,1,Ravenna,Ravenna2,Fiction,Young Adult,Novel,Null,English,English
 2009,1,Ravenna,Ravenna2,Fiction,Young Adult,Novel,Null,English,English
-2016,1,Ravenna,Ravenna3,Fiction,Adult,Novel,Null,English,English
-1990,1,Ravenna,Ravenna3,Fiction,Adult,Novel,Null,English,Japanese
-2009,1,Ravenna,Ravenna3,Fiction,Adult,Novel,Null,English,English
-2010,1,Ravenna,Ravenna3,Fiction,Young Adult,Novel,Null,English,English
-2008,1,Ravenna,Ravenna4,Fiction,Adult,Novel,Null,English,English
-2017,1,Ravenna,Ravenna4,Fiction,Adult,Novel,Null,English,English
-2015,1,Ravenna,Ravenna5,Fiction,Adult,Novel,Religion,English,English
-2012,1,Ravenna,Ravenna5,Fiction,Adult,Novel,Null,English,English
-2017,1,Ravenna,Ravenna6,Fiction,Adult,Novel,Null,English,English
-2015,1,Ravenna,Ravenna6,Fiction,Adult,Novel,Null,English,English
-2017,1,Ravenna,Ravenna6,Fiction,Adult,Novel,Null,English,English
-2007,1,Ravenna,Ravenna6,Fiction,Adult,Novel,Null,English,English
-2002,1,Central District,CentralDistrict3,Fiction,Children,Null,Null,English,English
-1997,1,Central District,CentralDistrict3,Fiction,Children,Null,Null,English,English
-2004,1,Central District,CentralDistrict3,Fiction,Children,Null,Null,English,English
-2005,1,Central District,CentralDistrict3,Nonfiction,Children,Null,Null,English,English
-2013,1,Central District,CentralDistrict3,Fiction,Children,Null,Null,English,English
-1999,1,Central District,CentralDistrict3,Fiction,Children,Null,Null,English,English
-2005,1,Central District,CentralDistrict3,Fiction,Children,Null,Null,,English
-2011,1,Central District,CentralDistrict4,Fiction,Children,Null,Null,English,English
-2006,1,Central District,CentralDistrict4,Fiction,Children,Null,Null,English,English
-1997,1,Central District,CentralDistrict4,Fiction,Children,Null,Null,English,English
-1982,1,Central District,CentralDistrict4,Fiction,Children,Null,Null,,
-2000,1,Central District,CentralDistrict4,Nonfiction,Children,Null,Null,English,English
-1999,1,Central District,CentralDistrict4,Fiction,Children,Null,Null,German,German
-2005,1,Columbia City,ColumbiaCity4,Fiction,Children,Null,Null,English,English
-2005,1,Columbia City,ColumbiaCity4,Fiction,Children,Null,Null,"English, Italian",English
-2006,1,Columbia City,ColumbiaCity4,Fiction,Children,Null,Null,English,English
-2005,1,Columbia City,ColumbiaCity4,Fiction,Children,Null,Null,English,English
-2011,1,Columbia City,ColumbiaCity4,Fiction,Children,Null,Null,English,English
-2007,1,Columbia City,ColumbiaCity3,Fiction,Children,Null,Null,English,English
-2005,1,Laurelhurst,Laurelhurst1,Fiction,Children,Null,Null,English,English
-2002,1,Laurelhurst,Laurelhurst3,Fiction,Children,Null,Null,English,English
-1999,1,Laurelhurst,Laurelhurst3,Fiction,Children,Null,Null,English,English
-2003,1,Laurelhurst,Laurelhurst3,Fiction,Children,Null,Null,English,English
-2000,1,Laurelhurst,Laurelhurst3,Fiction,Children,Null,Null,English,English
-1999,1,Laurelhurst,Laurelhurst3,Fiction,Children,Null,Null,English,English
-1999,1,Laurelhurst,Laurelhurst3,Fiction,Children,Null,Null,English,English
-1986,1,Laurelhurst,Laurelhurst4,Fiction,Children,Null,Null,English,English
-1998,1,Laurelhurst,Laurelhurst5,Fiction,Children,Null,Null,English,English
-2012,1,Laurelhurst,Laurelhurst5,Fiction,Children,Null,Null,English,English
-2014,1,Laurelhurst,Laurelhurst5,Nonfiction,Children,Null,Null,English,English
-2004,1,Laurelhurst,Laurelhurst5,Fiction,Children,Null,Null,English,English
-1998,1,Laurelhurst,Laurelhurst5,Fiction,Children,Null,Null,English,English
-2003,1,Laurelhurst,Laurelhurst6,Nonfiction,Children,Null,Null,English,English
-2000,1,Montlake,Montlake5,Fiction,Children,Null,Null,English,English
-2011,1,Montlake,Montlake5,Fiction,Children,Null,Null,Thai,Thai
-2013,1,Northgate,Northgate1,Fiction,Children,Null,Null,English,English
-2017,1,Northgate,Northgate1,Fiction,Children,Null,Null,English,English
-1999,1,Northgate,Northgate1,Nonfiction,Children,Null,Null,English,English
-2007,1,Northgate,Northgate1,Fiction,Children,Null,Null,English,English
-2001,1,Northgate,Northgate1,Fiction,Children,Null,Null,English,English
-1999,1,Northgate,Northgate1,Fiction,Children,Null,Null,English,English
-1989,1,Northgate,Northgate1,Fiction,Children,Null,Null,English,English
-2000,1,Northgate,Northgate1,Nonfiction,Children,Null,Null,English,English
-2010,1,Northgate,Northgate1,Nonfiction,Children,Null,Null,English,English
-1998,1,Northgate,Northgate1,Fiction,Children,Null,Null,English,English
-2012,1,Northgate,Northgate2,Fiction,Children,Null,Null,English,English
-1965,1,Northgate,Northgate2,Fiction,Children,Null,Null,English,English
-2018,1,Northgate,Northgate2,Fiction,Children,Null,Null,English,English
-2007,1,Northgate,Northgate2,Fiction,Children,Null,Null,English,English
-1995,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-1996,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-1960,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,
-2014,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-2002,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-1987,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-2003,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-2004,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,
-2006,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-1994,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-2005,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-1975,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,
-2004,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-2012,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-2011,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-2014,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,
-2014,1,Northgate,Northgate3,Fiction,Children,Null,Null,,English
-2014,1,Northgate,Northgate3,Fiction,Children,Null,Null,,English
-2007,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-1982,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-2004,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-2009,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-2009,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-1999,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-2016,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-2011,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-1997,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-2014,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-2014,1,Northgate,Northgate3,Fiction,Children,Null,Null,,English
-2007,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-2003,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-2007,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-2004,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-2009,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-1982,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-1999,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-1997,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-2015,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-1991,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-1984,1,Northgate,Northgate3,Fiction,Children,Null,Null,,
-1992,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-1991,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-1991,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-2001,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-2015,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-1999,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-2012,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-1971,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-2011,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,
-2018,1,Northgate,Northgate3,Fiction,Children,Null,Null,,
-2011,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-1991,1,Northgate,Northgate3,Nonfiction,Children,Null,Null,English,English
-2002,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-1970,1,Northgate,Northgate3,Fiction,Children,Null,Null,,English
-1989,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-1999,1,Northgate,Northgate3,Fiction,Children,Null,Null,English,English
-1964,1,Northgate,Northgate4,Nonfiction,Children,Null,Null,English,
-2014,1,Northgate,Northgate5,Fiction,Children,Null,Null,English,English
-2013,1,Phinney-Greenwood,Phinney-Green2,Fiction,Children,Null,Null,English,English
-2014,1,Phinney-Greenwood,Phinney-Green2,Fiction,Children,Null,Null,Spanish,
-2003,1,Phinney-Greenwood,Phinney-Green2,Fiction,Children,Null,Null,English,
-1988,1,Phinney-Greenwood,Phinney-Green2,Fiction,Children,Null,Null,English,English
-1987,1,Phinney-Greenwood,Phinney-Green2,Fiction,Children,Null,Null,,
-1987,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Children,Null,Null,English,English
-2018,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-2014,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-2016,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-1976,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-2009,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-2012,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-2014,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-2014,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-2005,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Children,Null,Null,English,English
-1987,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Children,Null,Null,English,English
-1987,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Children,Null,Null,English,English
-1987,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-2017,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-2017,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-2000,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-1985,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-1993,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-2015,1,Phinney-Greenwood,Phinney-Green3,Fiction,Children,Null,Null,English,English
-1974,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,
-2003,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,,English
-1981,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,English
-2006,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,English
-2018,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,English
-2005,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,English
-2004,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,English
-2008,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,English
-2005,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,English
-1999,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,English
-2001,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,English
-1999,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,
-1959,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,English
-2008,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,
-2003,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,English
-1978,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,English
-2003,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,English
-1979,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Null,Null,English,English
-2003,1,Phinney-Greenwood,Phinney-Green5,Fiction,Children,Null,Null,English,English
-2000,1,Phinney-Greenwood,Phinney-Green5,Fiction,Children,Null,Null,English,English
-1999,1,Phinney-Greenwood,Phinney-Green5,Fiction,Children,Null,Null,English,English
-2003,1,Queen Anne,QueenAnne1,Fiction,Children,Null,Null,English,English
-2015,1,Queen Anne,QueenAnne1,Fiction,Children,Null,Null,English,English
-2003,1,Queen Anne,QueenAnne1,Fiction,Children,Null,Null,English,English
-2014,1,Queen Anne,QueenAnne1,Fiction,Children,Null,Null,,
-2003,1,Queen Anne,QueenAnne1,Fiction,Children,Null,Null,English,English
-2007,1,Queen Anne,QueenAnne2,Fiction,Children,Null,Null,English,English
-2007,1,Queen Anne,QueenAnne2,Fiction,Children,Null,Null,English,English
-1993,1,Queen Anne,QueenAnne2,Fiction,Children,Null,Null,English,English
-2009,1,Queen Anne,QueenAnne2,Nonfiction,Children,Null,Null,English,English
-1990,1,Queen Anne,QueenAnne2,Nonfiction,Children,Null,Null,English,English
-1976,1,Queen Anne,QueenAnne2,Fiction,Children,Null,Null,English,English
-1983,1,Queen Anne,QueenAnne3,Fiction,Children,Null,Null,English,English
-1969,1,Queen Anne,QueenAnne3,Fiction,Children,Null,Null,English,English
-1987,1,Queen Anne,QueenAnne3,Fiction,Children,Null,Null,English,English
-2014,1,Queen Anne,QueenAnne3,Fiction,Children,Null,Null,English,
-2004,1,Queen Anne,QueenAnne4,Nonfiction,Children,Null,Null,English,English
-2002,1,Queen Anne,QueenAnne5,Fiction,Children,Null,Null,,
-1984,1,Queen Anne,QueenAnne5,Fiction,Children,Null,Null,English,English
-2003,1,Queen Anne,QueenAnne5,Fiction,Children,Null,Null,English,English
-1993,1,Queen Anne,QueenAnne5,Nonfiction,Children,Null,Null,English,English
-2010,1,Queen Anne,QueenAnne5,Fiction,Children,Null,Null,English,English
-2001,1,Queen Anne,QueenAnne5,Fiction,Children,Null,Null,English,English
-2014,1,Queen Anne,QueenAnne5,Fiction,Children,Null,Null,English,English
-1992,1,Ravenna,Ravenna3,Fiction,Children,Null,Null,English,English
-1991,1,Ravenna,Ravenna3,Fiction,Children,Null,Null,English,English
-2015,1,Ravenna,Ravenna5,Fiction,Children,Null,Null,English,English
-1990,1,Ravenna,Ravenna5,Fiction,Children,Null,Null,English,English
-1990,1,Ravenna,Ravenna5,Fiction,Children,Null,Null,English,English
-2006,1,Ravenna,Ravenna5,Fiction,Children,Null,Null,English,English
-1985,1,Montlake,Montlake2,Fiction,Adult,Poetry,Null,English,Swedish
-1974,1,Montlake,Montlake6,Fiction,Adult,Poetry,Null,English,English
-1990,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Poetry,Null,English,English
-2019,1,Ravenna,Ravenna1,Fiction,Adult,Poetry,Null,English,English
 1998,1,Ravenna,Ravenna2,Fiction,Adult,Poetry,Null,English,English
-1990,1,Columbia City,ColumbiaCity2,Nonfiction,Adult,Reference,Null,English,English
-2010,1,Montlake,Montlake5,Nonfiction,Adult,Reference,Null,,
-2005,1,Northgate,Northgate3,Nonfiction,Adult,Reference,Null,English,English
-1975,1,Northgate,Northgate3,Nonfiction,Adult,Reference,Null,English,English
-1988,1,Northgate,Northgate3,Nonfiction,Adult,Reference,Self Help/Health,English,English
-1986,1,Northgate,Northgate5,Nonfiction,Adult,Reference,Null,English,English
-2007,1,Central District,CentralDistrict1,Fiction,Adult,Religion,Null,English,English
-2000,1,Central District,CentralDistrict3,Nonfiction,Adult,Religion,Null,English,English
-2015,1,Central District,CentralDistrict4,Nonfiction,Adult,Religion,Null,English,English
-2001,1,Central District,CentralDistrict4,Nonfiction,Children,Religion,Null,"English, Spanish",English
-2002,1,Central District,CentralDistrict4,Nonfiction,Adult,Religion,Self Help/Health,English,English
-2010,1,Central District,CentralDistrict6,Fiction,Adult,Religion,Null,Spanish,
-1964,1,Columbia City,ColumbiaCity1,Nonfiction,Adult,Religion,Null,English,English
-2015,1,Columbia City,ColumbiaCity3,Nonfiction,Adult,Religion,Null,English,English
-1982,1,Laurelhurst,Laurelhurst5,Nonfiction,Children,Religion,Null,English,English
-2011,1,Laurelhurst,Laurelhurst6,Nonfiction,Adult,Religion,Null,English,English
-2011,1,Northgate,Northgate1,Nonfiction,Adult,Religion,Self Help/Health,English,English
-2000,1,Northgate,Northgate1,Nonfiction,Adult,Religion,Self Help/Health,English,English
-2016,1,Northgate,Northgate1,Nonfiction,Adult,Religion,Self Help/Health,English,English
-1983,1,Northgate,Northgate2,Nonfiction,Adult,Religion,Null,English,Chinese
-1984,1,Northgate,Northgate2,Nonfiction,Adult,Religion,Null,"Hindi, English",English
-1970,1,Northgate,Northgate2,Nonfiction,Adult,Religion,Null,,
-1978,1,Northgate,Northgate2,Nonfiction,Adult,Religion,Null,English,Chinese
-2010,1,Northgate,Northgate3,Nonfiction,Adult,Religion,Null,English,English
-1983,1,Northgate,Northgate3,Nonfiction,Adult,Religion,Null,English,Chinese
-1963,1,Northgate,Northgate5,Nonfiction,Adult,Religion,Self Help/Health,English,English
-1998,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Religion,Null,English,English
-2015,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Religion,Null,English,English
-1964,1,Phinney-Greenwood,Phinney-Green4,Fiction,Children,Religion,Null,English,English
-2013,1,Phinney-Greenwood,Phinney-Green4,Fiction,Young Adult,Religion,Null,English,English
-2007,1,Phinney-Greenwood,Phinney-Green5,Fiction,Children,Religion,Null,English,English
-2015,1,Queen Anne,QueenAnne5,Fiction,Children,Religion,Null,English,English
-2007,1,Ravenna,Ravenna1,Nonfiction,Adult,Religion,Null,English,English
-1999,1,Central District,CentralDistrict4,Fiction,Adult,Romance,Null,English,English
-2011,1,Central District,CentralDistrict4,Fiction,Adult,Romance,Null,English,English
-2009,1,Columbia City,ColumbiaCity4,Fiction,Adult,Romance,Null,English,
-2009,1,Columbia City,ColumbiaCity4,Fiction,Adult,Romance,Null,English,
-2018,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Romance,Null,English,English
-2014,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Romance,Null,English,English
-1998,1,Northgate,Northgate3,Fiction,Adult,Romance,Null,English,English
-2016,1,Northgate,Northgate3,Fiction,Adult,Romance,Null,English,
-2003,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Romance,Null,English,English
-1993,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Romance,Null,English,English
-2000,1,Phinney-Greenwood,Phinney-Green1,Fiction,Adult,Romance,Null,English,English
-2015,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Romance,Null,English,English
-2017,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Romance,Null,English,English
-1990,1,Queen Anne,QueenAnne3,Fiction,Adult,Romance,Null,English,English
-1976,1,Queen Anne,QueenAnne4,Fiction,Adult,Romance,Null,English,English
-2003,1,Queen Anne,QueenAnne4,Fiction,Adult,Romance,Null,English,English
 2017,1,Ravenna,Ravenna2,Fiction,Adult,Romance,Null,English,English
 1990,1,Ravenna,Ravenna2,Fiction,Adult,Romance,Null,English,English
 2001,1,Ravenna,Ravenna2,Fiction,Adult,Romance,Null,English,English
@@ -770,237 +936,80 @@ yrpub,count,neighborhood,collection,type,age,category1,category2,languages,origi
 2005,1,Ravenna,Ravenna2,Fiction,Adult,Romance,Null,English,English
 1996,1,Ravenna,Ravenna2,Fiction,Adult,Romance,Null,English,English
 1978,1,Ravenna,Ravenna2,Fiction,Adult,Romance,Null,English,
-2014,1,Ravenna,Ravenna3,Fiction,Adult,Romance,Novel,English,English
-1994,1,Northgate,Northgate3,Nonfiction,Adult,Science,Cultural Studies,English,English
 1997,1,Ravenna,Ravenna2,Nonfiction,Adult,Science,Null,English,English
-2008,1,Ravenna,Ravenna3,Nonfiction,Adult,Science,Null,English,English
-2008,1,Central District,CentralDistrict4,Fiction,Adult,SciFi/Fantasy,Null,"English, Undetermined",English
-2010,1,Central District,CentralDistrict4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
-2005,1,Central District,CentralDistrict4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
-2008,1,Columbia City,ColumbiaCity4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
-2007,1,Columbia City,ColumbiaCity4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
-2009,1,Columbia City,ColumbiaCity4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
-2006,1,Columbia City,ColumbiaCity4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
-1984,1,Columbia City,ColumbiaCity1,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2011,1,Columbia City,ColumbiaCity2,Fiction,Adult,SciFi/Fantasy,Art,English,English
-2011,1,Columbia City,ColumbiaCity3,Nonfiction,Adult,SciFi/Fantasy,Null,English,English
-1994,1,Laurelhurst,Laurelhurst2,Fiction,Adult,SciFi/Fantasy,Null,English,English
-1983,1,Laurelhurst,Laurelhurst2,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2007,1,Laurelhurst,Laurelhurst3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2009,1,Laurelhurst,Laurelhurst3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2007,1,Laurelhurst,Laurelhurst3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2006,1,Laurelhurst,Laurelhurst3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-1989,1,Montlake,Montlake6,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2013,1,Montlake,Montlake6,Fiction,Young Adult,SciFi/Fantasy,Null,"English, French",English
-1998,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-1995,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2006,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-1987,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2004,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2004,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-1980,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2003,1,Northgate,Northgate3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2003,1,Northgate,Northgate3,Fiction,Children,SciFi/Fantasy,Null,English,English
-2002,1,Northgate,Northgate3,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
-1985,1,Northgate,Northgate4,Fiction,Adult,SciFi/Fantasy,Null,English,English
-1985,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2015,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2002,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2016,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2007,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2012,1,Phinney-Greenwood,Phinney-Green4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
-2007,1,Phinney-Greenwood,Phinney-Green5,Fiction,Young Adult,SciFi/Fantasy,Null,English,Undetermined
-2006,1,Phinney-Greenwood,Phinney-Green5,Fiction,Young Adult,SciFi/Fantasy,Null,English,
-1993,1,Phinney-Greenwood,Phinney-Green5,Fiction,Adult,SciFi/Fantasy,SciFi/Fantasy,English,English
-2003,1,Queen Anne,QueenAnne3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-1999,1,Queen Anne,QueenAnne3,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2006,1,Queen Anne,QueenAnne3,Fiction,Adult,SciFi/Fantasy,SciFi/Fantasy,English,English
-2011,1,Queen Anne,QueenAnne4,Fiction,Adult,SciFi/Fantasy,Null,English,English
-1988,1,Queen Anne,QueenAnne4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
-2013,1,Queen Anne,QueenAnne5,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
-1982,1,Queen Anne,QueenAnne5,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2003,1,Ravenna,Ravenna1,Fiction,Children,SciFi/Fantasy,Graphic/Manga,English,English
-2011,1,Ravenna,Ravenna1,Fiction,Children,SciFi/Fantasy,Graphic/Manga,English,English
-2015,1,Ravenna,Ravenna1,Fiction,Children,SciFi/Fantasy,Graphic/Manga,English,English
-2010,1,Ravenna,Ravenna1,Fiction,Children,SciFi/Fantasy,Graphic/Manga,English,English
-2013,1,Ravenna,Ravenna1,Fiction,Adult,SciFi/Fantasy,Null,English,English
-2010,1,Ravenna,Ravenna1,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
 1994,1,Ravenna,Ravenna2,Fiction,Adult,SciFi/Fantasy,Null,English,English
 2011,1,Ravenna,Ravenna2,Fiction,Adult,SciFi/Fantasy,Null,English,English
 2016,1,Ravenna,Ravenna2,Fiction,Adult,SciFi/Fantasy,Null,English,
 2018,1,Ravenna,Ravenna2,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
+2001,1,Ravenna,Ravenna2,Fiction,Adult,Thriller/Suspense,Null,English,English
+1988,1,Ravenna,Ravenna2,Fiction,Adult,Thriller/Suspense,Null,English,English
+2007,1,Ravenna,Ravenna3,Nonfiction,Adult,Biography/Autobiography/Memoir,Business/Technology,English,English
+2012,1,Ravenna,Ravenna3,Nonfiction,Adult,Biography/Autobiography/Memoir,Graphic/Manga,English,English
+1991,1,Ravenna,Ravenna3,Nonfiction,Adult,Cookery,Null,English,English
+2008,1,Ravenna,Ravenna3,Fiction,Adult,Graphic/Manga,Null,,
+2014,1,Ravenna,Ravenna3,Fiction,Adult,Mystery,Novel,English,English
+1999,1,Ravenna,Ravenna3,Fiction,Adult,Mystery,Null,English,English
+2016,1,Ravenna,Ravenna3,Fiction,Adult,Novel,Null,English,English
+1990,1,Ravenna,Ravenna3,Fiction,Adult,Novel,Null,English,Japanese
+2009,1,Ravenna,Ravenna3,Fiction,Adult,Novel,Null,English,English
+2010,1,Ravenna,Ravenna3,Fiction,Young Adult,Novel,Null,English,English
+1992,1,Ravenna,Ravenna3,Fiction,Childrens,Null,Null,English,English
+1991,1,Ravenna,Ravenna3,Fiction,Childrens,Null,Null,English,English
+2014,1,Ravenna,Ravenna3,Fiction,Adult,Romance,Novel,English,English
+2008,1,Ravenna,Ravenna3,Nonfiction,Adult,Science,Null,English,English
 1977,1,Ravenna,Ravenna3,Fiction,Adult,SciFi/Fantasy,Novel,English,English
 2003,1,Ravenna,Ravenna3,Fiction,Adult,SciFi/Fantasy,Novel,English,English
 2007,1,Ravenna,Ravenna3,Fiction,Young Adult,SciFi/Fantasy,Novel,English,English
 2001,1,Ravenna,Ravenna3,Fiction,Young Adult,SciFi/Fantasy,Novel,English,English
+2002,1,Ravenna,Ravenna3,Nonfiction,Adult,Self Help/Health,Null,English,English
+2016,1,Ravenna,Ravenna3,Nonfiction,Adult,Sports,Null,English,English
+2004,1,Ravenna,Ravenna3,Nonfiction,Adult,Travel,Null,English,English
+2009,1,Ravenna,Ravenna4,Fiction,Adult,Classics,Null,English,English
+2004,1,Ravenna,Ravenna4,Nonfiction,Adult,Cultural Studies,Null,English,English
+1997,1,Ravenna,Ravenna4,Fiction,Adult,History,Novel,English,English
+1984,1,Ravenna,Ravenna4,Fiction,Adult,History,Novel,English,English
+1994,1,Ravenna,Ravenna4,Fiction,Adult,Mystery,Null,English,English
+2000,1,Ravenna,Ravenna4,Fiction,Adult,Mystery,Null,English,English
+1987,1,Ravenna,Ravenna4,Fiction,Adult,Mystery,Null,English,English
+2008,1,Ravenna,Ravenna4,Fiction,Adult,Novel,Null,English,English
+2017,1,Ravenna,Ravenna4,Fiction,Adult,Novel,Null,English,English
 2009,1,Ravenna,Ravenna4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
 2007,1,Ravenna,Ravenna4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
 2012,1,Ravenna,Ravenna4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
 2009,1,Ravenna,Ravenna4,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
+2011,1,Ravenna,Ravenna4,Nonfiction,Adult,Thriller/Suspense,Null,English,English
+1992,1,Ravenna,Ravenna4,Fiction,Adult,Thriller/Suspense,Null,English,English
+1971,1,Ravenna,Ravenna5,Nonfiction,Adult,Cookery,Null,English,English
+1961,1,Ravenna,Ravenna5,Nonfiction,Adult,History,Null,English,English
+2000,1,Ravenna,Ravenna5,Fiction,Adult,Mystery,Null,English,English
+2012,1,Ravenna,Ravenna5,Fiction,Adult,Mystery,Null,English,English
+1994,1,Ravenna,Ravenna5,Fiction,Adult,Mystery,Null,English,English
+2002,1,Ravenna,Ravenna5,Fiction,Young Adult,Mystery,Null,English,English
+2015,1,Ravenna,Ravenna5,Fiction,Adult,Novel,Religion,English,English
+2012,1,Ravenna,Ravenna5,Fiction,Adult,Novel,Null,English,English
+2015,1,Ravenna,Ravenna5,Fiction,Childrens,Null,Null,English,English
+1990,1,Ravenna,Ravenna5,Fiction,Childrens,Null,Null,English,English
+1990,1,Ravenna,Ravenna5,Fiction,Childrens,Null,Null,English,English
+2006,1,Ravenna,Ravenna5,Fiction,Childrens,Null,Null,English,English
 1990,1,Ravenna,Ravenna5,Fiction,Adult,SciFi/Fantasy,Null,English,English
 1991,1,Ravenna,Ravenna5,Fiction,Adult,SciFi/Fantasy,Null,English,English
 1984,1,Ravenna,Ravenna5,Fiction,Adult,SciFi/Fantasy,Null,English,English
 1977,1,Ravenna,Ravenna5,Fiction,Adult,SciFi/Fantasy,Null,English,English
 1971,1,Ravenna,Ravenna5,Fiction,Adult,SciFi/Fantasy,Null,English,English
 2005,1,Ravenna,Ravenna5,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
-2003,1,Ravenna,Ravenna6,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
-1996,1,Central District,CentralDistrict2,Nonfiction,Adult,Self Help/Health,Null,English,English
-2000,1,Central District,CentralDistrict4,Nonfiction,Adult,Self Help/Health,Null,English,English
-1981,1,Central District,CentralDistrict4,Nonfiction,Adult,Self Help/Health,Null,English,
-1987,1,Central District,CentralDistrict5,Nonfiction,Adult,Self Help/Health,Null,English,
-2012,1,Central District,CentralDistrict6,Nonfiction,Adult,Self Help/Health,Null,English,English
-2002,1,Columbia City,ColumbiaCity5,Nonfiction,Adult,Self Help/Health,Null,English,English
-1985,1,Columbia City,ColumbiaCity1,Nonfiction,Adult,Self Help/Health,Null,English,English
-2013,1,Columbia City,ColumbiaCity1,Fiction,Children,Self Help/Health,Null,English,English
-2019,1,Columbia City,ColumbiaCity2,Nonfiction,Adult,Self Help/Health,Null,English,English
-2005,1,Columbia City,ColumbiaCity2,Fiction,Adult,Self Help/Health,Null,English,English
-2004,1,Columbia City,ColumbiaCity2,Nonfiction,Adult,Self Help/Health,Null,English,English
-2018,1,Columbia City,ColumbiaCity2,Nonfiction,Adult,Self Help/Health,Null,English,English
-2010,1,Laurelhurst,Laurelhurst1,Nonfiction,Adult,Self Help/Health,Null,English,English
-2009,1,Laurelhurst,Laurelhurst1,Nonfiction,Adult,Self Help/Health,Null,English,English
-1997,1,Laurelhurst,Laurelhurst1,Nonfiction,Adult,Self Help/Health,Null,English,English
-1978,1,Laurelhurst,Laurelhurst2,Nonfiction,Adult,Self Help/Health,Null,English,English
-1994,1,Laurelhurst,Laurelhurst6,Nonfiction,Adult,Self Help/Health,Anthology,English,English
-1995,1,Laurelhurst,Laurelhurst6,Nonfiction,Adult,Self Help/Health,Null,English,English
-2003,1,Montlake,Montlake2,Nonfiction,Adult,Self Help/Health,Null,English,English
-1982,1,Montlake,Montlake2,Nonfiction,Adult,Self Help/Health,Null,English,English
-1983,1,Montlake,Montlake2,Nonfiction,Adult,Self Help/Health,Null,English,English
-2016,1,Montlake,Montlake4,Nonfiction,Adult,Self Help/Health,Null,English,English
-1993,1,Montlake,Montlake4,Nonfiction,Adult,Self Help/Health,Null,,English
-1992,1,Montlake,Montlake4,Nonfiction,Adult,Self Help/Health,Null,English,English
-2003,1,Montlake,Montlake5,Nonfiction,Adult,Self Help/Health,Null,English,English
-2004,1,Montlake,Montlake5,Nonfiction,Adult,Self Help/Health,Null,English,English
-2016,1,Montlake,Montlake5,Nonfiction,Adult,Self Help/Health,Null,English,English
-2016,1,Northgate,Northgate3,Nonfiction,Adult,Self Help/Health,Cultural Studies,English,English
-2011,1,Northgate,Northgate3,Nonfiction,Adult,Self Help/Health,Cultural Studies,English,English
-1999,1,Northgate,Northgate3,Nonfiction,Adult,Self Help/Health,Null,English,English
-2012,1,Northgate,Northgate3,Nonfiction,Adult,Self Help/Health,Null,English,English
-1999,1,Northgate,Northgate3,Nonfiction,Adult,Self Help/Health,Null,English,English
-2014,1,Northgate,Northgate3,Nonfiction,Adult,Self Help/Health,Null,English,
-1999,1,Northgate,Northgate3,Nonfiction,Adult,Self Help/Health,Null,English,English
-2007,1,Northgate,Northgate4,Nonfiction,Adult,Self Help/Health,Null,English,English
-2003,1,Northgate,Northgate4,Nonfiction,Adult,Self Help/Health,Null,English,English
-2013,1,Northgate,Northgate4,Nonfiction,Adult,Self Help/Health,Null,English,English
-2010,1,Northgate,Northgate5,Nonfiction,Adult,Self Help/Health,Null,English,English
-2003,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Self Help/Health,Null,English,
-2016,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Self Help/Health,Null,English,English
-2006,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Self Help/Health,Null,English,English
-1999,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Self Help/Health,Null,English,English
-1999,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Self Help/Health,Null,English,English
-1980,1,Phinney-Greenwood,Phinney-Green2,Nonfiction,Adult,Self Help/Health,Null,English,English
-2007,1,Phinney-Greenwood,Phinney-Green1,Nonfiction,Adult,Self Help/Health,Crafts,English,English
-2000,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
-2001,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
-2009,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,,English
-2003,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
-2006,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
-1999,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
-2004,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
-1993,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
-2001,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
-1999,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
-2004,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Self Help/Health,Null,English,English
-2001,1,Phinney-Greenwood,Phinney-Green4,Nonfiction,Adult,Self Help/Health,Null,English,English
-1992,1,Phinney-Greenwood,Phinney-Green5,Nonfiction,Adult,Self Help/Health,Null,English,English
-1996,1,Phinney-Greenwood,Phinney-Green5,Nonfiction,Adult,Self Help/Health,Null,English,
-1978,1,Phinney-Greenwood,Phinney-Green5,Nonfiction,Adult,Self Help/Health,Null,English,English
-1994,1,Queen Anne,QueenAnne4,Nonfiction,Adult,Self Help/Health,Null,English,English
-2010,1,Queen Anne,QueenAnne5,Nonfiction,Adult,Self Help/Health,Null,English,English
-2006,1,Queen Anne,QueenAnne5,Nonfiction,Adult,Self Help/Health,Null,English,English
-2002,1,Ravenna,Ravenna3,Nonfiction,Adult,Self Help/Health,Null,English,English
 1984,1,Ravenna,Ravenna5,Nonfiction,Adult,Self Help/Health,Null,English,English
 1974,1,Ravenna,Ravenna5,Nonfiction,Adult,Self Help/Health,Null,English,
+1976,1,Ravenna,Ravenna5,Fiction,Adult,Thriller/Suspense,Null,English,English
+1937,1,Ravenna,Ravenna6,Fiction,Adult,Classics,Null,English,English
+1971,1,Ravenna,Ravenna6,Nonfiction,Adult,History,Null,English,English
+1995,1,Ravenna,Ravenna6,Fiction,Adult,Mystery,Null,English,English
+2017,1,Ravenna,Ravenna6,Fiction,Adult,Novel,Null,English,English
+2015,1,Ravenna,Ravenna6,Fiction,Adult,Novel,Null,English,English
+2017,1,Ravenna,Ravenna6,Fiction,Adult,Novel,Null,English,English
+2007,1,Ravenna,Ravenna6,Fiction,Adult,Novel,Null,English,English
+2003,1,Ravenna,Ravenna6,Fiction,Young Adult,SciFi/Fantasy,Null,English,English
 1998,1,Ravenna,Ravenna6,Nonfiction,Adult,Self Help/Health,Null,English,English
 2010,1,Ravenna,Ravenna6,Nonfiction,Adult,Self Help/Health,Null,English,English
-2003,1,Central District,CentralDistrict4,Nonfiction,Adult,Sports,Null,English,English
-2013,1,Laurelhurst,Laurelhurst4,Nonfiction,Adult,Sports,Null,English,English
-1986,1,Montlake,Montlake4,Fiction,Adult,Sports,Null,English,English
-1989,1,Montlake,Montlake5,Fiction,Young Adult,Sports,Null,English,English
-1964,1,Northgate,Northgate3,Nonfiction,Adult,Sports,Null,,
-1969,1,Northgate,Northgate3,Nonfiction,Adult,Sports,Null,English,
-2010,1,Northgate,Northgate3,Nonfiction,Adult,Sports,Null,English,English
-1989,1,Northgate,Northgate3,Nonfiction,Adult,Sports,Null,English,English
-1989,1,Northgate,Northgate3,Nonfiction,Adult,Sports,Null,English,
-1967,1,Northgate,Northgate3,Nonfiction,Adult,Sports,Null,,English
-1968,1,Northgate,Northgate3,Nonfiction,Adult,Sports,Null,,
-1988,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Sports,Null,English,English
-1980,1,Queen Anne,QueenAnne5,Nonfiction,Adult,Sports,Null,,
-2016,1,Ravenna,Ravenna3,Nonfiction,Adult,Sports,Null,English,English
-2006,1,Central District,CentralDistrict1,Fiction,Adult,Thriller/Suspense,Novel,English,English
-2013,1,Central District,CentralDistrict2,Fiction,Adult,Thriller/Suspense,Null,English,English
-2003,1,Central District,CentralDistrict2,Fiction,Adult,Thriller/Suspense,Null,English,English
-1993,1,Central District,CentralDistrict3,Fiction,Adult,Thriller/Suspense,Null,English,English
-2011,1,Central District,CentralDistrict3,Fiction,Adult,Thriller/Suspense,Null,English,English
-1996,1,Central District,CentralDistrict3,Fiction,Adult,Thriller/Suspense,Null,English,English
-2018,1,Central District,CentralDistrict4,Fiction,Young Adult,Thriller/Suspense,Null,English,English
-1996,1,Central District,CentralDistrict4,Fiction,Adult,Thriller/Suspense,Null,English,English
-2017,1,Central District,CentralDistrict4,Fiction,Adult,Thriller/Suspense,Null,English,English
-2001,1,Columbia City,ColumbiaCity5,Nonfiction,Adult,Thriller/Suspense,Null,English,English
-2009,1,Columbia City,ColumbiaCity1,Fiction,Adult,Thriller/Suspense,Novel,English,English
-2019,1,Columbia City,ColumbiaCity1,Fiction,Adult,Thriller/Suspense,Null,English,English
-2012,1,Columbia City,ColumbiaCity2,Fiction,Adult,Thriller/Suspense,Null,English,English
-2003,1,Columbia City,ColumbiaCity3,Fiction,Adult,Thriller/Suspense,Null,English,English
-2002,1,Laurelhurst,Laurelhurst1,Fiction,Adult,Thriller/Suspense,Null,English,English
-2015,1,Laurelhurst,Laurelhurst2,Fiction,Adult,Thriller/Suspense,Null,English,English
-1986,1,Laurelhurst,Laurelhurst2,Fiction,Adult,Thriller/Suspense,Null,English,English
-1974,1,Laurelhurst,Laurelhurst4,Fiction,Adult,Thriller/Suspense,Null,English,
-1999,1,Montlake,Montlake4,Fiction,Adult,Thriller/Suspense,Null,English,English
-2018,1,Montlake,Montlake5,Fiction,Adult,Thriller/Suspense,Null,English,English
-2002,1,Montlake,Montlake6,Fiction,Adult,Thriller/Suspense,Null,English,English
-2016,1,Northgate,Northgate1,Fiction,Adult,Thriller/Suspense,Null,English,English
-2012,1,Northgate,Northgate1,Fiction,Adult,Thriller/Suspense,Null,English,English
-2019,1,Northgate,Northgate1,Fiction,Adult,Thriller/Suspense,Null,English,English
-2014,1,Northgate,Northgate1,Fiction,Adult,Thriller/Suspense,Null,English,English
-2016,1,Northgate,Northgate2,Fiction,Adult,Thriller/Suspense,Null,English,English
-2011,1,Northgate,Northgate2,Fiction,Adult,Thriller/Suspense,Null,English,English
-2011,1,Northgate,Northgate2,Fiction,Adult,Thriller/Suspense,Null,English,English
-2013,1,Northgate,Northgate3,Fiction,Adult,Thriller/Suspense,Null,English,English
-2011,1,Northgate,Northgate3,Fiction,Adult,Thriller/Suspense,Null,English,English
-2010,1,Northgate,Northgate3,Fiction,Adult,Thriller/Suspense,Null,English,English
-1995,1,Northgate,Northgate3,Fiction,Adult,Thriller/Suspense,Null,English,English
-2014,1,Northgate,Northgate3,Fiction,Adult,Thriller/Suspense,Null,English,English
-2009,1,Northgate,Northgate4,Fiction,Adult,Thriller/Suspense,Null,English,English
-2015,1,Northgate,Northgate4,Fiction,Adult,Thriller/Suspense,Null,English,English
-1986,1,Northgate,Northgate5,Fiction,Adult,Thriller/Suspense,Null,English,English
-2011,1,Phinney-Greenwood,Phinney-Green2,Fiction,Adult,Thriller/Suspense,Null,English,English
-2001,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Thriller/Suspense,Null,English,English
-2014,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Thriller/Suspense,Null,English,English
-1998,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Thriller/Suspense,Null,English,English
-2014,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Thriller/Suspense,Null,English,English
-2002,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Thriller/Suspense,Null,English,English
-2017,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Thriller/Suspense,Null,English,English
-2010,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Thriller/Suspense,Null,English,English
-2018,1,Phinney-Greenwood,Phinney-Green4,Fiction,Adult,Thriller/Suspense,Null,English,English
-1986,1,Phinney-Greenwood,Phinney-Green5,Fiction,Adult,Thriller/Suspense,Null,English,English
-2015,1,Phinney-Greenwood,Phinney-Green5,Fiction,Adult,Thriller/Suspense,Null,English,English
-2003,1,Phinney-Greenwood,Phinney-Green5,Fiction,Adult,Thriller/Suspense,Null,English,English
-1992,1,Phinney-Greenwood,Phinney-Green5,Fiction,Adult,Thriller/Suspense,Null,English,English
-2010,1,Queen Anne,QueenAnne1,Fiction,Adult,Thriller/Suspense,Null,English,English
-1992,1,Queen Anne,QueenAnne1,Fiction,Adult,Thriller/Suspense,Null,English,English
-2009,1,Queen Anne,QueenAnne2,Fiction,Adult,Thriller/Suspense,Null,English,English
-1979,1,Queen Anne,QueenAnne3,Fiction,Adult,Thriller/Suspense,Null,English,English
-2002,1,Queen Anne,QueenAnne3,Fiction,Adult,Thriller/Suspense,Null,English,English
-2015,1,Queen Anne,QueenAnne3,Fiction,Adult,Thriller/Suspense,Null,English,English
-2000,1,Queen Anne,QueenAnne4,Fiction,Adult,Thriller/Suspense,Null,English,English
-2005,1,Queen Anne,QueenAnne4,Fiction,Adult,Thriller/Suspense,Null,English,English
-2003,1,Queen Anne,QueenAnne4,Fiction,Adult,Thriller/Suspense,Null,English,English
-1985,1,Queen Anne,QueenAnne4,Fiction,Adult,Thriller/Suspense,Null,English,English
-2002,1,Queen Anne,QueenAnne5,Fiction,Adult,Thriller/Suspense,Null,English,English
-2019,1,Ravenna,Ravenna1,Fiction,Adult,Thriller/Suspense,Null,English,English
-2001,1,Ravenna,Ravenna2,Fiction,Adult,Thriller/Suspense,Null,English,English
-1988,1,Ravenna,Ravenna2,Fiction,Adult,Thriller/Suspense,Null,English,English
-2011,1,Ravenna,Ravenna4,Nonfiction,Adult,Thriller/Suspense,Null,English,English
-1992,1,Ravenna,Ravenna4,Fiction,Adult,Thriller/Suspense,Null,English,English
-1976,1,Ravenna,Ravenna5,Fiction,Adult,Thriller/Suspense,Null,English,English
 2014,1,Ravenna,Ravenna6,Fiction,Adult,Thriller/Suspense,Null,English,English
 2018,1,Ravenna,Ravenna6,Fiction,Adult,Thriller/Suspense,Null,English,English
-2014,1,Laurelhurst,Laurelhurst4,Nonfiction,Adult,Travel,Null,English,English
-1993,1,Laurelhurst,Laurelhurst6,Nonfiction,Adult,Travel,Null,English,English
-2018,1,Montlake,Montlake5,Nonfiction,Adult,Travel,Null,English,English
-2018,1,Montlake,Montlake5,Nonfiction,Adult,Travel,Null,English,English
-1995,1,Northgate,Northgate3,Nonfiction,Adult,Travel,Null,English,English
-1995,1,Phinney-Greenwood,Phinney-Green3,Nonfiction,Adult,Travel,Null,English,German
-2013,1,Phinney-Greenwood,Phinney-Green3,Fiction,Adult,Travel,Null,English,English
-1973,1,Phinney-Greenwood,Phinney-Green5,Nonfiction,Adult,Travel,Null,,
-2004,1,Ravenna,Ravenna3,Nonfiction,Adult,Travel,Null,English,English
 1972,1,Ravenna,Ravenna6,Nonfiction,Adult,Travel,Null,English,English
