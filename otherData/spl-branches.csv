@@ -1,0 +1,28 @@
+number,branch,address,city,state,zip,latitude,longitude
+1,Central,1000 Fourth Ave.,Seattle,WA,98104,47.606144,-122.332954
+2,Ballard,5614 22nd Ave. N.W.,Seattle,WA,98107,47.669598,-122.384735
+3,Beacon Hill,2821 Beacon Ave. S.,Seattle,WA,98144,47.578407,-122.31141
+4,Broadview,12755 Greenwood Ave. N.,Seattle,WA,98133,47.72298,-122.356033
+5,Capitol Hill,425 Harvard Ave. E.,Seattle,WA,98102,47.62232,-122.32203
+6,Columbia,4721 Rainier Ave. S.,Seattle,WA,98118,47.5604,-122.28675
+7,Delridge,5423 Delridge Way S.W.,Seattle,WA,98106,47.553406,-122.362976
+8,Douglass-Trugh,2300 E. Yesler Way,Seattle,WA,98122,47.60167,-122.30224
+9,Fremont,731 N. 35th St.,Seattle,WA,98103,47.650436,-122.349335
+10,Green Lake,7364 E. Green Lake Dr. N.,Seattle,WA,98115,47.681316,-122.32694
+11,Greenwood,8016 Greenwood Ave. N.,Seattle,WA,98103,47.687096,-122.35529
+12,High Point,3411 S.W. Raymond St.,Seattle,WA,98126,47.548313,-122.37576
+13,International District/Chinatown,713 Eighth Ave. S.,Seattle,WA,98104,47.596516,-122.322464
+14,Lake City,12501 28th Ave. N.E.,Seattle,WA,98125,47.719433,-122.297714
+15,Madrona-Sally Goldmark,1134 33rd Ave.,Seattle,WA,98122,47.611855,-122.29038
+16,Magnolia,2801 34th Ave. W.,Seattle,WA,98199,47.64515,-122.400955
+17,Montlake,2401 24th Ave. E.,Seattle,WA,98112,47.640316,-122.30208
+18,New Holly,7058 32nd Ave. S.,Seattle,WA,98118,47.539402,-122.29107
+19,Northeast,6801 35th Ave. N.E.,Seattle,WA,98115,47.677742,-122.29034
+20,Northgate,10548 Fifth Ave. N.E.,Seattle,WA,98125,47.705917,-122.32319
+21,Queen Anne,400 W. Garfield St.,Seattle,WA,98119,47.633533,-122.36246
+22,Rainier Beach,9125 Rainier Ave. S.,Seattle,WA,98118,47.521305,-122.270004
+23,South Park,8604 Eighth Ave. S.,Seattle,WA,98108,47.526367,-122.322914
+24,Southwest,9010 35th Ave. S.W.,Seattle,WA,98126,47.52264,-122.3767
+25,University,5009 Roosevelt Way N.E.,Seattle,WA,98105,47.665104,-122.31741
+26,Wallingford,1501 N. 45th St.,Seattle,WA,98103,47.66138,-122.338905
+27,West Seattle,2306 42nd Ave. S.W.,Seattle,WA,98116,47.582817,-122.3851
