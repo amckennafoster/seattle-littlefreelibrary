@@ -1,4 +1,4 @@
-﻿collection,width,length,height,volMeters,housePrice,address,priceLastSold,yearLastSold,adjPrice
+﻿collection,widthInches,lengthInches,heightInches,volMeters,housePrice,address,priceLastSold,yearLastSold,adjPrice
 CentralDistrict1,,,,,,2423 E Union St,,,
 CentralDistrict2,22,11,12,0.047588,"730,824",1829 Martin Luther King Jr. Way,459900,2010,536554.0424
 CentralDistrict3,23,11,14,0.058043,"667,296",210 30th Ave.,60500,1989,124155.9225
