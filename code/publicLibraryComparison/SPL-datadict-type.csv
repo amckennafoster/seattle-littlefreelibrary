@@ -1,0 +1,109 @@
+﻿itemtype,format
+acart,Art
+acphoto,Art
+acpost,Art
+arphoto,Art
+arpost,Art
+accd,Audio Disc
+acrec,Audio Disc
+arcd,Audio Disc
+arrec,Audio Disc
+jccd,Audio Disc
+jcrec,Audio Disc
+jrcd,Audio Disc
+jrrec,Audio Disc
+accas,Audio Tape
+bccas,Audio Tape
+arcas,Audio Tape
+jccas,Audio Tape
+jrcas,Audio Tape
+bccd,Audiobook Disc
+acbk,Book
+ahbk,Book
+bcbk,Book
+drbk,Book
+ucunkn,Book
+xrbk,Book
+arbk,Book
+jcbk,Book
+jcmus,Book
+ucunknj,Book
+jrbk,Book
+jrmus,Book
+pkbknh,Book
+accdrom,Data Disc
+acdisk,Data Disc
+bccdrom,Data Disc
+drcdrom,Data Disc
+xrcdrom,Data Disc
+arcdrom,Data Disc
+ardisk,Data Disc
+jccdrom,Data Disc
+jrdisk,Data Disc
+acslide,Film
+ahmfc,Film
+ahmfm,Film
+drmfc,Film
+drmfmnp,Film
+drmfper,Film
+armfc,Film
+armfm,Film
+arslide,Film
+acfold,Kit
+ackit,Kit
+bckit,Kit
+arkit,Kit
+jckit,Kit
+jrkit,Kit
+ucfold,Kit
+acmus,Music Score
+xrmus,Music Score
+armus,Music Score
+acper,Periodical
+bcper,Periodical
+drnp,Periodical
+drper,Periodical
+xrper,Periodical
+arnp,Periodical
+arper,Periodical
+jrper,Periodical
+acdvd,Video Disc
+bcdvd,Video Disc
+scmed,Video Disc
+ardvd,Video Disc
+jcdvd,Video Disc
+jrdvd,Video Disc
+acvhs,Video Tape
+acvid,Video Tape
+alvhs,Video Tape
+bcvhs,Video Tape
+blvhs,Video Tape
+xrvhs,Video Tape
+arvhs,Video Tape
+arvid,Video Tape
+jcvhs,Video Tape
+jlvhs,Video Tape
+jrvhs,Video Tape
+arweb,
+jrweb,
+aceq,
+aceqnh,
+alaptop,
+atablet,
+ucflpdr,
+areq,
+areqnh,
+HOTSPOT,
+acmap,
+acpam,
+acunkn,
+dcord,
+drtest,
+xrpam,
+unk,
+armap,
+arpam,
+arunkn,
+drord,
+dcilll,
+dcillb,
