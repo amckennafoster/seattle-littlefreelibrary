@@ -17,11 +17,11 @@ CentralDistrict3,Novel,2,30,0.06666666666666667
 CentralDistrict3,Crafts,1,30,0.03333333333333333
 CentralDistrict3,Cultural Studies,1,30,0.03333333333333333
 CentralDistrict3,Religion,1,30,0.03333333333333333
-CentralDistrict4,Childrens,7,26,0.2692307692307692
-CentralDistrict4,Religion,3,26,0.11538461538461539
+CentralDistrict4,Childrens,8,26,0.3076923076923077
 CentralDistrict4,SciFi/Fantasy,3,26,0.11538461538461539
 CentralDistrict4,Thriller/Suspense,3,26,0.11538461538461539
 CentralDistrict4,History,2,26,0.07692307692307693
+CentralDistrict4,Religion,2,26,0.07692307692307693
 CentralDistrict4,Romance,2,26,0.07692307692307693
 CentralDistrict4,Self Help/Health,2,26,0.07692307692307693
 CentralDistrict4,Biography/Autobiography/Memoir,1,26,0.038461538461538464
@@ -29,9 +29,8 @@ CentralDistrict4,Cultural Studies,1,26,0.038461538461538464
 CentralDistrict4,Mystery,1,26,0.038461538461538464
 CentralDistrict4,Sports,1,26,0.038461538461538464
 CentralDistrict5,History,3,7,0.42857142857142855
+CentralDistrict5,Biography/Autobiography/Memoir,2,7,0.2857142857142857
 CentralDistrict5,Anthology/Essays/Short stories,1,7,0.14285714285714285
-CentralDistrict5,Biography,1,7,0.14285714285714285
-CentralDistrict5,Biography/Autobiography/Memoir,1,7,0.14285714285714285
 CentralDistrict5,Self Help/Health,1,7,0.14285714285714285
 CentralDistrict6,Novel,3,10,0.3
 CentralDistrict6,Mystery,2,10,0.2
@@ -44,9 +43,9 @@ ColumbiaCity1,Cultural Studies,2,13,0.15384615384615385
 ColumbiaCity1,History,2,13,0.15384615384615385
 ColumbiaCity1,Thriller/Suspense,2,13,0.15384615384615385
 ColumbiaCity1,Biography/Autobiography/Memoir,1,13,0.07692307692307693
+ColumbiaCity1,Childrens,1,13,0.07692307692307693
 ColumbiaCity1,Mystery,1,13,0.07692307692307693
 ColumbiaCity1,Novel,1,13,0.07692307692307693
-ColumbiaCity1,Childrens,1,13,0.07692307692307693
 ColumbiaCity1,Religion,1,13,0.07692307692307693
 ColumbiaCity1,SciFi/Fantasy,1,13,0.07692307692307693
 ColumbiaCity1,Self Help/Health,1,13,0.07692307692307693
@@ -87,13 +86,13 @@ ColumbiaCity5,Self Help/Health,1,7,0.14285714285714285
 ColumbiaCity5,Thriller/Suspense,1,7,0.14285714285714285
 Laurelhurst1,Mystery,3,14,0.21428571428571427
 Laurelhurst1,Self Help/Health,3,14,0.21428571428571427
-Laurelhurst1,Novel,2,14,0.14285714285714285
 Laurelhurst1,Childrens,2,14,0.14285714285714285
+Laurelhurst1,Novel,2,14,0.14285714285714285
 Laurelhurst1,Romance,2,14,0.14285714285714285
 Laurelhurst1,Biography/Autobiography/Memoir,1,14,0.07142857142857142
 Laurelhurst1,Thriller/Suspense,1,14,0.07142857142857142
-Laurelhurst2,Mystery,2,14,0.14285714285714285
 Laurelhurst2,Childrens,2,14,0.14285714285714285
+Laurelhurst2,Mystery,2,14,0.14285714285714285
 Laurelhurst2,SciFi/Fantasy,2,14,0.14285714285714285
 Laurelhurst2,Thriller/Suspense,2,14,0.14285714285714285
 Laurelhurst2,Classics,1,14,0.07142857142857142
@@ -112,19 +111,18 @@ Laurelhurst3,novel,1,19,0.05263157894736842
 Laurelhurst4,Novel,7,15,0.4666666666666667
 Laurelhurst4,Art,1,15,0.06666666666666667
 Laurelhurst4,Biography/Autobiography/Memoir,1,15,0.06666666666666667
+Laurelhurst4,Childrens,1,15,0.06666666666666667
 Laurelhurst4,Mystery,1,15,0.06666666666666667
 Laurelhurst4,Nature/Gardening,1,15,0.06666666666666667
-Laurelhurst4,Childrens,1,15,0.06666666666666667
 Laurelhurst4,Sports,1,15,0.06666666666666667
 Laurelhurst4,Thriller/Suspense,1,15,0.06666666666666667
 Laurelhurst4,Travel,1,15,0.06666666666666667
-Laurelhurst5,Childrens,7,22,0.3181818181818182
+Laurelhurst5,Childrens,8,22,0.36363636363636365
 Laurelhurst5,Mystery,6,22,0.2727272727272727
 Laurelhurst5,Novel,5,22,0.22727272727272727
 Laurelhurst5,Anthology/Essays/Short stories,1,22,0.045454545454545456
 Laurelhurst5,Biography/Autobiography/Memoir,1,22,0.045454545454545456
 Laurelhurst5,History,1,22,0.045454545454545456
-Laurelhurst5,Religion,1,22,0.045454545454545456
 Laurelhurst6,Novel,2,7,0.2857142857142857
 Laurelhurst6,Self Help/Health,2,7,0.2857142857142857
 Laurelhurst6,Childrens,1,7,0.14285714285714285
@@ -143,15 +141,15 @@ Montlake4,Self Help/Health,3,25,0.12
 Montlake4,Biography/Autobiography/Memoir,2,25,0.08
 Montlake4,Cookery,2,25,0.08
 Montlake4,Art,1,25,0.04
+Montlake4,Childrens,1,25,0.04
 Montlake4,Crafts,1,25,0.04
 Montlake4,Nature/Gardening,1,25,0.04
-Montlake4,Childrens,1,25,0.04
 Montlake4,Sports,1,25,0.04
 Montlake4,Thriller/Suspense,1,25,0.04
 Montlake5,Novel,4,21,0.19047619047619047
 Montlake5,Self Help/Health,3,21,0.14285714285714285
-Montlake5,History,2,21,0.09523809523809523
 Montlake5,Childrens,2,21,0.09523809523809523
+Montlake5,History,2,21,0.09523809523809523
 Montlake5,Travel,2,21,0.09523809523809523
 Montlake5,Anthology/Essays/Short stories,1,21,0.047619047619047616
 Montlake5,Art,1,21,0.047619047619047616
@@ -207,19 +205,19 @@ Northgate4,Mystery,3,15,0.2
 Northgate4,Self Help/Health,3,15,0.2
 Northgate4,Cookery,2,15,0.13333333333333333
 Northgate4,Thriller/Suspense,2,15,0.13333333333333333
+Northgate4,Childrens,1,15,0.06666666666666667
 Northgate4,Cultural Studies,1,15,0.06666666666666667
 Northgate4,Nature/Gardening,1,15,0.06666666666666667
 Northgate4,Novel,1,15,0.06666666666666667
-Northgate4,Childrens,1,15,0.06666666666666667
 Northgate4,SciFi/Fantasy,1,15,0.06666666666666667
 Northgate5,Novel,4,18,0.2222222222222222
 Northgate5,Mystery,3,18,0.16666666666666666
 Northgate5,Classics,2,18,0.1111111111111111
 Northgate5,Anthology/Essays/Short stories,1,18,0.05555555555555555
 Northgate5,Biography/Autobiography/Memoir,1,18,0.05555555555555555
+Northgate5,Childrens,1,18,0.05555555555555555
 Northgate5,Cultural Studies,1,18,0.05555555555555555
 Northgate5,Drama,1,18,0.05555555555555555
-Northgate5,Childrens,1,18,0.05555555555555555
 Northgate5,Reference,1,18,0.05555555555555555
 Northgate5,Religion,1,18,0.05555555555555555
 Northgate5,Self Help/Health,1,18,0.05555555555555555
@@ -233,8 +231,8 @@ Phinney-Green1,Romance,1,14,0.07142857142857142
 Phinney-Green1,Self Help/Health,1,14,0.07142857142857142
 Phinney-Green1,novel,1,14,0.07142857142857142
 Phinney-Green2,Self Help/Health,7,29,0.2413793103448276
-Phinney-Green2,Novel,5,29,0.1724137931034483
 Phinney-Green2,Childrens,5,29,0.1724137931034483
+Phinney-Green2,Novel,5,29,0.1724137931034483
 Phinney-Green2,Mystery,4,29,0.13793103448275862
 Phinney-Green2,Romance,2,29,0.06896551724137931
 Phinney-Green2,Business/Technology,1,29,0.034482758620689655
@@ -257,23 +255,21 @@ Phinney-Green3,Biography/Autobiography/Memoir,1,69,0.014492753623188406
 Phinney-Green3,Cookery,1,69,0.014492753623188406
 Phinney-Green3,Religion,1,69,0.014492753623188406
 Phinney-Green3,Sports,1,69,0.014492753623188406
-Phinney-Green4,Childrens,22,61,0.36065573770491804
+Phinney-Green4,Childrens,24,61,0.39344262295081966
 Phinney-Green4,Novel,13,61,0.21311475409836064
 Phinney-Green4,Mystery,7,61,0.11475409836065574
 Phinney-Green4,Thriller/Suspense,6,61,0.09836065573770492
 Phinney-Green4,SciFi/Fantasy,3,61,0.04918032786885246
 Phinney-Green4,Anthology/Essays/Short stories,2,61,0.03278688524590164
 Phinney-Green4,Cultural Studies,2,61,0.03278688524590164
-Phinney-Green4,Religion,2,61,0.03278688524590164
 Phinney-Green4,Romance,2,61,0.03278688524590164
 Phinney-Green4,Poetry,1,61,0.01639344262295082
 Phinney-Green4,Self Help/Health,1,61,0.01639344262295082
-Phinney-Green5,Childrens,5,18,0.2777777777777778
+Phinney-Green5,Childrens,6,18,0.3333333333333333
 Phinney-Green5,Thriller/Suspense,4,18,0.2222222222222222
 Phinney-Green5,SciFi/Fantasy,3,18,0.16666666666666666
 Phinney-Green5,Self Help/Health,3,18,0.16666666666666666
 Phinney-Green5,Novel,1,18,0.05555555555555555
-Phinney-Green5,Religion,1,18,0.05555555555555555
 Phinney-Green5,Travel,1,18,0.05555555555555555
 QueenAnne1,Childrens,8,19,0.42105263157894735
 QueenAnne1,Novel,6,19,0.3157894736842105
@@ -308,14 +304,13 @@ QueenAnne4,Drama,1,26,0.038461538461538464
 QueenAnne4,Graphic/Manga,1,26,0.038461538461538464
 QueenAnne4,SciFi/Fantasy,1,26,0.038461538461538464
 QueenAnne4,Self Help/Health,1,26,0.038461538461538464
-QueenAnne5,Childrens,8,24,0.3333333333333333
+QueenAnne5,Childrens,9,24,0.375
 QueenAnne5,Mystery,4,24,0.16666666666666666
 QueenAnne5,Novel,3,24,0.125
 QueenAnne5,Self Help/Health,2,24,0.08333333333333333
 QueenAnne5,Biography/Autobiography/Memoir,1,24,0.041666666666666664
 QueenAnne5,Classics,1,24,0.041666666666666664
 QueenAnne5,Cookery,1,24,0.041666666666666664
-QueenAnne5,Religion,1,24,0.041666666666666664
 QueenAnne5,SciFi/Fantasy,1,24,0.041666666666666664
 QueenAnne5,Sports,1,24,0.041666666666666664
 QueenAnne5,Thriller/Suspense,1,24,0.041666666666666664
@@ -359,8 +354,8 @@ Ravenna4,Thriller/Suspense,2,15,0.13333333333333333
 Ravenna4,Classics,1,15,0.06666666666666667
 Ravenna4,Cultural Studies,1,15,0.06666666666666667
 Ravenna5,SciFi/Fantasy,6,21,0.2857142857142857
-Ravenna5,Mystery,4,21,0.19047619047619047
 Ravenna5,Childrens,4,21,0.19047619047619047
+Ravenna5,Mystery,4,21,0.19047619047619047
 Ravenna5,Novel,2,21,0.09523809523809523
 Ravenna5,Self Help/Health,2,21,0.09523809523809523
 Ravenna5,Cookery,1,21,0.047619047619047616
