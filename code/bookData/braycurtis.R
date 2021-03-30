@@ -1,8 +1,10 @@
 #load vegan
-library("vegan", lib.loc="~/R/win-library/3.5")
+#library("vegan", lib.loc="~/R/win-library/3.5")
+library(vegan)
 
-
+#Bray Curtis value means high similarity if it is low. It is a dissimilarity measure
 #https://peat-clark.github.io/BIO381/veganTutorial.html
+#Need to make a file like: neighborhood, collection, genre1, genre2,...
 
 #Bray curtis assumes equal area or volume
 #http://www.econ.upf.edu/~michael/stanford/maeb5.pdf
@@ -39,7 +41,7 @@ avgs <- rbind(avgs, c("Central",avg))
 write.table(braycurtismatrix, "C:/Users/Andre/Documents/GitHub/seattle-littlefreelibrary/code/bookData/bray-curtis/central.txt", sep="\t")
 #detach(cat)
 
-
+meandist(braycurtis, cat)
 
 #---------------------Columbia--------------------------------
 #Import File
