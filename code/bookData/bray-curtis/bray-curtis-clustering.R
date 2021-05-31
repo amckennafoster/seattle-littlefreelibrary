@@ -21,35 +21,23 @@ library(dplyr)
 catdens %>% summarise_if(is.numeric, var)
 #since there is a wide range in variance, use the total method to calculate percentages
 
-#Convert the densities to percentages of the max density in each LFL
-catdensper<-catdens[,3:28] #col 2 to 28
+#Convert the densities to percentages of the max density in each LFL. This reduces the influence of one category
+#with a wide range in percent. Now all categories will range from zero to 1.
+catdensper <- catdens[,3:28] #col 2 to 28
 catdensper <- decostand(catdensper, method='total')
 
-
-#Set up percent data for dissimilarity and clustering
-braycurtis <- vegdist(catdensper) 
-
-#Look at dissimilarity within a neighborhood:
-as.matrix(braycurtis)[catrel$neighborhood=="Central.District",catrel$neighborhood=="Central.District"]
-as.dist(as.matrix(braycurtis)[catrel$neighborhood=="Central.District",catrel$neighborhood=="Central.District"]) 
-
-#Now by neighborhood
-meandist(braycurtis, catrel$neighborhood)
-heatmap(as.matrix(braycurtis, catrel$neighborhood))
-heatmap(as.matrix(meandist(braycurtis, catrel$neighborhood)))
-
 #http://strata.uga.edu/8370/lecturenotes/clusterAnalysis.html
-#Apparently best to use proportional data here
 library(cluster)
 rownames(catdensper) <- catdens$lflname #rename rows
 bray <- vegdist(catdensper)
-brayAgnes <- agnes(bray, method='ward') #other options: average (default), single (min), complete (max) and others...
-#names(brayAgnes)
-#This chart shows there is no clustering by neighborhood
-plot(brayAgnes, which.plots = 2, main='book assemblage by genre', cex=0.5)
+brayAgnes <- agnes(bray, diss = TRUE, method='ward') #other options: average (default), single (min), complete (max) and others...
+
+#Produce a dendrogram and add a line at height one, in this case
+plot(brayAgnes, which.plots = 2, main='', cex=0.7)
+rect.hclust(brayAgnes, k = 4, border = 2:5) #can't get this to work- TRY USING PACKAGE DENDEXTEND
 abline(h=1, col='red') #Chose h=1 arbitrarily
 
-#Look at what is driving the clustering: Actually, this might only work if your original data is counts, then you convert to proportions for above and then use counts to get category percentages
+#Look at what is driving the clustering: This ranks the genres for each cluster. 
 #Get row numbers for bounding lfls
 cluster1 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict2') : which(brayAgnes$order.lab=='Montlake6')]
 cluster2 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict5') : which(brayAgnes$order.lab=='Montlake2')]
@@ -75,11 +63,10 @@ round(sort(colSums(cluster4lfl) / sum(colSums(cluster4lfl)), decreasing=TRUE), d
 round(sort(colSums(cluster5lfl) / sum(colSums(cluster5lfl)), decreasing=TRUE), digits=2) #Children's and Novels
 round(sort(colSums(cluster6lfl) / sum(colSums(cluster6lfl)), decreasing=TRUE), digits=2) #Children's and SciFi
 
+#From: https://www.r-bloggers.com/2017/12/how-to-perform-hierarchical-clustering-using-r/
+clust <- cutree(as.hclust(brayAgnes), h=0.75) #This gets the output from agnes into the right form for cutree.
+#Use factoextra to create an ordination plot
+library(factoextra)
+fviz_cluster(list(data = bray, cluster = clust))
 
-#http://environmentalcomputing.net/cluster-analysis/
-#This is Euclidean distance. Maybe not appropriate?
-catrel2 <- catrel[,3:28]
-rownames(catrel2) <- catrel$lflname
-lfl.sim <- dist(catrel2, method = "euclidean")
-lfl.cluster <- hclust(lfl.sim, method = "single")
-plot(lfl.cluster)
+
