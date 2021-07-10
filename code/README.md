@@ -2,4 +2,6 @@
 
 Code used for this project
 
-This folder also contains datasets used or created by the Jupyter Notebooks.
+- bookData: All the data and code to analyze the contents of LFLs
+- census: All the data and code to retrieve and analyze census data
+- publicLibraryComparison: All the data and code to retrieve and analyze public library information
