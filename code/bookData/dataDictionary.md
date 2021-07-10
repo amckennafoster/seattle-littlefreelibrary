@@ -1,0 +1,30 @@
+# Data Dictionary
+
+- cataloger: 
+- bookid
+- count
+- title
+- author
+- combinedName
+- authorOfColor
+- nonPersonAuthor
+- yrpub
+- neighborhood
+- collection
+- age
+- type
+- category1
+- category1Code
+- category2
+- publication
+- media
+- summary
+- deweywording
+- subjects
+- deweydec
+- languages
+- originalLang
+- lcclassification
+- isbn
+- cat
+- code

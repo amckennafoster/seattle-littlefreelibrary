@@ -1,6 +1,11 @@
 # Method Notes
 
+Notes to help clarify decisions in collecting data
 
+
+## Comparison with public library
+
+Collection dates by neighborhood with abreviations
 
 Neighborhoods and Dates
 - Central District - 28 April - 18 May (mgm and dth)

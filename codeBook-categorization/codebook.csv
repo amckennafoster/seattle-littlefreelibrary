@@ -1,0 +1,70 @@
+group,code level 1,code level 2,count of unique mentions,description
+source,Donations to Owner for LFL,null,16,"From family, friends, neighbors, or anonymous"
+source,Neighborhood Adds Books,null,18,Steward says neighbors add books directly to LFL
+source,Owner Personal Collection,null,27,Steward puts out books they have read and are in personal collection
+source,Owner Purchases,null,15,Steward buys books specially for LFL
+source,Owner Purchases,New Book Vendor,2,Steward buys new books
+source,Owner Purchases,Used Book Vendor,11,Steward buys used books
+stocking,Put out whatever,null,13,Curates books minimally- does not pay much attention to what gets put out.
+stocking,Put out whatever,Takes from personal collection,6,Steward says they take from their personal collection
+stocking,Put out whatever,Want to get rid of,5,Put out books Steward no longer needs or wants to get rid of. Includes books they are ready to let go of from own collection
+stocking,Chooses specific genre/type,null,10,Steward puts out at least some books with a specific genre in mind
+stocking,Chooses specific genre/type,Owner does not want,6,Steward puts out books they specifically do not want anymore. 
+stocking,Chooses specific genre/type,Owner Likes,6,Steward puts out books they personally like
+stocking,Chooses specific genre/type,Researches titles,1,Steward looks up titles that they think others would enjoy
+stocking,Chooses specific genre/type,Topical-current,1,Steward prioritizes topical books or those on current issues
+stocking,Chooses specific genre/type,Users might like,5,Steward puts out books they think users will enjoy
+stocking,Chooses specific genre/type,Want a variety of genres,7,Stewards puts out books with variety in mind
+removes,Damaged,null,1,Steward removes damaged books
+removes,Inappropriate,null,17,Steward removes inappropriate content
+removes,Religious,null,11,Steward removes religious material
+removes,Sexual,null,6,Steward removes items with highly sexual or pornographic content
+removes,Intentionally-does-not-remove,null,4,Steward intentionally does not remove items
+removes,Non-book-items,null,5,Steward removes non book items
+removes,Specific Category,null,8,Steward removes books of a specific genre
+removes,Stale-stagnant-outdated,null,15,Steward removes books that are either very old or have been in the LFL for a long time
+expectations,Circulation,High circulation,1,Steward expected high circulation of books
+expectations,Circulation,Low circulation,0,Steward expected low circulation of books
+expectations,No expectations,null,6,Steward had no expectations
+expectations,Not a lot of work,null,2,Steward expected hosting an LFL to not be a lot of work
+expectations,Stocking,Others would stock,2,Steward expected others would stock the LFL
+expectations,Stocking,Owner would stock,11,Steward expected they would stock
+expectations,use,Others would use,20,Steward expected others would use their LFL
+expectations,use,Kids would use,3,Steward expected children would use their LFL
+expectations,use,Owner would use,1,Steward expected they would personally use their LFL
+expectations,use,Vandalism and theft worries,1,Steward expected vandalism or theft around the LFL
+general,Connection-interest to libraries,null,8,Steward had some personal connection to the library profession (e.g. was a librarian or had a family member who worked in a library)
+general,Connection-interest writing-teaching-publishing,null,5,Steward had some personal connection to the literary world as an author or teacher
+general,Connection to other book movements-orgs,null,5,Books in the LFL had indications of being part of a book tracking effort
+general,Owner derives pleasure,null,6,Steward derives pleasure from maintaining their LFL
+general,Owner stamps,null,2,Steward stamps books they put in their LFL
+general,Owner stocks non book items,null,5,Steward purposively stocks non book items
+general,Owner using LFL network,null,41,Steward uses other LFLs
+general,Weird but important comments,null,21,This code noted anecdotes or comments that were interesting but outside the scope of this project
+observedUse,Connection to other LFLs,null,3,Steward notices circulation between their LFL and others
+observedUse,Other,null,12,This code notes a variety of other uses
+observedUse,Someone takes to sell,null,8,"Steward observes someone taking all the books from the LFL, possibly to sell"
+observedUse,Vandalism,null,6,Steward observes vandalism to their LFL
+relationship to public library,Complements-same mission,null,18,Steward believes LFLs and public libraries are complimentary and have similar missions
+relationship to public library,Convience vs. inconvience,null,8,Steward mentions the convenience of LFLs and relative inconvenince of going to the library
+relationship to public library,Has not thought about,null,2,Steward has not thought about the relationship between public libraries and LFLs
+relationship to public library,No relationship,null,6,Steward thinks there is no relationship between public libraries and LFLs
+relationship to public library,Other,null,6,This code notes responses that did not fit any of the other codes
+relationship to public library,Serendipty vs. goal minded,null,9,Steward mentions LFLs as offering a seredipitous interaction while libraries are visited with a more goal oriented mindset
+unexpected,Acts of vandalism and theft,null,6,Steward did not expect vandalism but observed vandalism.
+unexpected,Contributions,Less from others,2,Steward saw fewer contributions to LFL than expected
+unexpected,Contributions,More from others,7,Steward saw more contributions to LFL than expected
+unexpected,Different users,null,5,The variety of users was unexptected
+unexpected,More circulation,null,6,There was more circulation than expected
+unexpected,More Work,null,3,The LFL required more mork to maintain than expected
+unexpected,Unexpected books,null,6,The types and titles of books that appeared were unexptected
+unexpected,Unexpected non book items,null,12,Steward did not expect to see non book items in LFL
+unexpected,User Interaction,null,5,Steward did not expect to interact with users as much as they do
+impetus,Build community,null,9,Stewards wanted an LFL to build community locally
+impetus,Fun-novelty-cool,null,10,Stewards wanted an LFL for the novelty of it or because it seemed fun
+impetus,Get rid or recycle,null,11,Stewards wanted an LFL in order to get rid or or recycle books they owned
+impetus,Gift-donation-contest,null,12,Stewards wanted an LFL to build community locally
+impetus,Loves books,null,12,Stewards wanted an LFL because they love books
+impetus,Other Reason,null,12,Stewards wanted an LFL for some other reason that did not fit with any other category.
+impetus,Promote books-literacy,null,4,Stewards wanted an LFL as a way to promote literacy
+impetus,Saw or heard about others,null,18,Stewards wanted an LFL because they saw or heard about them
