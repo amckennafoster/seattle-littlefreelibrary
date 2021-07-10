@@ -32,9 +32,8 @@ rownames(catdensper) <- catdens$lflname #rename rows
 bray <- vegdist(catdensper)
 brayAgnes <- agnes(bray, diss = TRUE, method='ward') #other options: average (default), single (min), complete (max) and others...
 
-#Produce a dendrogram and add a line at height one, in this case
+#Produce a dendrogram and add a line
 plot(brayAgnes, which.plots = 2, main='', cex=0.7)
-rect.hclust(brayAgnes, k = 4, border = 2:5) #can't get this to work- TRY USING PACKAGE DENDEXTEND
 abline(h=1, col='red') #Chose h=1 arbitrarily
 
 #Look at what is driving the clustering: This ranks the genres for each cluster. 
@@ -69,4 +68,5 @@ clust <- cutree(as.hclust(brayAgnes), h=0.75) #This gets the output from agnes i
 library(factoextra)
 fviz_cluster(list(data = bray, cluster = clust))
 
+citation("dplyr")
 
