@@ -32,10 +32,36 @@ rownames(catdensper) <- catdens$lflname #rename rows
 bray <- vegdist(catdensper)
 brayAgnes <- agnes(bray, diss = TRUE, method='ward') #other options: average (default), single (min), complete (max) and others...
 
-#Produce a dendrogram and add a line
+#Produce a simple dendrogram and add a line (use pltree to put all labels on x axis)
 plot(brayAgnes, which.plots = 2, main='', cex=0.7)
 abline(h=1, col='red') #Chose h=1 arbitrarily
 
+setEPS()
+postscript("../../figures/cluster.eps")
+plot(brayAgnes, which.plots = 2, main='', cex=0.7)
+rect.hclust(brayAgnes, k = 4, border = 3:6)
+dev.off()
+
+#plot a dendrogram with boxes around clusters
+library(dendextend)
+
+dend <- brayAgnes %>% as.dendrogram %>% hang.dendrogram
+par(mar = c(10,2,1,1)) #control the margins (bottom, left, top, right)
+par(oma = c(3,1,1,1)) #control the margins (bottom, left, top, right)
+par(cex=0.6) #Text size of labels
+dend %>% plot #If you want colors on the branches: dend %>% color_branches(k=4) %>% plot
+dend %>% rect.dendrogram(k=4)
+
+
+#Build the plot and save as eps
+setEPS()
+postscript("../../figures/cluster.eps")
+dend %>% plot #If you want colors on the branches: dend %>% color_branches(k=4) %>% plot
+dend %>% rect.dendrogram(k=4)
+dev.off()
+
+
+#---------------------------
 #Look at what is driving the clustering: This ranks the genres for each cluster. 
 #Get row numbers for bounding lfls
 cluster1 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict2') : which(brayAgnes$order.lab=='Montlake6')]
