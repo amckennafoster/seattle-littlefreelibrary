@@ -10,7 +10,7 @@ library(stringr)
 #--------------------This uses the proportion based on density-----------------------------------
 
 # The density calc removes lfls with no vol (like Central1). So you can't use the percent file and density file together.
-catdens <- read.csv("~/GitHub/seattle-littlefreelibrary/code/bookData/bray-curtis/cat-density-collection.csv", encoding="UTF-8")
+catdens <- read.csv("~/GitHub/seattle-littlefreelibrary/analysis/bookData/cluster/cat-density-collection.csv", encoding="UTF-8")
 #datafram has 29 col, 27 are categories
 
 #get rid of spaces in neighborhood names
@@ -36,11 +36,11 @@ brayAgnes <- agnes(bray, diss = TRUE, method='ward') #other options: average (de
 plot(brayAgnes, which.plots = 2, main='', cex=0.7)
 abline(h=1, col='red') #Chose h=1 arbitrarily
 
-setEPS()
-postscript("../../figures/cluster.eps")
-plot(brayAgnes, which.plots = 2, main='', cex=0.7)
-rect.hclust(brayAgnes, k = 4, border = 3:6)
-dev.off()
+#setEPS()
+#postscript("../../figures/cluster.eps")
+#plot(brayAgnes, which.plots = 2, main='', cex=0.7)
+#rect.hclust(brayAgnes, k = 4, border = 3:6)
+#dev.off()
 
 #plot a dendrogram with boxes around clusters
 library(dendextend)
@@ -88,11 +88,13 @@ round(sort(colSums(cluster4lfl) / sum(colSums(cluster4lfl)), decreasing=TRUE), d
 round(sort(colSums(cluster5lfl) / sum(colSums(cluster5lfl)), decreasing=TRUE), digits=2) #Children's and Novels
 round(sort(colSums(cluster6lfl) / sum(colSums(cluster6lfl)), decreasing=TRUE), digits=2) #Children's and SciFi
 
+
+#Create an ordination chart
 #From: https://www.r-bloggers.com/2017/12/how-to-perform-hierarchical-clustering-using-r/
 clust <- cutree(as.hclust(brayAgnes), h=0.75) #This gets the output from agnes into the right form for cutree.
 #Use factoextra to create an ordination plot
 library(factoextra)
 fviz_cluster(list(data = bray, cluster = clust))
 
-citation("dplyr")
+
 
