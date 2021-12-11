@@ -1,27 +1,43 @@
-﻿cat,code
-Self Help/Health,SH
-Crafts,Cr
-Null,Nu
-History,H
-Religion,R
-Novel,Nov
-SciFi/Fantasy,SciFi
-Art,Art
-Anthology/Essays/Short stories,An
-Thriller/Suspense,Th
+cat,code
+Adventure,ADV
+Anthology/Essays/Short stories,AN
+Art,ART
+Black Humour,BH
+Biography/Autobiography/Memoir,BIO
+Business/Technology,BU
+Canadian Fiction,CAF
+Classics,CL
+Cookery,CO
+Coming of Age,COA
+Comedy,COM
+Crafts,CR
 Cultural Studies,CS
-Business/Technology,Bu
-Biography/Autobiography/Memoir,Bio
-Mystery,Mys
-Nature/Gardening,Na
-Romance,Ro
-Sports,S
-Cookery,Co
-Reference,Ref
-Classics,Cl
-Drama,Dr
-Music,Mu
-Travel,Th
+Domestic Fiction,DF
+Drama,DR
+Experimental Fiction,EF
+Graphic/Manga,GR
+History,H
+Historical Fiction,HF
+Humorous Works,HW
+Juvenile Works,JW
+Legal Fiction,LEF
+Literary Fiction,LITF
+Love Stories,LOV
+Music,MU
+Mystery,MYS
+Nature/Gardening,NA
+Null,NU
 Poetry,P
-Science,Sci
-Graphic/Manga,Gr
+Religion,R
+Religious,R
+Reference,REF
+Romance,ROM
+Sports,S
+Science,SCI
+SciFi/Fantasy,SCI
+SciFi/Fantasy,SCIFIFAN
+Self Help/Health,SH
+Thriller/Suspense,TH
+Travel,TR
+Thriller/Suspense,TR
+Western,WS
