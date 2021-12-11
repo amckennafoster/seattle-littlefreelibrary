@@ -23,7 +23,7 @@ catdens %>% summarise_if(is.numeric, var)
 
 #Convert the densities to percentages of the max density in each LFL. This reduces the influence of one category
 #with a wide range in percent. Now all categories will range from zero to 1.
-catdensper <- catdens[,3:28] #col 2 to 28
+catdensper <- catdens[,3:45] #col 2 to 28
 catdensper <- decostand(catdensper, method='total')
 
 #http://strata.uga.edu/8370/lecturenotes/clusterAnalysis.html
@@ -64,15 +64,16 @@ dev.off()
 #---------------------------
 #Look at what is driving the clustering: This ranks the genres for each cluster. 
 #Get row numbers for bounding lfls
-cluster1 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict2') : which(brayAgnes$order.lab=='Montlake6')]
-cluster2 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict5') : which(brayAgnes$order.lab=='Montlake2')]
-cluster3 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict3') : which(brayAgnes$order.lab=='Laurelhurst3')]
-cluster4 <- brayAgnes$order [which(brayAgnes$order.lab=='Laurelhurst1') : which(brayAgnes$order.lab=='Northgate4')]
-#Look at subclusters in cluster3
-cluster5 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict3') : which(brayAgnes$order.lab=='QueenAnne2')]
-cluster6 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict4') : which(brayAgnes$order.lab=='Laurelhurst3')]
+cluster1 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict3') : which(brayAgnes$order.lab=='Northgate2')]
+cluster2 <- brayAgnes$order [which(brayAgnes$order.lab=='Northgate3') : which(brayAgnes$order.lab=='Laurelhurst3')]
+cluster3 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green2') : which(brayAgnes$order.lab=='Montlake6')]
+cluster4 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict5') : which(brayAgnes$order.lab=='Laurelhurst6')]
+#Look at super clusters
+cluster5 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict3') : which(brayAgnes$order.lab=='Laurelhurst3')] #First group
+cluster6 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green2') : which(brayAgnes$order.lab=='Laurelhurst6')] #second group
 
-catdenstrimmed<-catdens[,3:28]
+
+catdenstrimmed<-catdens[,3:45]
 
 cluster1lfl <- catdenstrimmed[cluster1, ]
 cluster2lfl <- catdenstrimmed[cluster2, ]
@@ -81,17 +82,18 @@ cluster4lfl <- catdenstrimmed[cluster4, ]
 cluster5lfl <- catdenstrimmed[cluster5, ]
 cluster6lfl <- catdenstrimmed[cluster6, ]
 
-round(sort(colSums(cluster1lfl) / sum(colSums(cluster1lfl)), decreasing=TRUE), digits=2) #Novels
-round(sort(colSums(cluster2lfl) / sum(colSums(cluster2lfl)), decreasing=TRUE), digits=2) #Cookery
-round(sort(colSums(cluster3lfl) / sum(colSums(cluster3lfl)), decreasing=TRUE), digits=2) #Childrens
-round(sort(colSums(cluster4lfl) / sum(colSums(cluster4lfl)), decreasing=TRUE), digits=2) #Mystery and Novels
-round(sort(colSums(cluster5lfl) / sum(colSums(cluster5lfl)), decreasing=TRUE), digits=2) #Children's and Novels
-round(sort(colSums(cluster6lfl) / sum(colSums(cluster6lfl)), decreasing=TRUE), digits=2) #Children's and SciFi
+
+round(sort(colSums(cluster1lfl) / sum(colSums(cluster1lfl)), decreasing=TRUE), digits=2) #Childrens and mystery
+round(sort(colSums(cluster2lfl) / sum(colSums(cluster2lfl)), decreasing=TRUE), digits=2) #Childrens and Scifi/fan
+round(sort(colSums(cluster3lfl) / sum(colSums(cluster3lfl)), decreasing=TRUE), digits=2) #Childrens and mystery more even
+round(sort(colSums(cluster4lfl) / sum(colSums(cluster4lfl)), decreasing=TRUE), digits=2) #Cooking and self help/health
+round(sort(colSums(cluster5lfl) / sum(colSums(cluster5lfl)), decreasing=TRUE), digits=2) #Childrens
+round(sort(colSums(cluster6lfl) / sum(colSums(cluster6lfl)), decreasing=TRUE), digits=2) #Mystery
 
 
 #Create an ordination chart
 #From: https://www.r-bloggers.com/2017/12/how-to-perform-hierarchical-clustering-using-r/
-clust <- cutree(as.hclust(brayAgnes), h=0.75) #This gets the output from agnes into the right form for cutree.
+clust <- cutree(as.hclust(brayAgnes), h=1.3) #This gets the output from agnes into the right form for cutree.
 #Use factoextra to create an ordination plot
 library(factoextra)
 fviz_cluster(list(data = bray, cluster = clust))
