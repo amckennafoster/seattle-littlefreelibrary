@@ -2,42 +2,31 @@ cat,code
 Adventure,ADV
 Anthology/Essays/Short stories,AN
 Art,ART
-Black Humour,BH
 Biography/Autobiography/Memoir,BIO
+Literary Fiction,LITF
 Business/Technology,BU
-Canadian Fiction,CAF
 Classics,CL
-Cookery,CO
-Coming of Age,COA
 Comedy,COM
+Cookery,CO
 Crafts,CR
-Cultural Studies,CS
 Domestic Fiction,DF
 Drama,DR
-Experimental Fiction,EF
 Graphic/Manga,GR
-History,H
 Historical Fiction,HF
-Humorous Works,HW
-Juvenile Works,JW
-Legal Fiction,LEF
-Literary Fiction,LITF
-Love Stories,LOV
+History,H
+Suspense,SUS
+Romance,ROM
 Music,MU
 Mystery,MYS
 Nature/Gardening,NA
 Null,NU
 Poetry,P
-Religion,R
-Religious,R
+Politics,POL
 Reference,REF
-Romance,ROM
-Sports,S
+Religion,R
 Science,SCI
-SciFi/Fantasy,SCI
-SciFi/Fantasy,SCIFIFAN
+SciFi/Fantasy,SCIFAN
 Self Help/Health,SH
-Thriller/Suspense,TH
+Sports,S
 Travel,TR
-Thriller/Suspense,TR
 Western,WS
