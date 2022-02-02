@@ -23,7 +23,7 @@ catdens %>% summarise_if(is.numeric, var)
 
 #Convert the densities to percentages of the max density in each LFL. This reduces the influence of one category
 #with a wide range in percent. Now all categories will range from zero to 1.
-catdensper <- catdens[,3:45] #col 2 to 28
+catdensper <- catdens[,3:34] #get the columns of categories
 catdensper <- decostand(catdensper, method='total')
 
 #http://strata.uga.edu/8370/lecturenotes/clusterAnalysis.html
@@ -50,7 +50,7 @@ par(mar = c(10,2,1,1)) #control the margins (bottom, left, top, right)
 par(oma = c(3,1,1,1)) #control the margins (bottom, left, top, right)
 par(cex=0.6) #Text size of labels
 dend %>% plot #If you want colors on the branches: dend %>% color_branches(k=4) %>% plot
-dend %>% rect.dendrogram(k=4)
+dend %>% rect.dendrogram(k=2)
 
 
 #Build the plot and save as eps
@@ -64,31 +64,33 @@ dev.off()
 #---------------------------
 #Look at what is driving the clustering: This ranks the genres for each cluster. 
 #Get row numbers for bounding lfls
-cluster1 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict3') : which(brayAgnes$order.lab=='Northgate2')]
-cluster2 <- brayAgnes$order [which(brayAgnes$order.lab=='Northgate3') : which(brayAgnes$order.lab=='Laurelhurst3')]
-cluster3 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green2') : which(brayAgnes$order.lab=='Montlake6')]
-cluster4 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict5') : which(brayAgnes$order.lab=='Laurelhurst6')]
-#Look at super clusters
-cluster5 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict3') : which(brayAgnes$order.lab=='Laurelhurst3')] #First group
-cluster6 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green2') : which(brayAgnes$order.lab=='Laurelhurst6')] #second group
+cluster1 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green2') : which(brayAgnes$order.lab=='ColumbiaCity5')]
+cluster2 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green4') : which(brayAgnes$order.lab=='Ravenna3')]
+#small cluster within cluster 1
+cluster3 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict5') : which(brayAgnes$order.lab=='ColumbiaCity5')]
+#left cluster in cluster 2
+cluster4 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green4') : which(brayAgnes$order.lab=='Ravenna4')]
+#right cluster in cluster 2
+cluster5 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green3') : which(brayAgnes$order.lab=='Ravenna3')] #First group
+#cluster6 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green3') : which(brayAgnes$order.lab=='QueenAnne1')] #second group
 
 
-catdenstrimmed<-catdens[,3:45]
+catdenstrimmed<-catdens[,3:34]
 
 cluster1lfl <- catdenstrimmed[cluster1, ]
 cluster2lfl <- catdenstrimmed[cluster2, ]
 cluster3lfl <- catdenstrimmed[cluster3, ]
 cluster4lfl <- catdenstrimmed[cluster4, ]
 cluster5lfl <- catdenstrimmed[cluster5, ]
-cluster6lfl <- catdenstrimmed[cluster6, ]
+#cluster6lfl <- catdenstrimmed[cluster6, ]
 
-
-round(sort(colSums(cluster1lfl) / sum(colSums(cluster1lfl)), decreasing=TRUE), digits=2) #Childrens and mystery
-round(sort(colSums(cluster2lfl) / sum(colSums(cluster2lfl)), decreasing=TRUE), digits=2) #Childrens and Scifi/fan
-round(sort(colSums(cluster3lfl) / sum(colSums(cluster3lfl)), decreasing=TRUE), digits=2) #Childrens and mystery more even
-round(sort(colSums(cluster4lfl) / sum(colSums(cluster4lfl)), decreasing=TRUE), digits=2) #Cooking and self help/health
-round(sort(colSums(cluster5lfl) / sum(colSums(cluster5lfl)), decreasing=TRUE), digits=2) #Childrens
-round(sort(colSums(cluster6lfl) / sum(colSums(cluster6lfl)), decreasing=TRUE), digits=2) #Mystery
+#Generally, categories over 0.10 are noted
+round(sort(colSums(cluster1lfl) / sum(colSums(cluster1lfl)), decreasing=TRUE), digits=2) #Mystery and Selfhelp
+round(sort(colSums(cluster2lfl) / sum(colSums(cluster2lfl)), decreasing=TRUE), digits=2) #Childrens and mystery
+round(sort(colSums(cluster3lfl) / sum(colSums(cluster3lfl)), decreasing=TRUE), digits=2) #Biography/Autobio, History, self help, hist fiction
+round(sort(colSums(cluster4lfl) / sum(colSums(cluster4lfl)), decreasing=TRUE), digits=2) #Childrens, mystery
+round(sort(colSums(cluster5lfl) / sum(colSums(cluster5lfl)), decreasing=TRUE), digits=2) #Childrens then scifi
+#round(sort(colSums(cluster6lfl) / sum(colSums(cluster6lfl)), decreasing=TRUE), digits=2) #Mystery and selfhelp
 
 
 #Create an ordination chart
