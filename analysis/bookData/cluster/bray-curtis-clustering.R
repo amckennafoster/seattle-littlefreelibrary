@@ -71,7 +71,7 @@ cluster3 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict5') : wh
 #left cluster in cluster 2
 cluster4 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green4') : which(brayAgnes$order.lab=='Ravenna4')]
 #right cluster in cluster 2
-cluster5 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green3') : which(brayAgnes$order.lab=='Ravenna3')] #First group
+cluster5 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green3') : which(brayAgnes$order.lab=='Ravenna3')]
 #cluster6 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green3') : which(brayAgnes$order.lab=='QueenAnne1')] #second group
 
 
@@ -85,11 +85,11 @@ cluster5lfl <- catdenstrimmed[cluster5, ]
 #cluster6lfl <- catdenstrimmed[cluster6, ]
 
 #Generally, categories over 0.10 are noted
-round(sort(colSums(cluster1lfl) / sum(colSums(cluster1lfl)), decreasing=TRUE), digits=2) #Mystery and Selfhelp
-round(sort(colSums(cluster2lfl) / sum(colSums(cluster2lfl)), decreasing=TRUE), digits=2) #Childrens and mystery
-round(sort(colSums(cluster3lfl) / sum(colSums(cluster3lfl)), decreasing=TRUE), digits=2) #Biography/Autobio, History, self help, hist fiction
-round(sort(colSums(cluster4lfl) / sum(colSums(cluster4lfl)), decreasing=TRUE), digits=2) #Childrens, mystery
-round(sort(colSums(cluster5lfl) / sum(colSums(cluster5lfl)), decreasing=TRUE), digits=2) #Childrens then scifi
+round(sort(colSums(cluster1lfl) / sum(colSums(cluster1lfl)), decreasing=TRUE), digits=2) #Mystery and Selfhelp Large group left
+round(sort(colSums(cluster2lfl) / sum(colSums(cluster2lfl)), decreasing=TRUE), digits=2) #Childrens and mystery Large group right
+round(sort(colSums(cluster3lfl) / sum(colSums(cluster3lfl)), decreasing=TRUE), digits=2) #Biography/Autobio, History, self help, hist fiction Central5 group
+round(sort(colSums(cluster4lfl) / sum(colSums(cluster4lfl)), decreasing=TRUE), digits=2) #Childrens, mystery left subgroup in right
+round(sort(colSums(cluster5lfl) / sum(colSums(cluster5lfl)), decreasing=TRUE), digits=2) #Childrens then scifi right subgroup in right
 #round(sort(colSums(cluster6lfl) / sum(colSums(cluster6lfl)), decreasing=TRUE), digits=2) #Mystery and selfhelp
 
 
