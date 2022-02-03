@@ -2,7 +2,7 @@ collection,width,length,height,volMeters,adjPrice,specific,current,variety,kids,
 CentralDistrict1,0,0,0,0,0,n,n,n,n,n,n
 CentralDistrict2,22,11,12,0.047588,536554.0424,n,n,n,n,n,n
 CentralDistrict3,23,11,14,0.058043,124155.9225,n,n,n,n,n,n
-CentralDistrict4,16,13.5,21,0.074332,437730.5987,n,n,n,n,y,n
+CentralDistrict4,16,13.5,21,0.074332,437730.5987,n,y,n,n,y,n
 CentralDistrict5,13,14.5,12,0.037067,827225.2702,n,n,y,y,n,n
 CentralDistrict6,16.5,9,20,0.04867,479452.9534,n,y,n,n,n,n
 ColumbiaCity1,15.5,10.75,21,0.05734,239776.6772,n,n,n,n,n,n
@@ -10,14 +10,14 @@ ColumbiaCity2,19.5,14,14,0.062631,381865.1842,n,n,n,n,n,n
 ColumbiaCity3,21,12,19,0.078461,162493.3477,n,n,n,n,n,n
 ColumbiaCity4,16.5,11,15,0.044614,520487.1418,n,n,n,n,y,y
 ColumbiaCity5,15,8.5,17,0.035519,342103.2987,n,n,n,n,n,n
-Laurelhurst1,16,13,16,0.054536,297957.7826,y,n,n,y,n,n
+Laurelhurst1,16,13,16,0.054536,297957.7826,y,n,y,y,n,n
 Laurelhurst2,22,13,23,0.107794,922601.4158,n,n,n,n,n,n
 Laurelhurst3,18,12,19,0.067252,1162687.846,n,n,n,n,n,y
 Laurelhurst4,19,13,15,0.060714,295073.3674,n,n,n,n,n,n
 Laurelhurst5,15,15,15,0.055306,722576.8014,n,n,n,n,n,y
 Laurelhurst6,16,12,14,0.044048,1728652.635,n,n,n,n,n,n
 Montlake2,10,18,20,0.058993,391824.2874,n,n,n,n,n,n
-Montlake4,10,18,20,0.058993,,n,n,n,n,y,n
+Montlake4,10,18,20,0.058993,,n,n,n,y,n,n
 Montlake5,15,13,15,0.047932,714970.7298,y,n,n,y,n,n
 Montlake6,14,10,17,0.039001,644307.4712,n,n,n,y,y,n
 Northgate1,15,13,15,0.047932,,y,n,n,y,n,n
@@ -27,7 +27,7 @@ Northgate4,15,13,15,0.047932,480500.487,n,n,n,n,y,n
 Northgate5,15,13,15,0.047932,659372.3849,n,n,y,n,n,n
 Phinney-Green1,14,11,16,0.040378,213879.8019,y,y,n,n,n,n
 Phinney-Green2,22,14,19,0.095897,421056.4828,n,n,n,n,n,n
-Phinney-Green3,22,17,34,0.208378,453189.7407,n,n,n,n,n,n
+Phinney-Green3,22,17,34,0.208378,453189.7407,n,n,y,y,n,n
 Phinney-Green4,22,15,25,0.135193,445509.3815,n,n,n,n,y,n
 Phinney-Green5,15,13,19,0.060714,656713.1923,n,n,n,n,n,n
 QueenAnne1,18,16,25,0.117987,314330.3793,n,n,y,n,n,n
