@@ -16,7 +16,7 @@ Some of the variables were created by the LibraryThing application and values ei
 - type: Fiction or Nonfiction. Values from study authors.
 - category1: Category using schema designed by study authors. Values from study authors.
 - category1Code: An abbreiation for each category for use when making charts. Values from study authors.
-- category2: A second category if needed. Values from study authors.
+- category2: Almost identical to category1 except it indicates religious children's books. Values from study authors.
 - publication: Publisher, year, and number of pages
 - media: Hardcover, paperback, CD or sound recording, eBook, board book, paper book, magazine, CD audiobook
 - summary: Title, author and year published
