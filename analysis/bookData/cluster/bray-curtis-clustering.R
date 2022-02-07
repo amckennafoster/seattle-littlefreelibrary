@@ -57,21 +57,21 @@ dend %>% rect.dendrogram(k=2)
 setEPS()
 postscript("../../figures/cluster.eps")
 dend %>% plot #If you want colors on the branches: dend %>% color_branches(k=4) %>% plot
-dend %>% rect.dendrogram(k=4)
+dend %>% rect.dendrogram(k=2)
 dev.off()
 
 
 #---------------------------
 #Look at what is driving the clustering: This ranks the genres for each cluster. 
 #Get row numbers for bounding lfls
-cluster1 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green2') : which(brayAgnes$order.lab=='ColumbiaCity5')]
-cluster2 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green4') : which(brayAgnes$order.lab=='Ravenna3')]
+cluster1 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict2') : which(brayAgnes$order.lab=='ColumbiaCity5')]
+cluster2 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict3') : which(brayAgnes$order.lab=='Ravenna3')]
 #small cluster within cluster 1
 cluster3 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict5') : which(brayAgnes$order.lab=='ColumbiaCity5')]
 #left cluster in cluster 2
-cluster4 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green4') : which(brayAgnes$order.lab=='Ravenna4')]
+cluster4 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict3') : which(brayAgnes$order.lab=='Ravenna1')]
 #right cluster in cluster 2
-cluster5 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green3') : which(brayAgnes$order.lab=='Ravenna3')]
+cluster5 <- brayAgnes$order [which(brayAgnes$order.lab=='CentralDistrict4') : which(brayAgnes$order.lab=='Ravenna3')]
 #cluster6 <- brayAgnes$order [which(brayAgnes$order.lab=='Phinney-Green3') : which(brayAgnes$order.lab=='QueenAnne1')] #second group
 
 
