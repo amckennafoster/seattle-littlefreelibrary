@@ -18,3 +18,11 @@ Neighborhoods and Dates
 - Ravenna - June 30 (net)
 
 Retrieved public library data for May from Central, Columbia, Queen Anne, Northgate, Laurelhust, and Phinney. Then public library data from July for Montlake, Ravenna.
+
+
+## Creating pie charts of genre classifications
+
+Want to compare proportions of genres if all the LFLs were the same size, i.e. 1 cubic foot. So raw counts should be summed by LFL and divided by the volume of that LFL giving a count per 1 cubic foot.
+Otherwise, a large library filled with one genre could unduly influence the chart. If five LFLs had 90% history but there was one really big LFL full of children's books that made the overall percentage of history only 40%, visiting a random LFL of those six would most likely not show you what you expect (children's books).
+Standardizing by volume would make this more accurate.
+
