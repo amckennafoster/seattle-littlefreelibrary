@@ -1,7 +1,7 @@
 collection,width,length,height,volMeters,adjPrice,specific,current,variety,kids,religion,porn
-CentralDistrict1,0,0,0,0,0,n,n,n,n,n,n
+CentralDistrict1,0,0,0,0,,n,n,n,n,n,n
 CentralDistrict2,22,11,12,0.047588,536554.0424,n,n,n,n,n,n
-CentralDistrict3,23,11,14,0.058043,124155.9225,n,n,n,n,n,n
+CentralDistrict3,23,11,14,0.058043,124155.9225,n,n,n,n,y,n
 CentralDistrict4,16,13.5,21,0.074332,437730.5987,n,y,n,n,y,n
 CentralDistrict5,13,14.5,12,0.037067,827225.2702,n,n,y,y,n,n
 CentralDistrict6,16.5,9,20,0.04867,479452.9534,n,y,n,n,n,n
@@ -16,11 +16,11 @@ Laurelhurst3,18,12,19,0.067252,1162687.846,n,n,n,n,n,y
 Laurelhurst4,19,13,15,0.060714,295073.3674,n,n,n,n,n,n
 Laurelhurst5,15,15,15,0.055306,722576.8014,n,n,n,n,n,y
 Laurelhurst6,16,12,14,0.044048,1728652.635,n,n,n,n,n,n
-Montlake2,10,18,20,0.058993,391824.2874,n,n,n,n,n,n
-Montlake4,10,18,20,0.058993,,n,n,n,y,n,n
-Montlake5,15,13,15,0.047932,714970.7298,y,n,n,y,n,n
-Montlake6,14,10,17,0.039001,644307.4712,n,n,n,y,y,n
-Northgate1,15,13,15,0.047932,,y,n,n,y,n,n
+Montlake1,10,18,20,0.058993,391824.2874,n,n,n,n,n,n
+Montlake2,10,18,20,0.058993,,n,n,n,y,n,n
+Montlake3,15,13,15,0.047932,714970.7298,y,n,n,y,n,n
+Montlake4,14,10,17,0.039001,644307.4712,n,n,n,y,y,n
+Northgate1,15,13,15,0.047932,,y,n,n,y,n,y
 Northgate2,12,12,20,0.047195,335916.434,y,n,n,n,y,y
 Northgate3,32,32,76,1.275305,,n,n,n,n,n,n
 Northgate4,15,13,15,0.047932,480500.487,n,n,n,n,y,n
