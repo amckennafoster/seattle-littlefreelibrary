@@ -39,14 +39,16 @@ Standardizing by volume would make this more accurate.
 
 ## Overview of Statistical tests
 
-Total tests, including post-hoc = 64  (58 are post-hoc)
+Total tests, including post-hoc = 66  (58 are post-hoc)
 
 - Comparing fiction/nonfiction counts
  - Across neighborhoods: Chi square for the summed counts by neighborhood and post-hoc pair-wise chi squares (total tests 29)
  - Between transit and residential: Chi square of the summed counts for each group (total tests 1)
+ - Proportion fiction in an indiv. LFL compared to house price using Spearman (total tests: 1)
 - Comparing juvenile vs adult book counts
  - Across neighborhoods: Chi square for the summed counts by neighborhood and post-hoc pair-wise chi squares (total tests 29)
  - Between transit and residential: Chi square of the summed counts for each group (total tests 1)
+ - Juvenile percent in an indiv. LFL compared to house price using Spearman (total tests: 1)
 - Comparing the number of BIPOC authors across neighborhoods
  - Chi square for the number of books by BIPOC authors and those not by BIPOC (total tests 1)
 - Number of LFLs per tract population
