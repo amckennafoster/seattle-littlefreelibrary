@@ -1,27 +1,32 @@
-Categroies,Description
-Anthology/Essays/Short stories,Any collection of writings
-Art,"Any book about art, making art, or a catalog of art"
-Biography/Autobiography/Memoir,Any writing about a person's life
-Business/Technology,Nonfiction aimed at business practices or technology use
-Classics,Books that either self describe as classics or are commonly taught in school and are not modern
-Cookery,Anything about cooking or recipes
-Crafts,Anything about crafting
-Cultural Studies,"Encompasses any book about culture, politics, economics, or society. Includes books about religion."
-Drama,Plays
-Graphic/Manga,Stories are told through illustrations
-History,Books about the past
-Music,"Books music, instruments, and books of music"
-Mystery,Books where the main plot is solving a mystery
-Nature/Gardening,"Books about plants, nature, animals, gardening"
-Novel,"Any fiction that has more complex themes than typical mystery, Scifi, romance, or thriller/suspense"
-Null,No categorization. Assigned to children's books
-Poetry,Any book labelled as poetry
-Reference,"Any dictionary, thesaurus, or encyclopedia"
-Religion,"Books that endorse one religion over others, through stories, description of practices or thought."
-Romance,Books where the main plot and all the themes center on romance
-Science,"Any nonfiction book about science, scientifific process, or science history"
-SciFi/Fantasy,"Combines with fantasy- Fiction about nonexistent technologies, societies, and or creatures."
-Self Help/Health,"Any book that provides information or advice on personal improvement, health, action"
-Sports,"Any book about sports, sports history, or sports rules"
-Thriller/Suspense,Books where the main plot is action and suspense
-Travel,Any book with travel advice or stories about travel.
+Category,Code,Description
+Adventure,ADV,Plot usually entails a physical journey with a primary focus on the protagonist encountering challenges while pursuing a goal
+Anthology/Essays/Short stories,AN,"Compilations of shorter works of writing, by the same creator, or multiple creators. Does not include poetry"
+Art,ART,"Books about art, describing art, or related to art events"
+Biography/Autobiography/Memoir,BIO,Works written about an individual's life
+Literary Fiction,LITF,"Works of a higher literary caliber, often with multiple themes and a social or political statement or message"
+Business/Technology,BU,"Works about business practices, business strategy, specific technology, or technology practices"
+Classics,CL,Works with lasting value and often part of a curicululm or literary canon
+Comedy,COM,Works where the primary topic or purpose of writing is humour and comedy
+Cookery,CO,Works about cooking including recipe books
+Crafts,CR,"Works about creating objects, primarily for recreational purposes"
+Domestic Fiction,DF,"Works focused on the relationships between friends, family, and/or the community, written primarily for entertainment"
+Drama,DR,Works written primarily to be performed in front of an audience
+Graphic/Manga,GR,Stories and information conveyed with text and illustrated images
+Historical Fiction,HF,Works loosely based on historical events or people where the actual events or historical figures play a primary role in the story
+History,H,Works of nonfiction about the past
+Suspense,SUS,Fiction whose primary mood and plot points build suspense
+Romance,ROM,Works where the primary focus is the romantic relationship between two or more people
+Music,MU,Works primarily about music and musicians
+Mystery,MYS,"Fiction whose main plot points involve mysteries, often political or criminal in nature"
+Nature/Gardening,NA,Nonfiction books about nature and gardening
+Null,NU,Used for Children's books. No category was applied for these books.
+Poetry,P,Works of poetry by one or multiple creators
+Politics,POL,Nonfiction works about politics
+Reference,REF,"Works compiled for users to refer to, ex: dictionaries,"
+Religion,R,"Works that discuss spirituality, higher powers, or religions, through stories, description of practices or thought."
+Science,SCI,Nonfiction about various science topics
+SciFi/Fantasy,SCIFAN,Fiction works containing technology and science that did not exist at the time of its publication and works with mythological creatures and/or that take place in imginary worlds. 
+Self Help/Health,SH,Non-fiction works focused on bettering oneself or one's physical health
+Sports,S,Non-biographical works about sports and athletes
+Travel,TR,Non-fiction works about visiting places
+Western,WS,Fictional works about the North American west and its inhabitants

@@ -21,7 +21,7 @@ Retrieved public library data for May from Central, Columbia, Queen Anne, Northg
 
 
 ## Spearman Correlation
-This was appropriate for income, education level, and diversity across census tracts since the data were not normal and there were more than 10 observations for each. We removed census tracts that did not have at least one LFL- we were not testing if those factors influenced the *existence* of an LFL.
+This was appropriate for income, education level, and diversity across census tracts since the data were not normal and there were more than 10 observations for each. We removed census tracts that did no LFLs- we were not testing if those factors influenced the *existence* of an LFL.
 
 ## Comparing Fiction/nonfiction and age level
 
