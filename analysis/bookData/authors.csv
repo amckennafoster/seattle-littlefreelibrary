@@ -1,0 +1,1022 @@
+grouping,combinedName,nonPersonAuthor,Sex,authorBirthYear
+1,A. E. Van Vogt,0,male,1912
+2,A. M. Homes,0,female,1961
+3,Abigail Thomas,0,female,1941
+4,Adam Gamble,0,male,null
+5,Adam Silvera,0,male,1990
+6,Adolfo Bioy,0,male,1914
+7,Adriana Trigiani,0,female,1969
+8,Adriana Trigiani,0,female,1969
+9,Agatha Christie,0,female,1890
+10,akhen osei,0,null,null
+11,Akhil Sharma,0,male,1971
+12,Alan Brennert,0,male,1954
+13,Alan Davidson,0,male,1924
+14,Alan Ebert,0,male,null
+15,Alan Furst,0,male,1941
+16,Alan Furst,0,male,1941
+17,Alastair Reynolds,0,male,1966
+18,Albert Hofstadter,0,male,1910
+19,Alex Counts,0,male,null
+20,Alex Kava,0,female,1960
+21,Alexander Maksik,0,male,1948
+22,Alexander McCall Smith,0,male,1948
+23,Alexander McCall Smith,0,male,1948
+24,Alfred Uhry,0,male,1936
+25,Alice Waters,0,female,1944
+26,aliki,0,female,1929
+27,Alma Lutz,0,female,1890
+28,Alvin Toffler,0,male,1928
+29,American Heritage Editors,1,null,null
+30,American Water Works Association,1,null,null
+31,Amy Hempel,0,female,1951
+32,Amy Minato,0,female,null
+33,Amy Tan,0,female,1952
+34,Ana María Shua,0,female,1951
+35,Andrea Zimmerman,0,female,null
+36,Andrew Clements,0,male,1949
+37,Andrew Miller,0,male,1961
+38,Angela C. Santomero,0,female,1968
+39,Anita Diamant,0,female,1951
+40,Ann M. Martin,0,female,19955
+41,Ann McGovern,0,female,1930
+42,Ann Patchett,0,female,1963
+43,Ann Rinaldi,0,female,1934
+44,Ann Weil,0,female,1908
+45,Anna Milbourne,0,female,1972
+46,Anne Capeci,0,female,null
+47,Anne Lindsay Greer,0,female,1940
+48,Anne Mazer,0,female,1953
+49,Anne Millard,0,female,null
+50,Anne Rice,0,female,1941
+51,Anne Rivers Siddons,0,female,1936
+52,Anne Wilson,0,female,null
+53,Anne Wilson,0,female,null
+54,Anne Wilson,0,female,null
+55,Anne Wilson,0,female,null
+56,Anonymous,0,null,null
+57,Anthony Horowitz,0,male,1955
+58,Anthony Horowitz,0,male,1955
+59,Antonio J. Hopson,0,male,1968
+60,Antonio Tabucchi,0,male,1943
+61,Apple Jordan,0,female,null
+62,Aprilynne Pike,0,female,1981
+63,Arnold Bennett,0,male,1867
+64,Arthur Bloch,0,male,1948
+65,Arthur Krystal,0,male,1947
+66,Arthur L. Farnham,0,male,null
+67,Atkins Health & Medical Information Service,1,null,null
+68,Atul Kohli,0,male,1949
+69,Audrey Niffenegger,0,female,1963
+70,August Wilson,0,male,1945
+71,Augusta Stevenson,0,female,1869
+72,Avi,0,male,1937
+73,Bailey White,0,female,1950
+74,Barbara Bazaldua,0,female,null
+75,Barbara Brooks Wallace,0,female,1922
+76,Barbara Gardner,0,female,null
+77,Barbara Kingsolver,0,female,1955
+78,Barbara Kingsolver,0,female,1955
+79,Barbara Taylor Bradford,0,female,1933
+80,Barbara Taylor Bradford,0,female,1933
+81,Barbara W. Tuchman,0,female,1912
+82,Béatrice Fontanel,0,female,1957
+83,Beatrice Trum Hunter,0,female,1918
+84,Béla Zombory-Moldován,0,male,1885
+85,Belva Plain,0,female,1915
+86,Benjamin Elkin,0,male,1911
+87,Benjamin Hoff,0,male,1946
+88,Bernard Cornwell,0,female,1944
+89,Bernard Cornwell,0,male,1944
+90,Bernard LeGette,0,male,null
+91,Bernard Palmer,0,male,1914
+92,Bernie S. Siegel,0,male,1932
+93,Berry Stainback,0,male,null
+94,Beth Kephart,0,female,1961
+95,Beth Shulman,0,female,1949
+96,Betsy Duffey,0,female,null
+97,Better Homes and Gardens,1,null,null
+98,Betty MacDonald,0,female,1958
+99,Beverly Cleary,0,female,1916
+100,Beverly Cleary,0,female,1916
+101,Beverly Cleary,0,female,1916
+102,Bill Bryson,0,male,1951
+103,Bill Bryson,0,male,1951
+104,Bill Henderson,0,male,1941
+105,Bill Morgan,0,male,1949
+106,Bill Peet,0,male,1915
+107,Bin Ramke,0,male,1947
+108,Blaine Brownell,0,male,1970
+109,Bob Lanier,0,male,1948
+110,Bonnie Bryant,0,female,1946
+111,Books Minerva,1,null,null
+112,Brad Meltzer,0,male,1970
+113,Brad Taylor,0,male,1965
+114,Brenda Novak,0,female,1964
+115,Brennan Manning,0,male,1934
+116,Brian Murphy,0,male,1959
+117,Brinton Turkle,0,male,1915
+118,Bruce Aidells,0,male,1944
+119,Bruce Alexander,0,male,1932
+120,Bruce Coville,0,male,1950
+121,Bruce Hale,0,male,1957
+122,Budoff Matthew,0,male,null
+123,C. D.B. Bryan,0,male,1936
+124,C. J. Box,0,male,1958
+125,C. S. Lewis,0,male,1898
+126,C. S. Lewis,0,male,1898
+127,C. Vann Woodward,0,male,1908
+128,Caitlin Moran,0,female,1975
+129,Candace Bushnell,0,female,1958
+130,Carl Bernstein,0,male,1944
+131,Carl Rogers,0,male,1902
+131,Barry Stevens,0,male,1902
+132,Carol Smith,0,female,null
+133,Carol Spier,0,female,null
+134,Carol-Plum-Ucci,0,female,1957
+135,Carola Lovering,0,female,null
+136,Carolyn Hart,0,female,1936
+137,Carolyn Hart,0,female,1936
+138,Carrie Mesrobian,0,female,null
+139,Casey Treat,0,male,1955
+140,Catherine Anderson,0,female,1948
+141,Catherine Banner,0,female,1989
+142,Catherine Burns,0,female,null
+143,Catherine Coulter,0,female,1942
+144,Catherine Jinks,0,female,1963
+145,Catherine Revland,0,female,null
+146,Cathie Linz,0,female,1954
+147,Cathleen Schine,0,female,1953
+148,Cathy Fink,0,female,1953
+149,Cecile Richards,0,female,1957
+150,Cecile Schoberle,0,female,null
+151,Cecily Von,0,female,1970
+152,Chani Lynn Feener,0,female,null
+153,Charles Frazier,0,male,1950
+154,Charles M. Schulz,0,male,1922
+155,Charles M. Schulz,0,male,1922
+156,Charles Palliser,0,male,1947
+157,Charles Schwab,0,male,1937
+158,Charles Todd,0,male,1950
+159,Charles Webb,0,male,1939
+160,Cherie Burns,0,female,null
+161,Cheryl Dellasega,0,female,1953
+162,Chʻêng-chi Chang,0,male,null
+163,Christine Zuchora-Walske,0,female,null
+164,Christoper Kendris,0,male,1923
+165,Christopher Paolini,0,male,1983
+166,Christopher Paolini,0,male,1983
+167,Christopher Paolini,0,male,1983
+168,Claire R. McDougall,0,female,null
+169,Clare Darcy,0,female,1914
+170,Claude M. Bristol,0,male,1891
+171,Clive Cussler,0,male,1931
+172,Clive Cussler,0,male,1931
+173,Colin Pyle,0,male,null
+174,Colin Woodard,0,male,1968
+175,Colleen O'Shaughnessy McKenna,0,female,1948
+176,Craig Dorfman,0,male,null
+177,Craig Thomas,0,male,1942
+178,Curtis Sittenfeld,0,female,1971
+179,Cynthia Bond,0,female,1961
+180,Cynthia Harrod-Eagles,0,female,1948
+181,D U Okonkwo,0,female,null
+182,D. W. Lucas,0,male,1905
+183,Dale Brown,0,male,1956
+184,Dan Brown,0,male,1964
+185,Dan Brown,0,male,1964
+186,Dan Brown,0,male,1964
+187,Dan Brown,0,male,1964
+188,Dan Brown,0,male,1964
+189,Dan Gutman,0,male,1955
+190,Dan Simmons,0,male,1948
+191,Dana Bruce,0,female,1948
+192,Danielle Steel,0,female,1947
+193,Danielle Steel,0,female,1947
+194,Daphne de Marneffe,0,female,null
+195,Daphne Du Maurier,0,female,1907
+196,Darwin Porter,0,male,1937
+197,Dave Sloan,0,male,null
+198,Dave Zeltserman,0,male,1959
+199,David Baldacci,0,male,1960
+200,David Brewster,0,male,null
+201,David Drake,0,male,1945
+202,David E. Brown,0,male,1938
+203,David E. Brown,0,male,1938
+204,David E. Brown,0,male,1938
+205,David E. Brown,0,male,1938
+206,David E. Brown,0,male,1938
+207,David E. Brown,0,male,1938
+208,David E. Brown,0,male,1938
+209,David Ellwand,0,male,1966
+210,David Frazier,0,male,1944
+211,David Gurr,0,male,1936
+212,David H. Albert,0,male,null
+213,David Hogg,0,male,2000
+214,David Levithan,0,male,1972
+215,David Lewman,0,male,1957
+216,David Lodge,0,male,1935
+217,David Mamet,0,male,1947
+218,David Rosenfelt,0,male,1949
+219,David Sedaris,0,male,1956
+220,Dayal Kaur Khalsa,0,female,1943
+221,Dean Hamer,0,male,1951
+222,Dean Koontz,0,male,1945
+223,Dean Koontz,0,male,1945
+224,Dean Koontz,0,male,1945
+225,Debbie Dadey,0,female,1959
+226,Debbie Ford,0,female,1955
+227,Debbie Macomber,0,female,1948
+228,Deborah Garrison,0,female,1965
+229,Deborah Muller Price,0,female,null
+230,Deborah Tannen,0,female,1945
+231,Dennis L. McKiernan,0,male,1932
+232,Dennis Lehane,0,male,1965
+233,Desiree Hartsock,0,female,1986
+234,Dian Curtis Regan,0,female,1950
+235,Diana Palmer,0,female,1946
+236,Diane Mott Davidson,0,female,1949
+237,Diane Mott Davidson,0,female,1949
+238,Diane Noble,0,female,1945
+239,Diane Ryan,0,female,null
+240,Diane Warner,0,female,1937
+241,Dick Couch,0,male,null
+242,Dick Francis,0,male,1920
+243,Dick Francis,0,male,1920
+244,Dick Francis,0,male,1920
+245,Disney,1,null,null
+246,Disney Book Group,1,null,null
+247,Disney Book Group,1,null,null
+248,DK,1,null,null
+249,Dominick Dunne,0,male,1925
+250,Don Freeman,0,male,1908
+251,Don Winslow,0,male,1953
+252,Donna Leon,0,female,1942
+253,Donna Strother Deekens,0,female,null
+254,Dorothy Allison,0,female,1949
+255,Dorothy Cork,0,female,1918
+256,Dorothy Dunnett,0,female,1923
+257,Dorothy R. Bates,0,female,1921
+258,Doug Dollemore,0,male,null
+259,Douglas Wile,0,male,1944
+260,Dr. Leonard Coldwell,0,male,1958
+261,Dunya Dianne McPherson,0,female,null
+262,E. Bradford Burns,0,male,1932
+263,E. Denis Wilson,0,male,null
+264,E. L. Konigsburg,0,female,1930
+265,Edgar Rice Burroughs,0,male,1875
+266,Edith Sodergran,0,female,1892
+267,Editors of Publications International,1,null,null
+268,Edmond J. Mongeon,0,male,null
+269,Edmund S. Morgan,0,male,1916
+270,Edward Abbey,0,male,1927
+271,Edward M. Hallowell,0,male,null
+272,Edward Rutherfurd,0,male,1948
+273,Edwidge Danticat,0,female,1969
+274,Eiji Yoshikawa,0,male,1892
+275,Elena Louise Richmond,0,male,1954
+276,Eli Powell,0,male,null
+277,Elin Hilderbrand,0,female,1969
+278,Elizabeth George,0,female,1949
+279,Elizabeth Moon,0,female,1945
+280,Elizabeth Peters,0,female,1927
+281,Elizabeth R Cregan,0,female,null
+282,Elle Kennedy,0,female,1982
+283,Ellen Datlow,0,female,1949
+284,Ellen Forney,0,female,1968
+285,Ellen Hopkins,0,female,1955
+286,Ellen Raskin,0,female,1928
+287,Ellen Wilson,0,female,null
+288,Ellery Queen,0,male,1905
+289,Ellis Peters,0,female,1913
+290,Eloise Wilkin,0,female,1904
+291,Elsa Petersen-Schepelern,0,female,null
+292,Elvin McDonald,0,male,1937
+293,Emily Bronte,0,female,1818
+294,Emily Giffin,0,female,1972
+295,Emily Liebert,0,female,null
+296,Emily Rodda,0,female,1948
+297,Enrique Vila-Matas,0,male,1948
+298,Eric Carle,0,male,1929
+299,Eric Carle,0,male,1929
+300,Eric Hill,0,male,1927
+301,Eric Van Lustbader,0,male,1946
+302,Eric Worre,0,male,1964
+303,Ernest Hemingway,0,male,1899
+304,Ernest Hemingway,0,male,1899
+305,Ernest Samuels,0,male,1903
+306,Ernst Weiss,0,male,1882
+307,William Lederer,0,male,1912
+307,Eugene Burdick,0,male,1918
+308,Eva Ibbotson,0,female,1925
+309,Evan Goldstein,0,male,null
+310,Evelyn Vaughn,0,male,1903
+311,Evelyn Waugh,0,male,1903
+312,Fakegrimlock,0,null,null
+313,Fannie Merritt Farmer,0,female,1857
+314,Fern Michaels,0,female,1933
+315,Fiona Watt,0,female,1960
+316,Fleur Jaeggy,0,female,1940
+317,Frances Hardinge,0,female,1973
+318,Frank Asch,0,male,1946
+319,Frank Asch,0,male,1946
+320,Frank Beddor,0,male,1958
+321,Frank Beddor,0,male,1958
+322,Frank Beddor,0,male,1958
+323,Frank Herbert,0,male,1920
+324,Frank Herbert,0,male,1920
+325,Frederick D. Huebner,0,male,1955
+326,G. K. Chesterton,0,male,1874
+327,Gail Tsukiyama,0,female,1957
+328,George E. Dvorchak,0,male,null
+329,George R. R. Martin,0,male,1948
+330,George S. Kaufman,0,male,1889
+331,George Tenet,0,male,1953
+332,Gerald McDermott,0,male,1941
+333,Geronimo Stilton,0,male,1958
+334,Geronimo Stilton,0,male,1958
+335,Geronimo Stilton,0,male,1958
+336,Geronimo Stilton,0,male,1958
+337,Gertrude Chandler Warner,0,female,1890
+338,Golden Books,1,null,null
+339,Gordon Lish,0,male,1934
+340,Grace Windsor,0,female,null
+341,Grant Cogswell,0,male,1967
+342,Great Source,1,null,null
+343,Greg Alexander,0,male,null
+344,Greg Bell,0,male,null
+345,Greg Egan,0,male,1961
+346,Greg Mortenson,0,male,1957
+347,Gregg Olsen,0,male,1959
+348,Harlan Coben,0,male,1962
+349,Harlan Coben,0,male,1962
+350,Harlan Coben,0,male,1962
+351,Harriet Ziefert,0,female,1941
+352,Harrison Edward Livingstone,0,male,1937
+353,Harry Mark Petrakis,0,male,1923
+354,Harvey Karp,0,male,1951
+355,Hazel Gaynor,0,female,1971
+356,Heidi Murkoff,0,female,1958
+357,Helen Fielding,0,female,1958
+358,Helen Oxenbury,0,female,1938
+359,Helene Tursten,0,female,1954
+360,Henrik Ibsen,0,male,1828
+361,Henry David Thoreau,0,male,1817
+362,Henry Roth,0,male,1906
+363,Henry Sutton,0,male,1963
+364,Hilary Mantel,0,female,1952
+365,Hilary More,0,female,null
+366,Hollis Hodges,0,null,null
+366,Loup Durand,0,male,1933
+366,Elliott Roosevelt,0,male,1910
+366,Henry Denker,0,male,1912
+367,Horatio Castellanos Moya,0,Man,1957
+368,Houghton Mifflin,1,null,null
+369,HsuÌˆan Hua,0,male,1918
+370,Hugh Lofting,0,male,1886
+371,Hugh Lofting,0,male,1886
+372,Human Rights Watch,1,null,null
+373,Huvell Edwards,0,male,null
+374,Hyperion,1,null,null
+375,Idalia Rosario,0,female,null
+376,Ignacio Manuel Altamirano,0,male,1834
+377,Napoleon Brandford III,0,male,1952
+378,Ingrid Roper,0,female,null
+379,Instant Maxwell House Coffee,1,null,null
+380,Isaac Asimov,0,male,1920
+381,Isaac Asimov,0,male,1920
+382,Isabel Allende,0,female,1942
+383,Isabel Allende,0,female,1942
+384,Ishmael Beah,0,male,1980
+385,Ismail Kadare,0,male,1936
+386,Ivan Doig,0,male,1939
+387,J. A. Jance,0,female,1944
+388,J. A. Jance,0,female,1944
+389,J. D. Robb,0,female,1950
+390,J. P. Monninger,0,male,1953
+391,J. W. Powell,0,male,1834
+392,J.R.R. Tolkien,0,male,1892
+393,Jack Clifford Smith,0,male,1916
+394,Jack Gantos,0,male,1951
+395,Jack Otten,0,male,null
+396,Jacqueline Saulnier,0,female,null
+397,Jacqueline Wilson,0,female,1945
+398,James A. Michener,0,male,1907
+399,James A. Michener,0,male,1907
+400,James Anderson,0,male,null
+401,Mark Ellis,0,male,null
+402,James Bastien,0,male,1934
+403,James Bastien,0,male,1934
+404,James Beard,0,male,1903
+405,James Dean,0,male,1957
+406,James Dean,0,male,1957
+407,James Grady,0,male,1949
+408,James Gregor,0,male,null
+409,James Kochalka,0,male,1967
+410,James Kochalka,0,male,1967
+411,James Kochalka,0,male,1967
+412,James Patterson,0,male,1947
+413,James Patterson,0,male,1947
+414,James Rollins,0,male,1961
+415,Jamie Gilson,0,female,1933
+416,Jamie Langston Turner,0,female,1949
+417,Jan Pfloog,0,female,null
+418,Jan Steinbright,0,female,null
+419,Jane Austen,0,female,1775
+420,Jane Chapman,0,female,1970
+421,Jane Green,0,female,1968
+422,Jane Green,0,female,1968
+423,Jane Green,0,female,1968
+424,Jane Werner Watson,0,female,1915
+425,Janet Evanovich,0,female,1943
+426,Janet Evanovich,0,female,1943
+427,Janet Evanovich,0,female,1943
+428,Janet Lee Carey,0,female,1954
+429,Janet Stevens,0,female,1953
+430,Jason Matthews,0,male,1951
+431,Jayne Castle,0,female,1948
+432,Jeanette Winterson,0,female,1959
+433,Jeanne Willis,0,female,1959
+434,jeannette brown mackenzie,0,female,null
+435,Jeannette Walls,0,female,1960
+436,Jeff Johnson,0,male,null
+437,Jeff Smith,0,male,1939
+438,Jeff Smith,0,male,1939
+439,Jeff Stone,0,male,null
+440,Jeffery Deaver,0,male,1950
+441,Jeffery Deaver,0,male,1950
+442,Jeffery Deaver,0,male,1950
+443,Jeffrey Archer,0,male,1940
+444,Jennifer Morey,0,female,null
+445,Jennifer Pullen,0,female,null
+446,Jenny Nimmo,0,female,1944
+447,Jeremiah Healy,0,male,1948
+448,Jerome Stern,0,male,1983
+449,Jerry Allan,0,male,null
+450,Jerry Frissen,0,male,1964
+451,Jess Stein,0,male,1914
+452,Jhumpa Lahiri,0,female,1967
+453,Jill Lauren,0,female,null
+454,Jill Rappaport,0,female,1956
+455,Jim Erskine,0,male,null
+456,Jim Lynch,0,male,1961
+457,Jim Petersen,0,male,null
+458,Jim Thomas,0,male,1930
+459,Joan Carris,0,female,1938
+460,Joan Holub,0,female,1956
+461,Joan Wellman,0,female,null
+462,JoAnn Ross,0,female,1945
+463,Joanne Fluke,0,female,1943
+464,Joao Ubaldo Ribeiro,0,male,1941
+465,Jodi Kantor,0,female,1975
+466,Jodi Picoult,0,female,1966
+467,Jodi Picoult,0,female,1966
+468,Joe Cummings,0,male,null
+469,Joe Gores,0,male,1931
+470,Joe Troiano,0,male,null
+471,Johanna Van Der Bruggen,0,female,null
+472,John Baur,0,male,1947
+473,John Berendt,0,male,1939
+474,John Boothroyd,0,male,null
+475,John Brunner,0,male,1934
+476,John Calvin Batchelor,0,male,1948
+477,John D. MacDonald,0,male,1916
+478,John E. Douglas,0,male,1945
+479,John E. Fitch,0,male,null
+480,John Flanagan,0,male,1944
+481,John Gray,0,male,1951
+482,John Grisham,0,male,1955
+483,John Grisham,0,male,1955
+484,John Grisham,0,male,1955
+485,John Irving,0,male,1942
+486,John Le Carré,0,male,1931
+487,John Le Carré,0,male,1931
+488,John Lescroart,0,male,1948
+489,John Louis Feirer,0,male,1915
+490,John Marco,0,male,null
+491,John Marco,0,male,null
+492,John Medina,0,male,1956
+493,John Steakley,0,male,1951
+494,John Updike,0,male,1932
+495,John Van de Ruit,0,male,1975
+496,John Wood,0,male,null
+497,Jon Steele,0,male,1950
+498,Jon Stewart,0,male,1962
+499,Jonathan Kellerman,0,male,1949
+500,Jonathan Kellerman,0,male,1949
+501,Jonathan Rabb,0,male,1964
+502,Jose Saramago,0,male,1922
+503,Joseph J. Andrade,0,male,null
+504,Joseph Kanon,0,male,1946
+505,Joseph T. Catalano,0,male,null
+506,Josie Dew,0,female,1966
+507,Joy Richardson,0,female,null
+508,Joyce Brothers,0,female,1927
+509,Joyce Carol Oates,0,female,1938
+510,Joyce McDonald,0,female,1946
+511,Jude Watson,0,female,1956
+512,Judi Barrett,0,female,1941
+513,Judith McNaught,0,female,1944
+514,Judith Viorst,0,female,1931
+515,Judy Blume,0,female,1938
+516,Judy Blume,0,female,1938
+517,Judy Blume,0,female,1938
+518,Judy Donnelly,0,female,null
+519,Judy Glattstein,0,female,1942
+520,Judy Van der Veer,0,female,1907
+521,Juli Brenning,0,female,null
+522,Julia A Kittross,0,female,null
+523,Julian Bell,0,null,null
+524,Julian Calder,0,male,null
+525,Julie Aigner-Clark,0,female,1967
+526,Julie Andrews Edwards,0,female,1935
+527,Juliet Marillier,0,female,1948
+528,Julius Caesar,0,male,0
+529,June Lewis Shore,0,female,null
+530,Justine Korman,0,female,null
+531,K.R. Abhisheck,0,male,null
+532,Karen Cleveland,0,female,null
+533,Karen Dolby,0,female,null
+534,Karen Katz,0,female,1947
+535,Karen Kaufman,0,female,null
+536,Kate Wilhelm,0,female,1928
+537,Kathleen Duey,0,female,1950
+538,Kathleen Grissom,0,female,null
+539,Kathleen Grissom,0,female,null
+540,Kathleen Huggins,0,female,null
+541,Kathy Reichs,0,female,1948
+542,Kathy Reichs,0,female,1948
+543,Susan Katz,0,female,1945
+544,Kay Baxter,0,female,null
+545,Kay Thompson,0,female,1909
+546,Kazimierz Brandys,0,male,1916
+547,Kei Toume,0,female,1970
+548,Kelly M Vlcek,0,female,null
+549,Ken Armstrong,0,male,1962
+550,Ken Follett,0,male,1949
+551,Kenneth K. Guilmartin,0,male,null
+552,Kenneth Thomasma,0,male,1930
+553,Kent Wascom,0,male,null
+554,Kevin Lewis,0,male,null
+555,Kim Vogel Sawyer,0,female,null
+556,Kimberla Lawson Roby,0,female,1965
+557,Kirk Marshall,0,male,null
+558,Knox Williams,0,male,1943
+558,Betsy Armstrong,0,female,null
+559,Leah Komaiko,0,female,1954
+560,Koneman,1,null,null
+561,Koneman,1,null,null
+562,Krista Davis,0,female,null
+563,Kristen L. Depken,0,female,null
+564,L. E. Modesitt Jr.,0,male,1943
+565,L. E. Modesitt Jr.,0,male,1943
+566,L. M. Montgomery,0,female,1874
+567,L. Sprague De Camp,0,male,1907
+568,Lao Tzu,0,male,0
+569,Laura Ingalls Wilder,0,female,1867
+570,Laura Numeroff,0,female,1953
+571,Laura Numeroff,0,female,1953
+572,Laura Shovan,0,female,null
+573,Lauren Groff,0,female,1978
+574,Laurence Yep,0,male,1948
+575,Laurie Isop,0,female,1971
+576,Laurie R. King,0,female,19522
+577,Laurie R. King,0,female,19522
+578,Lawrence Block,0,male,1938
+579,Leila Guerriero,0,female,1967
+580,Len Deighton,0,male,1929
+581,Leo Marks,0,male,1920
+582,Leslie Glass,0,female,1945
+583,Lex Williford,0,male,1954
+584,Liane Moriarty,0,female,1966
+585,Linda Buckley-Archer,0,female,1958
+586,Linda Fairstein,0,female,1947
+587,Linda Fairstein,0,female,1947
+588,Linda Greenlaw,0,female,1960
+589,Linda Howard,0,female,1950
+590,Linda J. Murray,0,female,null
+591,Linda Johns,0,female,1945
+592,Linda Lael Miller,0,female,1949
+593,Linda Olsson,0,female,1948
+594,Linda Wagner Tyler,0,female,null
+595,Lisa Kleypas,0,female,1964
+596,Lisa Rofel,0,female,1953
+597,Lisa Scottoline,0,female,1955
+598,Lisa Yee,0,female,1959
+599,Lisa Yockelson,0,female,null
+600,Liz Kessler,0,female,1966
+601,Liza Alexander,0,female,1959
+602,Lois Duncan,0,female,1934
+603,Lois Lowry,0,female,1937
+604,Lojze Kovacic,0,male,1928
+605,Lorelei James,0,female,null
+606,Lorna Landvik,0,female,1954
+607,Lorrie Moore,0,female,1957
+608,Louis L'Amour,0,male,1908
+609,Louis L'Amour,0,male,1908
+610,Louis L'Amour,0,male,1908
+611,Louis Sachar,0,male,1954
+612,Louise Amy Kennedy,0,female,1989
+613,Luanne Rice,0,female,1955
+614,Luanne Rice,0,female,1955
+615,Luanne Rice,0,female,1955
+616,Lucy Jane Bledsoe,0,female,1957
+617,Lydia Child,0,female,1802
+618,Lynda La,0,female,1943
+619,Lynn Mason,0,female,null
+620,Lynne Vogel,0,female,null
+621,Lynsay Sands,0,female,null
+622,Mac Davis,0,male,1905
+623,Madeleine Albright,0,female,1937
+624,Magazine Editors of Time,1,null,null
+625,Maharishi Sadasiva Isham,0,male,1949
+626,Maharishi Sadasiva Isham,0,male,1949
+627,Maisey Yates,0,female,1986
+628,Manuel Puig,0,male,1932
+629,Marc Benioff,0,male,1964
+630,Marc Brown,0,male,1946
+631,Marc Cerasini,0,male,1952
+632,Marc Kornblatt,0,male,1954
+633,Margaret Wise Brown,0,female,1910
+634,Marge Piercy,0,female,1936
+635,Margery Allingham,0,female,1904
+636,Marguerite Henry,0,female,1902
+637,Marguerite Henry,0,female,1902
+638,Marian Potter,0,female,1915
+639,Marianne Berkes,0,female,null
+640,Marilyn Reynolds,0,female,1935
+641,Marion Coste,0,female,1938
+642,Marion Dane Bauer,0,female,1938
+643,Marissa Meyer,0,female,1984
+644,Marius Gabriel,0,male,1954
+645,Marjorie Weinman Sharmat,0,female,1928
+646,Mark Johnson,0,male,1949
+647,Mark Nepo,0,male,1951
+648,Marshall H. Klaus,0,male,1927
+649,Martin Cruz Smith,0,male,1942
+650,Martin Handford,0,male,1956
+651,Henry Martin,0,male,1852
+652,Martin Yan,0,male,1948
+653,Marty Wingate,0,female,null
+654,Mary Alice Jones,0,female,1898
+655,Mary Alice Monroe,0,female,1960
+656,Mary Daheim,0,female,1937
+657,Mary Daheim,0,female,1937
+658,Mary Daheim,0,female,1937
+659,Mary Higgins Clark,0,female,1927
+660,Mary Higgins Clark,0,female,1927
+661,Mary Pope Osborne,0,female,1949
+662,Mary Pope Osborne,0,female,1949
+663,Mary Pope Osborne,0,female,1949
+664,Maryana Vollstedt,0,female,1969
+665,Master Hsuan Hua,0,male,1918
+666,Master Hsuan Hua,0,male,1918
+667,Matthew Quick,0,male,1973
+668,Maurice Sendak,0,male,1928
+669,Maurizio De Giovanni,0,male,1958
+670,Maury Allen,0,male,1932
+671,Mawi Asgedom,0,male,1976
+672,Meg Keene,0,female,null
+673,Megan McDonald,0,female,1959
+674,Melanie Paine,0,female,null
+675,Melissa Lagonegro,0,female,null
+676,Mercedes Lackey,0,female,1950
+677,Michael Connelly,0,male,1956
+678,Michael Crichton,0,male,1942
+679,Michael Crichton,0,male,1942
+680,Michael Crichton,0,male,1942
+681,Michael Crichton,0,male,1942
+682,Michael Cunningham,0,male,1952
+683,Michael Hingson,0,male,1950
+684,Michael J. Fox,0,male,1961
+685,Michael Pollan,0,male,1955
+686,Michael S. Reynolds,0,male,1937
+687,Michael Shaara,0,male,1928
+688,Michael T. Murray,0,male,null
+689,Michelle Spring,0,female,1947
+690,Michiko Saito,0,female,null
+691,Mick Farren,0,male,1943
+692,Midge Raymond,0,female,null
+693,Mike Lofgren,0,male,1953
+694,Mike Stensvold,0,male,null
+695,Molly Bloom,0,female,1978
+696,Myla Goldberg,0,female,1971
+697,Myles J Schneider,0,male,1943
+698,Najīb Maḥfūẓ,0,male,1911
+699,Nancy Atherton,0,female,1955
+700,Nancy Garden,0,female,1938
+701,Nancy L. Mace,0,female,1941
+702,Natalie Standiford,0,female,1961
+703,Nathaniel Hawthorne,0,male,1804
+704,National Geographic Learning,1,null,null
+705,National Presto,1,null,null
+706,Neal Thompson,0,male,1965
+707,Ngaio Marsh,0,female,1895
+708,Nickelodeon,1,null,null
+709,Nicole Krauss,0,female,1974
+710,Nicole Mones,0,female,1952
+711,Nora Roberts,0,female,1950
+712,Norah McClintock,0,female,1952
+713,Norm Stamper,0,male,1944
+714,Norman Bridwell,0,male,1928
+715,null,1,null,null
+716,null,1,null,null
+717,null,1,null,null
+718,null,1,null,null
+719,null,1,null,null
+720,null,1,null,null
+721,null,1,null,null
+722,null,1,null,null
+723,null,1,null,null
+724,null,1,null,null
+725,Michele Zackheim,0,female,1941
+726,null,1,null,null
+727,null,1,null,null
+728,null,1,null,null
+729,null,1,null,null
+730,null,1,null,null
+731,null,1,null,null
+732,null,1,null,null
+733,null,1,null,null
+734,null,1,null,null
+735,null,1,null,null
+736,null,1,null,null
+737,null,1,null,null
+738,null,1,null,null
+739,null,1,null,null
+740,null,1,null,null
+741,null,1,null,null
+742,null,1,null,null
+743,null,1,null,null
+744,null,1,null,null
+745,null,1,null,null
+746,null,1,null,null
+747,null,1,null,null
+748,Olive Ann Burns,0,female,1924
+749,Ono no Komachi,0,female,825
+750,Oriol Vidal,0,male,null
+751,Orson Scott Card,0,male,1951
+752,Orson Scott Card,0,male,1951
+753,Pam Grossman,0,female,null
+754,Par.H.Martin,0,null,null
+755,Parents Magazine play,1,null,null
+756,Parnell Hall,0,male,1944
+757,Patric Kuh,0,male,1964
+758,Patricia Cornwell,0,female,1956
+759,Patricia Cornwell,0,female,1956
+760,Patricia Cornwell,0,female,1956
+761,Patricia MacLachlan,0,female,1938
+762,Patricia Moyes,0,female,1923
+763,Patricia Reilly Giff,0,female,1935
+764,Patrick Carman,0,male,1966
+765,Patrick Skene Catling,0,male,1925
+766,Paul Cheremisinoff,0,male,1952
+767,Paul Fleischman,0,male,1952
+768,Paul Murray,0,male,1975
+769,Paul Myers,0,male,1960
+770,Paul Parker,0,male,null
+771,Paul Selig,0,male,null
+772,Paula Fox,0,female,1923
+773,Paula Harrison,0,female,null
+774,Peggy DesAutels,0,female,null
+775,Pema Chödrön,0,female,1936
+776,Penny Simkin,0,female,1938
+777,Penny Simkin,0,female,1938
+778,Pete Hamill,0,male,1935
+779,Peter Corris,0,male,1942
+780,Peter Pezzelli,0,male,1959
+781,Peter Robinson,0,male,1950
+782,Peter Robinson,0,male,1950
+783,Peter Stafford Carey,0,male,1943
+784,Phil Pepe,0,male,1935
+785,Philippa Gregory,0,female,1954
+786,Phillip Margolin,0,male,1944
+787,Phineas Mollod,0,male,null
+788,Phyllis A. Whitney,0,female,1903
+789,Pierre Bayard,0,male,1954
+790,Piers Anthony,0,male,1934
+791,Pittsburg Cultural Trust,1,null,null
+792,Poppy Bloom,0,null,null
+793,Popular Book Company Limited,1,null,null
+794,Prapas Cholsaranon,0,female,1960
+795,Preschool Prep Company,1,null,null
+796,Queen Noor,0,female,1951
+797,r s yeoman,0,male,1904
+798,R. Garcia y Robertson,0,male,1949
+799,R. Garcia y Robertson,0,male,1949
+800,R. Garcia y Robertson,0,male,1949
+801,R. K. Narayan,0,male,1906
+802,R. L. Stine,0,male,1943
+803,Rabee Jaber,0,male,1972
+804,Rachel Monroe,0,female,1982
+805,Rachel Renée Russell,0,female,1959
+806,Rachel Renée Russell,0,female,1959
+807,Radhika Sanghani,0,female,null
+808,Randall Howard Ghent,0,male,null
+809,Ray Bradbury,0,male,1920
+810,Rayford Clayton Reddell,0,male,1936
+811,Raymond Roussel,0,male,1877
+812,Reg Down,0,male,null
+813,Reginald McKnight,0,male,1956
+814,Rene Goscinny,0,male,1926
+815,Rev. W. Awdry,0,male,1911
+816,Reza Aslan,0,male,1972
+817,RH Disney,1,null,null
+818,Rhea Tregebov,0,female,1953
+819,Rhys Bowen,0,female,1941
+820,Rich Shapero,0,male,1948
+821,Richard Carlson,0,male,1961
+822,Richard Clarke,0,male,1950
+823,Richard Ford,0,male,1944
+824,Richard L. Brandt,0,male,null
+825,Richard Nixon,0,male,1913
+826,Richard Van Camp,0,male,1971
+827,Richard Wagamese,0,male,1955
+828,Richard. J. Foster,0,male,1942
+829,Rick Riordan,0,male,1964
+830,Rick Riordan,0,male,1964
+831,Rick Riordan,0,male,1964
+832,Ridley Pearson,0,male,1953
+833,Ridley Pearson,0,male,1953
+834,Roald Dahl,0,male,1916
+835,Rob Scotton,0,male,1960
+836,Robert Galbraith,0,female,1965
+837,Robert Graves,0,male,1895
+838,Robert Graves,0,male,1895
+839,Robert Grossbach,0,male,1941
+840,Robert Jordan,0,male,1948
+841,Robert Kinerk,0,male,null
+842,Robert Newton Peck,0,male,1928
+843,Roberta Grobel Intrater,0,female,null
+844,Robin Cook,0,male,1940
+845,Robin Cook,0,male,1940
+846,Robin McKinley,0,female,1952
+847,Robyn Carr,0,female,1951
+848,Robyn Carr,0,female,1951
+849,Roland Smith,0,male,1951
+850,Ronald J. Glasser,0,male,1939
+851,Ronald Squibb,0,male,null
+852,Ronald Steel,0,male,1931
+853,Ronald Wright,0,male,1948
+854,Ross Campbell,0,male,1936
+855,Ross Macdonald,0,male,1915
+856,Ross Macdonald,0,male,1915
+857,Ross Terrill,0,male,1938
+858,Roxane Gay,0,female,1974
+859,Russell Miller,0,male,1938
+860,Sallie Lowenstein,0,female,1949
+861,Sally Rippin,0,female,null
+862,Sally-Lloyd-Jones,0,female,1960
+863,Sam Swope,0,male,1954
+864,Samuel R. Chand,0,male,null
+865,Sandee Hathaway,0,female,1950
+866,Sandip Roy,0,male,null
+867,Sandra Boynton,0,female,1953
+868,Sandra Boynton,0,female,1953
+869,Sandra Brown,0,female,1948
+870,Sara Paretsky,0,female,1947
+871,Sara Zarr,0,female,1970
+872,Sarah Helm,0,female,1956
+873,Sarah Schulman,0,female,1958
+874,Saroo Brierley,0,male,1981
+875,Saul Bellow,0,male,1915
+876,Scala Publishers,1,null,null
+877,Scholastique Mukasonga,0,female,1956
+878,Scott Foresman,1,null,null
+879,Scott Foresman,1,null,null
+880,Scott Foresman,1,null,null
+881,Seanan McGuire,0,female,1978
+882,Shannon Hale,0,female,1974
+883,Shari–Lapeña,0,female,1960
+884,Sharon Creech,0,female,1945
+885,Sharon Nastick,0,female,null
+886,Sheldon Rampton,0,male,1957
+887,Sheri Amsel,0,female,1959
+888,Sherman Alexie,0,male,1966
+889,Sherrilyn Kenyon,0,female,1965
+890,Sherry Shahan,0,female,1949
+891,Sherwood Anderson,0,male,1876
+892,Shirley MacLaine,0,male,1934
+893,Sidney Sheldon,0,male,1917
+894,Sidney Sheldon,0,male,1917
+895,Sidney Sheldon,0,male,1917
+896,Sidney Sheldon,0,male,1917
+897,Simon Beecroft,0,male,null
+898,Simon Goldhill,0,male,1957
+899,Singer,1,null,null
+900,Sister Vera Gallagher,0,female,null
+901,Sneed B. Collard III,0,male,1959
+901,Steve Jenkins,0,male,1952
+902,Sonali Fry,0,female,null
+903,Sophie Boswell,0,female,1941
+904,Sophocles,0,male,0
+905,Spike Milligan,0,male,1918
+906,Erica Spindler,0,female,1957
+907,Sporting News,1,null,null
+908,Stan Berenstain,0,male,1923
+909,Stanley Crawford,0,male,1937
+910,Stanley Newman,0,male,1952
+911,Stef Penney,0,female,1969
+912,Stephanie Claire,0,female,null
+913,Stephanie Tolan,0,female,1942
+914,Stephanie Weeks,0,female,null
+915,Stephen Clarke,0,male,1958
+916,Stephen King,0,female,1947
+917,Stephen King,0,female,1947
+918,Stephenie Meyer,0,female,1973
+919,Steve Martini,0,male,1946
+920,Steven Tyler,0,male,null
+921,Stieg Larsson,0,male,1954
+922,Stieg Larsson,0,male,1954
+923,Stratemeyer Literary Syndicate,1,null,null
+924,Stuart M. Kaminsky,0,male,1934
+925,Stuart Shotwell,0,male,null
+926,Stuart Shotwell,0,male,null
+927,Stuart Woods,0,male,1938
+928,Sue Grafton,0,female,1940
+929,Sue Harrison,0,female,1950
+930,Sue Henry,0,female,1940
+931,Sue Stanton,0,female,1952
+932,Sunset Book Editors,1,null,null
+933,Sunset Books,1,null,null
+934,Susan Au,0,female,null
+935,Susan Hayward,0,female,1945
+936,Susan L Reynolds,0,female,null
+937,Susan Mallery,0,female,1970
+938,Susan Mallery,0,female,1970
+939,Susan Sly,0,female,null
+940,Suzanne Collins,0,female,1962
+941,Suzanne Francis,0,female,1959
+942,Suzanne Selfors,0,female,1963
+943,Suzanne Tate,0,female,1930
+944,Suzy Kline,0,female,1943
+945,Suzy Kline,0,female,1943
+946,Svetlana Alexievich,0,female,1948
+947,Swami Muktananda,0,male,1908
+948,Swami Prabhavananda,0,male,1893
+948,Christopher Isherwood,0,male,1904
+949,Tariq Ali,0,male,1943
+950,Taryn Souders,0,female,null
+951,Ted Dekker,0,male,1962
+952,Teddy Slater,0,female,null
+953,Terry Harknett,0,male,1936
+954,Tess Gerritsen,0,female,1953
+955,Tess Gerritsen,0,female,1953
+956,The Clever Factory,1,null,null
+957,The Editors of Eastman Kodak Company,1,null,null
+958,Thomas L. Friedman,0,male,1953
+959,Thomas Macri,0,male,null
+960,Thomas Mann,0,male,1875
+961,Thomas Nelson,1,null,null
+962,Thomas Orton,0,male,null
+963,Tim Federle,0,male,1980
+964,Tim Schenck,0,male,null
+965,Tim Wu,0,male,1972
+966,Todd Strasser,0,male,1950
+967,Tom Clancy,0,male,1947
+968,Tom Clancy,0,male,1947
+969,Tom Clancy,0,male,1947
+970,Tom Clancy,0,male,1947
+971,Tom McAllister,0,male,1982
+972,Tomie DePaola,0,male,1934
+973,Tori Haring-Smith,0,female,null
+974,Tosha Silver,0,female,null
+975,Tracey West,0,female,1965
+976,Trish Hart,0,female,1956
+977,Umberto Saba,0,male,1883
+978,unknown,1,null,null
+979,V. S. Naipaul,0,male,1932
+980,Valentine M. Moghadam,0,female,1952
+981,Valerie Tripp,0,female,1951
+982,Vera B Williams,0,female,1927
+983,Veronica Roth,0,female,1988
+984,Vicki Lansky,0,female,1942
+985,Vince Lombardi,0,male,1913
+986,Virginia Henley,0,female,1935
+987,Virginia Reynolds,0,female,null
+988,W. P. Kinsella,0,male,1935
+989,W. Somerset Maugham,0,male,1874
+990,W. Somerset Maugham,0,male,1874
+991,W.E.B. Griffin,0,male,1929
+992,Waldock,0,male,1898
+993,Wallace Stegner,0,male,1909
+994,Wally Lamb,0,male,1950
+995,Walter Farley,0,male,1915
+996,Walter M. Miller Jr.,0,male,1923
+997,Walter Wick,0,male,1953
+998,Ward Just,0,male,1935
+999,Watson-Guptill,1,null,null
+1000,Watty Piper,0,male,1888
+1001,Wendy Mass,0,female,1967
+1002,Wendy Mass,0,female,1967
+1003,Wendy R. Sherman,0,female,1949
+1004,Wilbur Smith,0,male,1933
+1005,William Joyce,0,male,1957
+1006,William L. Ury,0,male,1953
+1007,William Manchester,0,male,1922
+1008,William P. Young,0,male,1955
+1009,William Sears,0,male,1939
+1010,Yaa Gyasi,0,female,1989
+1011,Yanik Silver,0,male,null
+1012,Yann Martel,0,male,1963
+1013,Zane Grey,0,male,1872
